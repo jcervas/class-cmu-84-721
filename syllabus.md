@@ -97,11 +97,10 @@ Everyone will be reading from this core text:
 
 -----------------------------------------------------------------------
 
------------------------------------------------------------------------
+I have divided the class into 8 sections/topics, some of which are reflected in the required readings, and others which are only part of the optional readings. Unfortunately, we will not have enough time to cover all topics pertinent to American politics in full. You will find additional topics and recommended readings at the end of the syllabus. If these topics are of interest to you, I encourage you to select papers from those sections and present them to the class.
 
-> I have divided the class into 8 sections/topics, some of which are reflected in the required readings, and others which are only part of the optional readings. Unfortunately, we will not have enough time to cover all topics pertinent to American politics in full. You will find additional topics and recommended readings at the end of the syllabus. If these topics are of interest to you, I encourage you to select papers from those sections and present them to the class.
-> 
------------------------------------------------------------------------
+---
+
 
 ## Writing Assignments
 
@@ -152,11 +151,10 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 
 -----------------------------------------------------------------------
 
------------------------------------------------------------------------
 
-> Class will be organized under several general topics, ranging from theory and design of American democracy to polarization, identity formation, political communication, and others. The readings listed below are required. You are also expected to choose from the other reading list a series of articles throughout the semester, as detailed above.
+Class will be organized under several general topics, ranging from theory and design of American democracy to polarization, identity formation, political communication, and others. The readings listed below are required. You are also expected to choose from the other reading list a series of articles throughout the semester, as detailed above.
 
------------------------------------------------------------------------
+---
 
 ## Class Schedule
 
@@ -377,10 +375,7 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 - Tesler, M. (2015). Priming Predispositions and Changing Policy Positions: An Account of When Mass Opinion Is Primed or Changed. American Journal of Political Science, 59(4), 806--824. [Read Here](https://doi.org/10.1111/ajps.12157)
 - Tesler, M. (2012). The Spillover of Racialization into Health Care: How President Obama Polarized Public Opinion by Racial Attitudes and Race. American Journal of Political Science, 56(3), 690--704. [Read Here](https://doi.org/10.1111/j.1540-5907.2011.00577.x)
 
-
-
-
-    -   
+ 
 ## Political Participation
 
 - McDonald, M. P., & Popkin, S. L. (2001). The Myth of the Vanishing Voter. American Political Science Review, 95(4), 963--974. [Read Here](https://doi.org/10.1017/S0003055400400134)
@@ -580,12 +575,6 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 
         - Engstrom, E. J. (2013). Partisan Gerrymandering and the Construction of American Democracy. University of Michigan Press. [Read Here](https://doi.org/10.2307/j.ctt1gk086k)
 
-
-
-
-## Facial coverings:
-
-We will follow whatever protocol is provided by the university.
 
 ## Academic Integrity:
 
