@@ -152,9 +152,6 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 > Class will be organized under several general topics, ranging from theory and design of American democracy to polarization, identity formation, political communication, and others. The readings listed below are required. You are also expected to choose from the other reading list a series of articles throughout the semester, as detailed above.
 > -----------------------------------------------------------------------
 
-
-## Class Schedule
-
 ## Class Schedule
 
 - **Tuesday, August 29** - Introductions and discussion of the semester & syllabus
@@ -269,9 +266,6 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 - **Thursday, December 7** - We will continue to discuss Area Specialization Papers
   - No Readings
 
-
-
-
 ## Readings (Optional)
 
 ### American Democracy Theory and Design
@@ -322,7 +316,6 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 - Delli Carpini, M. x., & Keeter, S. (1997). *What Americans Know about Politics and Why It Matters*. Yale University Press.
 - Achen, C. H., & Bartels, L. M. (2016). *Democracy for Realists*. Princeton University Press.
 - Mason, L. (2018). *Uncivil Agreement: How Politics Became Our Identity*. University of Chicago Press.
-
 
 ## Party Identification and Polarization
 
