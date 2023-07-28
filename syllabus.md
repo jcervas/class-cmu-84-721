@@ -132,9 +132,11 @@ The purpose of this exercise is to help you find the key insights from the readi
 
 The specialization paper will help you build your skills in the areas of synthesizing works for a literature review, formulating research questions, and devising appropriate methodologies for answering those questions. This paper is a critical evaluation that explains the literature's strengths and weaknesses with respect to the goals and process of social scientific research and that charts their impact on subsequent research. Students may find it helpful to consult many published articles in preparing their papers. Any information taken from these sources must be cited appropriately and is used to augment students' own analysis. To create a literature review you need not read thoroughly every paper you cite, just well enough to make the connection between your through/story and their findings. Though I am asking you to produce a research design that proposes tests for one or several hypotheses, you will not need to conduct empirical analyses (though you certainly may, and I encourage you to, if possible). You should describe the data that would be necessary to evaluate your hypotheses. The paper you write in this class may be the basis of your master's thesis or other future publications. Formatting should be consistent throughout, though no style is required. You will, during the final week, give the class a presentation of your papers, summarizing the books and articles you have read. ~20 mins
 
-> -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 > Examples of deep dives topics include incumbency advantage in American elections, state legislative professionalization, polarization (mass and elite), economic inequality, racial resentment, election forecasting, women in politics, segregation and other spatial context issues, gerrymandering, policy diffusion, and so on. The amount of research done on American politics is infinite, so we cannot cover everything during the semester. This assignment allows us to dial into a topic you find most interesting.
-> -----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
 
 ## Readings
 
@@ -150,14 +152,18 @@ Readings will draw heavily from the *Annual Review of Political Science*, a jour
 
 My expectation is that you will "read" all the assigned articles, but I recognize that I have assigned quite a lot. You should minimally *skim* all the assigned readings. Learning good skimming skills is particularly important; arguably, the most important thing you can learn as a graduate student. Journal articles follow a very formulaic outline, which makes skimming easy. You will need to be sure to capture enough of the content to discuss the article with your peers. *Annual Review* articles are to be read more thoroughly since they cover a larger amount of literature than other types of one-issue articles.
 
-> -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 > Like American democracy itself, this syllabus is subject to amendment.
 > The process of amendment is as follows: (1) all students and the professor get one vote; (2) a simple majority of voters agree to a change; (3) a student's vote is weighted as 1/n where n=number of students and a professor has a vote weighted as n+1. All amendments will be announced publicly, and no student shall be injured by changes.
-> -----------------------------------------------------------------------
 
-> -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+
 > Class will be organized under several general topics, ranging from theory and design of American democracy to polarization, identity formation, political communication, and others. The readings listed below are required. You are also expected to choose from the other reading list a series of articles throughout the semester, as detailed above.
-> -----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
 
 ## Class Schedule
 
