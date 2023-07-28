@@ -10,19 +10,13 @@ Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)
 
 ## Course Schedule
 
-**First Day of Class:** August 28, 2023
-
-**Class Meetings:** Tuesdays and Thursdays, 2:00 PM - 3:20 PM EST
-
-**University Closed:** September 4, 2023
-
-**Fall Break:** October 16-20, 2023
-
-**Democracy Day (No Class):** November 7, 2023
-
-**Thanksgiving Break:** November 23-25, 2023
-
-**Last Day of Classes:** December 8, 2023
+**First Day of Class:** August 28, 2023  
+**Class Meetings:** Tuesdays and Thursdays, 2:00 PM - 3:20 PM EST  
+**University Closed:** September 4, 2023  
+**Fall Break:** October 16-20, 2023  
+**Democracy Day (No Class):** November 7, 2023  
+**Thanksgiving Break:** November 23-25, 2023  
+**Last Day of Classes:** December 8, 2023  
 
 ## Scope and Purpose
 
