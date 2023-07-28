@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
 
 Instructor: Prof. Jonathan Cervas  
