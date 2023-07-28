@@ -93,18 +93,22 @@ It is important that you discuss the readings with your fellow students (who ben
 
 Everyone will be reading from this core text:
 
-> **A Different Democracy** -- Taylor, Steven L., Matthew Soberg Shugart, Arend Lijphard, and Bernard Grofman. 2014. *A Different Democracy: American Government in a 31-Country Perspective*. Yale University Press. ([Purchase here](https://www.amazon.com/dp/B00O56PUVO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1))
+**A Different Democracy** -- Taylor, Steven L., Matthew Soberg Shugart, Arend Lijphard, and Bernard Grofman. 2014. *A Different Democracy: American Government in a 31-Country Perspective*. Yale University Press. ([Purchase here](https://www.amazon.com/dp/B00O56PUVO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1))
 
-> -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 > Everyone has an equal voice in this course.
 > When you disagree, challenge, or respond to the idea, not the person.
 > Nobody has a monopoly on opinion or time, and I will do my best to allow each of you to speak your mind and adjust the course accordingly so that everyone gets value from their time.
 > My main goal is to give you value, and I am open to changes that allow for that.
-> -----------------------------------------------------------------------
+> 
+-----------------------------------------------------------------------
 
-> -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 > I have divided the class into 8 sections/topics, some of which are reflected in the required readings, and others which are only part of the optional readings. Unfortunately, we will not have enough time to cover all topics pertinent to American politics in full. You will find additional topics and recommended readings at the end of the syllabus. If these topics are of interest to you, I encourage you to select papers from those sections and present them to the class.
-> -----------------------------------------------------------------------
+> 
+-----------------------------------------------------------------------
 
 ## Writing Assignments
 
