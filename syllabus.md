@@ -6,7 +6,6 @@ Location: PH 226A ([Find it here](https://www.cmu.edu/computing/services/teach-l
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
 Office Hours by appointment (arrange via email)  
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
-Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)  
 
 ## Course Schedule
 
