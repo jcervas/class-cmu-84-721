@@ -1,8 +1,12 @@
-# Advanced Topics in American Politics (84-421)
+# Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
 
-American Politics Graduate Seminar (84-721)
-Instructor: Dr. Jonathan Cervas - <cervas@cmu.edu>
-Location: PH 226A ([Find it here](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)
+Instructor: Prof. Jonathan Cervas  
+Email: <cervas@cmu.edu>  
+Location: PH 226A ([Find it here](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)  
+Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
+Office Hours by appointment (arrange via email)  
+[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
+Teaching Fellow: Wyatt Brooks (<wmbrooks@andrew.cmu.edu>)  
 
 ## Course Schedule
 
