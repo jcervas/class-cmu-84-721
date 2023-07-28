@@ -1,134 +1,90 @@
-Advanced Topics in American Politics (84-421)
+# Advanced Topics in American Politics (84-421)
 
-American Politics Graduate Seminar (84-721)
+**American Politics Graduate Seminar (84-721)**
 
 Instructor: Dr. Jonathan Cervas - <cervas@cmu.edu>
 
-Location: BH 237B ([Find it
-here](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/baker.html))
+Location: BH 237B ([Find it here](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/baker.html))
 
-Time: Tuesday and Thursday: 1:25-2:45 PM EST ([academic
-calendar](https://www.cmu.edu/hub/calendar/docs/2223-academic-calendar.pdf))
+Time: Tuesday and Thursday: 1:25-2:45 PM EST ([academic calendar](https://www.cmu.edu/hub/calendar/docs/2223-academic-calendar.pdf))
 
 Office Hours by appointment
 
-Download, add references, or comment on the [syllabus
-here](https://personalmicrosoftsoftware-my.sharepoint.com/:w:/g/personal/jcervas_personalmicrosoftsoftware_uci_edu/EZ0QwUN-Y0hHt0_036PlqxABQnIuB5Go7D-YR7S2j8FPAg?e=6IJVvJ)
+[Download the syllabus here](https://personalmicrosoftsoftware-my.sharepoint.com/:w:/g/personal/jcervas_personalmicrosoftsoftware_uci_edu/EZ0QwUN-Y0hHt0_036PlqxABQnIuB5Go7D-YR7S2j8FPAg?e=6IJVvJ)
 
-## Scope and Purpose: {#scope-and-purpose .jc-diss-table-head}
+## Scope and Purpose:
 
--   This course examines prominent classic and contemporary works in the
-    two major subfields in American politics, political institutions,
-    and political behavior.
+- This course examines prominent classic and contemporary works in the two major subfields in American politics, political institutions, and political behavior.
 
--   This seminar will address topics such as Congress, presidency,
-    bureaucracy, and courts, but also public opinion, elections,
-    campaigns, political parties, and the importance of geography,
-    wealth, ethnicity, gender, and religion in politics, among other
-    subjects.
+- This seminar will address topics such as Congress, presidency, bureaucracy, and courts, but also public opinion, elections, campaigns, political parties, and the importance of geography, wealth, ethnicity, gender, and religion in politics, among other subjects.
 
--   There will be an emphasis on analyzing and appraising the theory,
-    methodology, and contributions of the selected readings.
+- There will be an emphasis on analyzing and appraising the theory, methodology, and contributions of the selected readings.
 
--   This course will include advanced undergraduates as well as graduate
-    students.
+- This course will include advanced undergraduates as well as graduate students.
 
-## Course Objectives: {#course-objectives .jc-diss-table-head}
+## Course Objectives:
 
--   The purpose of this course is to introduce students to major themes
-    and some of the best scholarships from political science literature.
-    This course emphasizes breadth over depth.
+- The purpose of this course is to introduce students to major themes and some of the best scholarships from political science literature. This course emphasizes breadth over depth.
 
--   To facilitate discussion, it is important that you write as well as
-    read and think in advance about how the readings address the overall
-    topic for that session. I will infuse the course with empirical data
-    to better examine theoretical questions and to situate the course in
-    modern politics and current events.
+- To facilitate discussion, it is important that you write as well as read and think in advance about how the readings address the overall topic for that session. I will infuse the course with empirical data to better examine theoretical questions and to situate the course in modern politics and current events.
 
--   The two most important skills that introductory graduate students
-    need to master are the abilities to understand the development of
-    literature and the ability to write critically, succinctly, and
-    objectively about these literatures. To this end, the main writing
-    requirements for this course are papers that seek to help students
-    develop these skills. These papers are not summaries or personal
-    responses (thus, lines of thoughts and phrases such as \"I really
-    liked\...\", \"My feelings on the matter\...\" etc. are irrelevant
-    to these assignments).
+- The two most important skills that introductory graduate students need to master are the abilities to understand the development of literature and the ability to write critically, succinctly, and objectively about these literatures. To this end, the main writing requirements for this course are papers that seek to help students develop these skills. These papers are not summaries or personal responses (thus, lines of thoughts and phrases such as "I really liked...", "My feelings on the matter..." etc. are irrelevant to these assignments).
 
-## Important Dates (Assignments due by 11:59pm): {#important-dates-assignments-due-by-1159pm .jc-diss-table-head}
+## Important Dates (Assignments due by 11:59pm):
 
--   August 30 -- First day of class
+- August 28 -- First day of class
 
--   September 15 -- No class, professor at redistricting conference
+- September 4 -- University closed, no class
 
--   September 26 -- First Draft of op-ed due, circulated for comments
+- September 19 -- No class, professor at redistricting conference
 
--   September 30 -- Return peer review to your classmate
+- September 30 -- First Draft of op-ed due, circulated for comments
 
--   October 6 -- No class, professor at law conference
+- October 6 -- University closed, no class
 
--   October 7 -- Final Draft of op-ed due
+- October 7 -- Final Draft of op-ed due
 
--   October 18 & 20 -- Fall Break
+- October 16-20 -- Fall Break, no class
 
--   October 28 --Book review papers due; topic selection for area
-    specialization
+- October 28 -- Book review papers due; topic selection for area specialization
 
--   November 8 -- Election Day
+- November 7 -- Democracy Day, no class
 
--   November 24 -- Thanksgiving break, no class
+- November 23-25 -- Thanksgiving break, no class
 
--   December 4 -- Area Specialization Paper due
+- December 8 -- Last Day of class
 
--   December 6 & 8 -- Area Specialization presentations
+- December 21 -- Grades Due
 
--   December 9 -- Last Day of class
+## Course Requirements:
 
--   December 21 -- Grades Due
+- 10% -- Participation (includes attendance and contributions to conversation)
 
-## Course Requirements: {#course-requirements .jc-diss-table-head}
+- 30% -- Additional Reading Assignments
 
-> 10% -- Participation (includes attendance and contributions to
-> conversation)
->
-> 30% -- Additional Reading Assignments
->
-> 22% -- (*outlines -- 2% per week*)
->
-> 8% -- (*presentations*)
->
-> 25% -- Op-ed/Editorial/Blog
->
-> 5% -- (*first draft*)
->
-> 5% -- (*peer review*)
->
-> 15% -- (*final draft*)
->
-> 15% -- Book Review/Summary
->
-> 20% -- Area Specialization Paper
+- 22% -- (*outlines -- 2% per week*)
 
-## Participation: {#participation .jc-diss-table-head}
+- 8% -- (*presentations*)
 
-It is important that you discuss the readings with your fellow students
-(who benefit from hearing how others interpret the literature); you will
-also be expected to contribute to the overall knowledge of the class.
-Your perspective on the political world, the news media you consume, and
-your interpretation of both historical and contemporary politics are
-different than others, and I expect that you will share those. To this
-end, you will be encouraged to track presidential approval ratings,
-political polls, election forecast predictions, economic indicators
-(like unemployment), and other such data. Following current events will
-help facilitate discussion throughout the semester.
+- 25% -- Op-ed/Editorial/Blog
+
+- 5% -- (*first draft*)
+
+- 5% -- (*peer review*)
+
+- 15% -- (*final draft*)
+
+- 15% -- Book Review/Summary
+
+- 20% -- Area Specialization Paper
+
+## Participation:
+
+It is important that you discuss the readings with your fellow students (who benefit from hearing how others interpret the literature); you will also be expected to contribute to the overall knowledge of the class. Your perspective on the political world, the news media you consume, and your interpretation of both historical and contemporary politics are different than others, and I expect that you will share those. To this end, you will be encouraged to track presidential approval ratings, political polls, election forecast predictions, economic indicators (like unemployment), and other such data. Following current events will help facilitate discussion throughout the semester.
 
 Everyone will be reading from this core text:
 
-> **A Different Democracy** \-- Taylor, Steven L., Matthew Soberg
-> Shugart, Arend Lijphard, and Bernard Grofman. 2014. *A Different
-> Democracy: American Government in a 31-Country Perspective*. Yale
-> University Press. ([Purchase
-> here](https://www.amazon.com/dp/B00O56PUVO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1))
+**A Different Democracy** -- Taylor, Steven L., Matthew Soberg Shugart, Arend Lijphard, and Bernard Grofman. 2014. *A Different Democracy: American Government in a 31-Country Perspective*. Yale University Press. ([Purchase here](https://www.amazon.com/dp/B00O56PUVO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1))
 
   -----------------------------------------------------------------------
   Everyone has an equal voice in this course. When you disagree,
@@ -141,502 +97,50 @@ Everyone will be reading from this core text:
 
   -----------------------------------------------------------------------
 
-> I have divided the class into 8 sections/topics, some of which are
-> reflected in the required readings, and others which are only part of
-> the optional readings. Unfortunately, we will not have enough time to
-> cover all topics pertinent to American politics in full. You will find
-> additional topics and recommended readings at the end of the syllabus.
-> If these topics are of interest to you, I encourage you to select
-> papers from those sections and present them to the class.
-
-##  {#section .list-paragraph .jc-diss-table-head}
-
-## Writing assignments: {#writing-assignments .list-paragraph .jc-diss-table-head}
-
-\(1\) **Weekly additional reading**: Every week (starting week 2, Sept
-6), you are to select one paper from the list of optional readings at
-the end of this syllabus, or one not on the list but that fits the
-section we are currently focused on. You will read this paper and create
-an outline (a bullet point outline, literally) that tells us the thesis,
-findings, and conclusions. You may choose to write in prose (should not
-exceed one page, max), but it is not required. We will share these with
-the class for others to use when preparing their area specialization
-papers. My hope is, because you all have a variety of interests, that we
-will get significant variation on papers to cover most of those I have
-listed, or others you find interesting. That said, it is okay if several
-people read the same paper.
-
-The purpose of this exercise is to help you find the key insights from
-the readings, understand the empirical or intellectual contribution, and
-how it fits into the field more broadly. This is additionally helpful
-because it will allow for quick reference if you are writing a term
-paper on the subject. This is the equivalent of an annotated
-bibliography, but you can structure them in whatever way is most helpful
-for you. These are the notes you take while you read. I am not
-interested in grading grammar or spelling for this task. We will combine
-everyone's contribution in a shared, editable document, so each person
-has a summary of all articles assigned this quarter and can contribute
-additional insights.
-
-(1a) **Mini lecture**: On two occasions you will present one of these
-papers to the class; a mini "lecture." PowerPoints are not necessary,
-though you are welcome to use any additional presentation skills,
-including analyzing new data or sharing YouTube videos, PowerPoint, and
-other visual aids, if applicable. This is part of your participation
-grade, along with the reading assignment grade.
-
-\(2\) **Op-ed/Editorial/Blog:** prepare a short essay advocating for (or
-against) any social or political issue of your choosing (topics relating
-to American politics). The idea is that you will write something that
-can be submitted to a newspaper or internet blog. There is a strict
-1,250-word limit. Concise arguments made for a more general audience are
-the goal of this assignment; something your parents can read and
-understand. The use of data and visualizations is strongly encouraged
-and is not included in the word count. We will circulate drafts on
-September 26 to one other graduate student who will offer critiques
-and/or proof reading. On October 7 we will circulate all the final
-drafts. These will be the reading assignments for October 11.
-
-\(3\) **Book Review/Summary:** You are to choose one book of your choice
-of academic nature, regarding any subject on American politics. I have a
-wide selection of books you can choose from, or you can utilize the
-library to find a book. Your instructor will help you find something
-that is relevant to your interests along with being germane to the
-subjects in the course. In total, the book review should be no longer
-than 6-8 pages, double-spaced. It should tell the reader the subject of
-the book, what it did well, what it left out, and your own thoughts
-about its relevance or importance. You should choose a book that can
-help give insight into your area specialization paper.
-
-\(4\) **Area Specialization Paper:** In lieu of a final exam, you are to
-choose either one of the subjects we explore during the course or a
-topic of your choosing (see below) and do a literature review and
-develop one, or several, hypotheses. The professor can help you find
-relevant articles and provide strategies for conducting research. You
-will submit a 5-8 single-spaced page paper (not including references and
-title page) that does the following:
-
--   Synthesizes the contributions made by the assigned readings to
-    current scholarly understanding in the specific field area (e.g.,
-    campaigns and elections; mass or elite polarization; judicial
-    independence; gerrymandering)
-
--   Identifies one or two lingering questions raised by the readings and
-    explains specifically why those questions are important to
-    furthering our understanding of the field area
-
--   Outlines and discusses a research design with the potential to
-    answer the lingering question(s). Explain why the design is optimal
-    for addressing the question(s) and acknowledge limitations of the
-    design.
-
-The specialization paper will help you build your skills in the areas of
-synthesizing works for a literature review, formulating research
-questions, and devising appropriate methodologies for answering those
-questions. This paper is a critical evaluation that explains the
-literature\'s strengths and weaknesses with respect to the goals and
-process of social scientific research and that charts their impact on
-subsequent research. Students may find it helpful to consult many
-published articles in preparing their papers. Any information taken from
-these sources must be cited appropriately and is used to augment
-students' own analysis. To create a literature review you need not read
-thoroughly every paper you cite, just well enough to make the connection
-between your through/story and their findings. Though I am asking you to
-produce a research design that proposes tests for one or several
-hypotheses, you will not need to conduct empirical analyses (though you
-certainly may, and I encourage you to, if possible). You should describe
-the data that would be necessary to evaluate your hypotheses. The paper
-you write in this class may be the basis of your master's thesis or
-other future publications. Formatting should be consistent throughout,
-though no style is required. You will, during the final week, give the
-class a presentation of your papers, summarizing the books and articles
-you have read. \~20 mins
-
-  -----------------------------------------------------------------------
-  Examples of deep dives topics I incumbency advantage in American
-  elections, state legislative professionalization, polarization (mass
-  and elite), economic inequality, racial resentment, election
-  forecasting, women in politics, segregation and other spatial context
-  issues, gerrymandering, policy diffusion, and so on. The amount of
-  research done on American politics is infinite, so we cannot cover
-  everything during the semester. This assignment allows us to dial into
-  a topic you find most interesting.
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-## Readings: {#readings .jc-diss-table-head}
-
-The assigned readings present only a starting point for people looking
-to specialize in American politics. You should consult the instructors
-for recommendations of further essential readings beyond those assigned
-here. It is expected that every week you will have engage the readings
-closely and critically, and that you come to class prepared to
-participate in rigorous discussion of them. Specifically, you should be
-able to address the following upon reading each work.
-
--   What are the main themes of the work?
-
--   What are the main contributions of this work to our understanding of
-    politics?
-
--   What are the limitations of or areas for improvement for this work
-    (focusing on its theoretical argument, hypotheses, evidence,
-    analysis, interpretation of results, etc.)?
-
--   What did you not understand about this work?
+I have divided the class into 8 sections/topics, some of which are
+reflected in the required readings, and others which are only part of
+the optional readings. Unfortunately, we will not have enough time to
+cover all topics pertinent to American politics in full. You will find
+additional topics and recommended readings at the end of the syllabus.
+If these topics are of interest to you, I encourage you to select papers
+from those sections and present them to the class.
 
--   What next steps can you envision to effectively build on the major
-    contributions of this work?
-
-Readings will draw heavily from the *Annual Review of Political
-Science*, a journal that "covers significant developments in the field
-of Political Science." This allows you to get a considerable overview of
-the field, while not costing you any money!
+## Writing assignments:
 
-My expectation is that you will "read" all the assigned articles, but I
-recognize that I have assigned quite a lot. You should minimally *skim*
-all the assigned readings. Learning good skimming skills is particularly
-important; arguably, the most important thing you can learn as a
-graduate student. Journal articles follow a very formulaic outline,
-which makes skimming easy. You will need to be sure to capture enough of
-the content to discuss the article with your peers. *Annual Review*
-articles are to be read more thoroughly since they cover a larger amount
-of literature than other types of one-issue articles.
+1. **Weekly additional reading**: Each week, starting in week 3, you will be responsible for a short discussion about the 3rd paper (i.e. the paper for that week) that we are reading. This is essentially a summary paragraph and discussion question (the question should take up the bulk of the paper). You will submit this paper on Canvas.
 
-  -----------------------------------------------------------------------
-  Like American democracy itself, this syllabus is subject to amendment.
-  The process of amendment is as follows: (1) all students and the
-  professor get one vote; (2) a simple majority of voters agree to a
-  change; (2) a student's vote is weighted as 1/n where n=number of
-  students and a professor has a vote weighted as n+1. All amendments
-  will be announced publicly, and no student shall be injured by changes.
-  -----------------------------------------------------------------------
+2. **Op-Ed/Editorial/Blog**: Your assignment is to write an op-ed/editorial/blog of about 1000-1200 words (approximately 3-4 pages, double-spaced) to be published. I would like your op-ed to take a position on some topic related to American politics and to be based on your research. You will pick the topic and clear it with me. There will be an accompanying peer-review process to be explained in more detail later. You will submit the first draft of your op-ed on Canvas by the date listed above.
 
-  -----------------------------------------------------------------------
+3. **Book Review/Summary**: You will write a 1500-word (approximately 5-6 pages, double-spaced) paper summarizing and assessing one of the assigned books for this course. The review must include a brief overview of the book's main arguments, an evaluation of the book's strengths and weaknesses, and your overall assessment of its contribution to the study of American politics. I would like for you to focus your evaluation on the significance of the book's contribution and how it fits into broader debates in the field. You will submit this paper on Canvas by the date listed above.
 
-Class will be organized under several general topics, ranging from
-theory and design of American democracy to polarization, identity
-formation, political communication, and others. The readings listed
-below are required. You are also expected to choose from the other
-reading list a series of articles throughout the semester, as detailed
-above.
+4. **Area Specialization Paper**: This paper will be the longest and most research-intensive paper for this course. The paper should be 3500 words (approximately 14 pages, double-spaced) in length. The goal of this paper is to allow you to explore a subfield or a topic of American politics in more depth than we will have the opportunity to do so during the semester. More specific information on this paper will be provided later on in the semester. You will submit this paper on Canvas by the date listed above.
 
-**[Class Schedule:]{.smallcaps}**
+## Readings:
 
--   Tuesday, August 30
+Readings will be posted as pdfs on Canvas. There are 8 sections of this course, and each section is assigned 4-5 required readings, with additional suggested readings. The required readings cover all necessary information for the course. The suggested readings can be used as a supplement to the required readings or to delve deeper into a particular topic if you are interested.
 
-    -   Introductions and discussion of the semester & syllabus
+These are the required books:
 
-```{=html}
-<!-- -->
-```
--   **[American Democracy Theory and Design]{.smallcaps}**
+1. Taylor, Steven L., Matthew Soberg Shugart, Arend Lijphard, and Bernard Grofman. 2014. *A Different Democracy: American Government in a 31-Country Perspective*. Yale University Press. ([Purchase here](https://www.amazon.com/dp/B00O56PUVO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1))
 
-    -   September 1
+2. *The Gamble*, by John Sides and Lynn Vavreck ([Purchase here](https://www.amazon.com/dp/0691172633))
 
-        -   Fiorina, M. P. (2016). Is the US Experience Exceptional? In
-            *A Hoover Institution Essay on Contemporary American
-            Politics: Vol. Series 8*.
-            https://www.hoover.org/sites/default/files/research/docs/fiorina_is_the_us_experience_excep_8pdf.pdf
+3. *Wealthy and Wise*, by R. Michael Alvarez and Jonathan Nagler ([Purchase here](https://www.amazon.com/dp/022603946X))
 
-> Fiorina, M. P. (2016). A Historical Perspective. In *A Hoover
-> Institution Essay on Contemporary American Politics, Ser* (Vol. 9).
-> https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf
+4. *The Campaign*, by E. Schaffner, L. Young, and J. Johnson ([Purchase here](https://www.amazon.com/dp/0815737424))
 
--   September 6
+## Special Accommodations:
 
-    -   How democratic is the American Constitution? Dahl, R. A. (2003).
-        Yale University Press. ([digital
-        copy](http://polisci.uci.edu/~jcervas/papers/dahl2003.pdf)) -
-        Quick and dirty read
+If you have any special needs or accommodations, please let me know, and I will do my best to accommodate you.
 
--   September 8
+## Academic Integrity:
 
-    -   A Different Democracy (Preface, Chapter 1, 2, & 3)
+All students are expected to adhere to the university's academic integrity policy. Any violation of academic integrity, including plagiarism and cheating, will result in severe consequences.
 
--   September 13
+## Disclaimer:
 
-    -   A Different Democracy (Chapter 4, 5, & 6)
+The syllabus and schedule are subject to change. Any changes will be announced in class and/or through Canvas.
 
--   September 15 -- No class
-
-    -   A Different Democracy (Chapter 7, 8, 9, & 10)
-
-```{=html}
-<!-- -->
-```
--   **[Ideology, Attitudes, and Opinion]{.smallcaps}**
-    **[Formation]{.smallcaps}**
-
-    -   September 20
-
-        -   Converse, P. E. (2000). Assessing the Capacity of Mass
-            Electorates. *Annual Review of Political Science*, *3*(1),
-            331--353. <https://doi.org/10.1146/annurev.polisci.3.1.331>
-
-        -   Zaller, J. (2012). WHAT *NATURE AND ORIGINS* LEAVES OUT.
-            *Critical Review*, *24*(4), 569--642.
-            https://doi.org/10.1080/08913811.2012.807648
-
-    -   September 22
-
-        -   Hatemi, P. K., & McDermott, R. (2016). Give Me Attitudes.
-            *Annual Review of Political Science*, *19*(1), 331--350.
-            <https://doi.org/10.1146/annurev-polisci-103113-034929>
-
-        -   Carmines, E. G., & D'Amico, N. J. (2015). The New Look in
-            Political Ideology Research. *Annual Review of Political
-            Science*, *18*(1), 205--216.
-            https://doi.org/10.1146/annurev-polisci-060314-115422
-
-> *September 26 - First Drafts of op-ed/editorial/blog post due and
-> circulated*
-
--   **[Party Identification, Public Opinion]{.smallcaps}**
-
-    -   September 27
-
-        -   Canes-Wrone, B. (2015). From mass preferences to policy.
-            *Annual Review of Political Science*, *18*, 147--165.
-            https://doi.org/10.1146/annurev-polisci-050311-165552
-
-        -   Sears, D. O., & Funk, C. L. (1990). The limited effect of
-            economic self-interest on the political attitudes of the
-            mass public. *Journal of Behavioral Economics*, *19*(3),
-            247--271. <https://doi.org/10.1016/0090-5720(90)90030-B>
-
-    -   September 29
-
-        -   Dalton, R. J. (2016). Party Identification and Its
-            Implications. In Oxford Research Encyclopedia of Politics.
-            Oxford University Press.
-            <https://doi.org/10.1093/acrefore/9780190228637.013.72>
-
-        -   Dalton, R. J. (2020). The blinders of partisanship. In
-            Research handbook on political partisanship (pp. 74--88).
-
-> *October 3 -- Return op-ed to your classmates with feedback and
-> corrections*
-
--   October 4
-
-    -   Berinsky, A. J. (2017). Measuring Public Opinion with Surveys.
-        Annual Review of Political Science, 20(1), 309--329.
-        <https://doi.org/10.1146/annurev-polisci-101513-113724>
-
-    -   Laver, M. (2014). Measuring Policy Positions in Political Space.
-        *Annual Review of Political Science*, *17*(1), 207--223.
-        https://doi.org/10.1146/annurev-polisci-061413-041905
-
--   October 6
-
-    -   No class
-
--   October 11
-
-    -   Harris, F. C., & Rivera-Burgos, V. (2021). The Continuing
-        Dilemma of Race and Class in the Study of American Political
-        Behavior. *Annual Review of Political Science*, *24*(1),
-        175--191. https://doi.org/10.1146/annurev-polisci-050317-071219
-
-    -   Chong, D., & Druckman, J. N. (2007). Framing theory. In *Annual
-        Review of Political Science* (Vol. 10, pp. 103--126).
-        https://doi.org/10.1146/annurev.polisci.10.072805.103054
-
-```{=html}
-<!-- -->
-```
--   **[Political Parties]{.smallcaps}**
-
-    -   ~~Stokes, S. C. (1999). POLITICAL PARTIES AND DEMOCRACY. *Annual
-        Review of Political Science*, *2*(1), 243--267.
-        <https://doi.org/10.1146/annurev.polisci.2.1.243>~~
-
-    -   ~~Rae, N. G. (2007). Be Careful What You Wish For: The Rise of
-        Responsible Parties in American National Politics.
-        *Http://Dx.Doi.Org/10.1146/Annurev.Polisci.10.071105.100750*,
-        *10*, 169--191.
-        https://doi.org/10.1146/ANNUREV.POLISCI.10.071105.100750~~
-
-*October 13 - Op-ed/editorial/blog post final draft due*
-
--   October 13
-
-    -   McCarty, N., & Schickler, E. (2016). On the Theory of Parties.
-        *Https://Doi.Org/10.1146/Annurev-Polisci-061915-123020*, *21*,
-        175--193.
-
-    -   Muirhead, R., & Rosenblum, N. L. (2020). The Political Theory of
-        Parties and Partisanship: Catching Up. *Annual Review of
-        Political Science*, *23*(1), 95--110.
-        <https://doi.org/10.1146/annurev-polisci-041916-020727>
-
-*October 17 -- Topic selection for book review and area specialization
-due*
-
--   October 18 & 20 - **Mid-Semester Break, no class**
-
-```{=html}
-<!-- -->
-```
--   **[Political Polarization]{.smallcaps}**
-
-    -   October 25
-
-        -   Fiorina, M. P., & Abrams, S. J. (2008). Political
-            polarization in the American public. *Annual Review of
-            Political Science*, *11*, 563--588.
-
-        -   Fiorina, M. P. (2016). Has the American public polarized? A
-            Hoover Institution Essay on Contemporary American Politics,
-            Ser, 2.
-            <https://www.hoover.org/research/has-american-public-polarized>
-
-    -   October 27
-
-        -   Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., &
-            Westwood, S. J. (2019). The origins and consequences of
-            affective polarization in the United States. Annual Review
-            of Political Science, 22, 129--146.
-            <https://doi.org/10.1146/annurev-polisci-051117-073034>
-
-        -   Prior, Markus. 2013. "Media and Political Polarization."
-            *Annual Review of Political Science* 16(1): 101--27.
-            <http://www.annualreviews.org/doi/10.1146/annurev-polisci-100711-135242>.
-
-> *October 28 -- Book Review/Summary Due*
-
--   November 1
-
-    -   Lee, F. E. (2015). How Party Polarization Affects Governance.
-        *Annual Review of Political Science*, *18*(1), 261--282.
-        https://doi.org/10.1146/annurev-polisci-072012-113747
-
-    -   Abramowitz, A. I., & Webster, S. W. (2018). Negative
-        Partisanship: Why Americans Dislike Parties But Behave Like
-        Rabid Partisans. Political Psychology, 39(S1), 119--135.
-        <https://doi.org/10.1111/pops.12479>
-
-```{=html}
-<!-- -->
-```
--   **[Campaigns and Elections]{.smallcaps}**
-
-    -   November 3
-
-        -   Carson, J. L., & Jenkins, J. A. (2011). Examining the
-            electoral connection across time. *Annual Review of
-            Political Science*, *14*, 25--46.
-            https://doi.org/10.1146/ANNUREV-POLISCI-030310-221852
-
-        -   Binder, S. (2015). The Dysfunctional Congress. *Annual
-            Review of Political Science*, *18*(1), 85--101.
-            <https://doi.org/10.1146/annurev-polisci-110813-032156>
-
-        -   R~~iker, W. H., & Ordeshook, P. C. (1968). A Theory of the
-            Calculus of Voting. American Political Science Review,
-            62(1), 25--42. <https://doi.org/10.2307/1953324>~~
-
-    -   November 8
-
-        -   Jacobson, G. C. (2015). How Do Campaigns Matter? Annual
-            Review of Political Science, 18(1), 31--47.
-            https://doi.org/10.1146/annurev-polisci-072012-113556
-
-        -   Warshaw, C. (2019). Local Elections and Representation in
-            the United States.
-            *Https://Doi.Org/10.1146/Annurev-Polisci-050317-071108*,
-            *22*, 461--479.
-
-    -   November 10
-
-        -   Cain, B. E., & Levin, M. A. (1999). TERM LIMITS. *Annual
-            Review of Political Science*, *2*(1), 163--188.
-            https://doi.org/10.1146/annurev.polisci.2.1.163
-
-        -   Lawless, J. L. (2015). Female candidates and legislators.
-            *Annual Review of Political Science*, *18*, 349--366.
-            https://doi.org/10.1146/annurev-polisci-020614-094613
-
-    -   November 15
-
-        -   Gelman, A. (2007). Rich State, Poor State, Red State, Blue
-            State: What's the Matter with Connecticut? Quarterly Journal
-            of Political Science, 2(4), 345--367.
-            https://doi.org/10.1561/100.00006026
-
-        -   Stephens-Dougan, L. (2021). The Persistence of Racial Cues
-            and Appeals in American Elections.
-            *Https://Doi.Org/10.1146/Annurev-Polisci-082619-015522*,
-            *24*, 301--320.
-
--   **[Political Participation]{.smallcaps}**
-
-    -   November 17
-
-        -   Uhlaner, C. J. (2015). Politics and Participation. In
-            *International Encyclopedia of the Social & Behavioral
-            Sciences: Second Edition* (pp. 504--508). Elsevier Inc.
-            <https://doi.org/10.1016/B978-0-08-097086-8.93086-1>
-
-        -   Hooghe, M., Hosch-Dayican, B., & van Deth, J. W. (2014).
-            Conceptualizing political participation. *Acta Politica*,
-            *49*(3), 337--348. <https://doi.org/10.1057/ap.2014.7>
-
-    -   November 22
-
-        -   Putnam, R. D. (1995). Tuning In, Tuning Out: The Strange
-            Disappearance of Social Capital in America. PS: Political
-            Science and Politics, 28(4), 664.
-            <https://doi.org/10.2307/420517>
-
-        -   Brady, H. E., Verba, S., & Schlozman, K. L. (1995). Beyond
-            SES: A Resource Model of Political Participation. *American
-            Political Science Review*, *89*(2), 271--294.
-
-    -   November 24 -- Thanksgiving Day, no class
-
-    -   November 29 -- Jimmy Guest Lecture
-
-        -   Cox, G. W. (2015). Electoral Rules, Mobilization, and
-            Turnout. *Annual Review of Political Science*, *18*(1),
-            49--68.
-            <https://doi.org/10.1146/annurev-polisci-060414-035915>
-
--   **[Courts and Election Law]{.smallcaps}**
-
-    -   December 1
-
-        -   McGhee, E. (2020). Partisan Gerrymandering and Political
-            Science. *Annual Review of Political Science*, *23*(1),
-            171--185.
-            https://doi.org/10.1146/annurev-polisci-060118-045351
-
-        -   Hasen, R. L. (2020). The Supreme Court's Pro-Partisanship
-            Turn. *THE GEORGETOWN LAW JOURNAL*, *109*, 50--80.
-            <https://perma.cc/P4PH-DULH>\]
-
-        -   Hasen, R. L. (n.d.). *IDENTIFYING AND MINIMIZING THE RISK OF
-            ELECTION SUBVERSION AND STOLEN ELECTIONS IN THE CONTEMPORARY
-            UNITED STATES*. Retrieved August 8, 2022, from
-            http://time.com/4532679/donald-trump-election-rigged
-
-December 4 - *Area Specialization paper due*
-
--   December 6
-
-    -   Discuss area specialization papers
-
-    -   No Readings
-
--   December 9 - (Last Class)
-
-    -   No Readings
-
-    -   We will continue to discuss area specialization papers
-
-\-\--
 
 The readings below are optional, organized by section.
 
