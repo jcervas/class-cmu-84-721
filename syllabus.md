@@ -68,7 +68,7 @@ Office Hours by appointment (arrange via email)
 
 ## Syllabus
 
-Download, add references, or comment on the [syllabus here](https://personalmicrosoftsoftware-my.sharepoint.com/:w:/g/personal/jcervas_personalmicrosoftsoftware_uci_edu/EZ0QwUN-Y0hHt0_036PlqxABQnIuB5Go7D-YR7S2j8FPAg?e=6IJVvJ)
+Download the [syllabus here]() ADD LINK
 
 ## Course Requirements
 
@@ -93,11 +93,8 @@ Everyone will be reading from this core text:
 
 -----------------------------------------------------------------------
 
-> Everyone has an equal voice in this course.
-> When you disagree, challenge, or respond to the idea, not the person.
-> Nobody has a monopoly on opinion or time, and I will do my best to allow each of you to speak your mind and adjust the course accordingly so that everyone gets value from their time.
-> My main goal is to give you value, and I am open to changes that allow for that.
-> 
+> Everyone has an equal voice in this course. When you disagree, challenge, or respond to the idea, not the person. Nobody has a monopoly on opinion or time, and I will do my best to allow each of you to speak your mind and adjust the course accordingly so that everyone gets value from their time. My main goal is to give you value, and I am open to changes that allow for that.
+
 -----------------------------------------------------------------------
 
 -----------------------------------------------------------------------
