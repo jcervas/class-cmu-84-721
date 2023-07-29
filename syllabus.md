@@ -43,33 +43,33 @@ Office Hours by appointment (arrange via email)
 
 ## Important Dates (Assignments due by 11:59 pm)
 
-- August 30, 2023 -- First day of class
+- **August 30, 2023 (Tuesday)** -- First day of class
 
-- September 15, 2023 -- No class, professor at redistricting conference
+- **September 15, 2023 (Thursday)** -- No class, professor at redistricting conference
 
-- September 26, 2023 -- First Draft of op-ed due, circulated for comments
+- **September 26, 2023 (Tuesday)** -- First Draft of op-ed due, circulated for comments
 
-- September 30, 2023 -- Return peer review to your classmate
+- **September 30, 2023 (Thursday)** -- Return peer review to your classmate
 
-- October 6, 2023 -- No class, professor at law conference
+- **October 6, 2023 (Tuesday)** -- No class, professor at law conference
 
-- October 7, 2023 -- Final Draft of op-ed due
+- **October 7, 2023 (Thursday)** -- Final Draft of op-ed due
 
-- October 18 & 20, 2023 -- Fall Break
+- **October 18 & 20, 2023 (Tuesday & Thursday)** -- Fall Break
 
-- October 28, 2023 -- Book review papers due; topic selection for area specialization
+- **October 28, 2023 (Tuesday)** -- Book review papers due; topic selection for area specialization
 
-- November 8, 2023 -- Election Day
+- **November 8, 2023 (Tuesday)** -- Election Day
 
-- November 24, 2023 -- Thanksgiving break, no class
+- **November 24, 2023 (Thursday)** -- Thanksgiving break, no class
 
-- December 4, 2023 -- Area Specialization Paper due
+- **December 4, 2023 (Tuesday)** -- Area Specialization Paper due
 
-- December 6 & 8, 2023 -- Area Specialization presentations
+- **December 6 & 8, 2023 (Thursday & Tuesday)** -- Area Specialization presentations
 
-- December 9, 2023 -- Last Day of class
+- **December 9, 2023 (Thursday)** -- Last Day of class
 
-- December 21, 2023 -- Grades Due
+- **December 21, 2023 (Thursday)** -- Grades Due
 
 ## Syllabus
 
