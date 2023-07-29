@@ -17,10 +17,10 @@ Office Hours by appointment (arrange via email)
 |                                    |     |
 |------------------------------------|-----|
 | **Class Meetings:** | Tuesdays and Thursdays, 2:00 PM - 3:20 PM EST | 
-| **University Closed:** | September 4, 2023 | 
-| **Fall Break:** | October 16-20, 2023 | 
-| **Democracy Day (No Class):** | November 7, 2023 | 
-| **Thanksgiving Break:** | November 23-25, 2023 | 
+| **Labor Day (University Closed):** | September 4, 2023 | 
+| **Fall Break (University Closed):** | October 16-20, 2023 | 
+| **Democracy Day (University Closed until 5pm):** | November 7, 2023 | 
+| **Thanksgiving Break (University Closed):** | November 22-25, 2023 | 
 | **Last Day of Classes:** | December 8, 2023 | 
 
 ## Scope and Purpose
