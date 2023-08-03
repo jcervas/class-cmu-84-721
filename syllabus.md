@@ -251,6 +251,7 @@ Class will be organized under several general topics, ranging from theory and de
 ### Political Participation
 
 - **Tuesday, November 21**:
+  - Claire Willeck & Tali Mendelberg, Education and Political Participation, 25 Annual Review of Political Science 89–110 (2022)
   - Uhlaner, C. J. (2015). Politics and Participation. In *International Encyclopedia of the Social & Behavioral Sciences: Second Edition* (pp. 504--508). Elsevier Inc. [Read Here](https://doi.org/10.1016/B978-0-08-097086-8.93086-1)
   - Hooghe, M., Hosch-Dayican, B., & van Deth, J. W. (2014). Conceptualizing Political Participation. *Acta Politica*, *49*(3), 337--348. [Read Here](https://doi.org/10.1057/ap.2014.7)
 
