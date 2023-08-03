@@ -250,7 +250,7 @@ Class will be organized under several general topics, ranging from theory and de
 
 ### Political Participation
 **FIGURE OUT WHERE TO PUT THIS**
-Kay Lehman Schlozman et al., Unequal and Unrepresented (Princeton University Press) (2018) - Introduction & Unequal Voice in an Unequal Age + one substative chapter of your choice
+Kay Lehman Schlozman et al., Unequal and Unrepresented: Political Inequality and the People’s Voice in the New Gilded Age (Princeton University Press) (2018), https://www.jstor.org/stable/j.ctvc7772p - Introduction & Unequal Voice in an Unequal Age + one substative chapter of your choice
 
 - **Tuesday, November 21**:
   - Claire Willeck & Tali Mendelberg, Education and Political Participation, 25 Annual Review of Political Science 89–110 (2022)
