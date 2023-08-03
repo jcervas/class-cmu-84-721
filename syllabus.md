@@ -163,6 +163,8 @@ Class will be organized under several general topics, ranging from theory and de
 
 **ADD JUDICIARY SECTION**: Adam Bonica & Maya Sen, The Judicial Tug of War: How Lawyers, Politicians, and Ideological Incentives Shape the American Judiciary (Cambridge University Press) (2021)
 
+**Public Opinion Section**: James A. Stimson, Tides of Consent: How Public Opinion Shapes American Politics (Cambridge University Press 2nd edition) (2015)
+
 ## Class Schedule
 
 - **Tuesday, August 29** - Introductions and discussion of the semester & syllabus
