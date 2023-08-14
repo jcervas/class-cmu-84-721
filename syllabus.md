@@ -7,10 +7,10 @@ output:
 
 Instructor: Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
-Location: PH 226A: ([Find it here](<https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html>))  
+Location: PH 226A: (_[Find it here](<https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html>)_)  
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
 Office Hours by appointment (arrange via email)  
-[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
+_[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)_  
 
 ## Course Schedule
 
@@ -70,9 +70,9 @@ Download the [syllabus here]() ADD LINK
 - **Outlines (2% per week):** 22%
 - **Presentations:** 8%
 - **Op-ed/Editorial/Blog:**
-  - First Draft: 5%
-  - Peer Review: 5%
-  - Final Draft: 15%
+  + First Draft: 5%
+  + Peer Review: 5%
+  + Final Draft: 15%
 - **Book Review/Summary:** 15%
 - **Area Specialization Paper:** 20%
 
@@ -93,7 +93,6 @@ Everyone will be reading from this core text:
 I have divided the class into 8 sections/topics, some of which are reflected in the required readings, and others which are only part of the optional readings. Unfortunately, we will not have enough time to cover all topics pertinent to American politics in full. You will find additional topics and recommended readings at the end of the syllabus. If these topics are of interest to you, I encourage you to select papers from those sections and present them to the class.
 
 ---
-
 
 ## Writing Assignments
 
