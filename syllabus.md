@@ -43,29 +43,21 @@ Office Hours by appointment (arrange via email)
 
 ## Important Dates (Assignments due by 11:59 pm)
 
-- **August 30, 2023 (Tuesday)** -- First day of class
+| Date                        | Assignment                                     |
+|-----------------------------|------------------------------------------------|
+| August 30, 2023 (Tuesday)   | First day of class                            |
+| September 26, 2023 (Tuesday)| First Draft of op-ed due, circulated for comments |
+| September 30, 2023 (Thursday)| Return peer review to your classmate          |
+| October 7, 2023 (Thursday)   | Final Draft of op-ed due                      |
+| October 18 & 20, 2023       | Fall Break                                    |
+| October 28, 2023 (Tuesday)  | Book review papers due; topic selection for area specialization |
+| November 8, 2023 (Tuesday)  | Election Day, no class                       |
+| November 23, 2023 (Thursday)| Thanksgiving break, no class                 |
+| December 4, 2023 (Tuesday)   | Area Specialization Paper due                 |
+| December 5 & 7, 2023        | Area Specialization presentations            |
+| December 9, 2023 (Thursday) | Last Day of class                            |
+| December 20, 2023 (Thursday)| Grades Due (4:00 pm)                          |
 
-- **September 26, 2023 (Tuesday)** -- First Draft of op-ed due, circulated for comments
-
-- **September 30, 2023 (Thursday)** -- Return peer review to your classmate
-
-- **October 7, 2023 (Thursday)** -- Final Draft of op-ed due
-
-- **October 18 & 20, 2023 (Tuesday & Thursday)** -- Fall Break
-
-- **October 28, 2023 (Tuesday)** -- Book review papers due; topic selection for area specialization
-
-- **November 8, 2023 (Tuesday)** -- Election Day, no class
-
-- **November 23, 2023 (Thursday)** -- Thanksgiving break, no class
-
-- **December 4, 2023 (Tuesday)** -- Area Specialization Paper due
-
-- **December 5 & 7, 2023 (Thursday & Tuesday)** -- Area Specialization presentations
-
-- **December 9, 2023 (Thursday)** -- Last Day of class
-
-- **December 20, 2023 (Thursday)** -- Grades Due (4:00 pm)
 
 ## Syllabus
 
