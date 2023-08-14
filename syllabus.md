@@ -7,7 +7,7 @@ output:
 
 Instructor: Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
-Location: PH 226A Find it here:[](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)  
+Location: PH 226A: ([Find it here](<https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html>))  
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
 Office Hours by appointment (arrange via email)  
 [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)  
