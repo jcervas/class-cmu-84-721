@@ -5,7 +5,7 @@ output:
 ---
 # Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
 
-Instructor: Prof. Jonathan Cervas  
+Instructor: Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
 Location: PH 226A ([Find it here](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)  
 Time: Tuesdays and Thursdays 2:00p-3:20p Eastern  
@@ -20,14 +20,14 @@ Office Hours by appointment (arrange via email)
 | **Labor Day (University Closed):** | September 4, 2023 | 
 | **Fall Break (University Closed):** | October 16-20, 2023 | 
 | **Democracy Day (University Closed until 5pm):** | November 7, 2023 | 
-| **Thanksgiving Break (University Closed):** | November 22-25, 2023 | 
+| **Thanksgiving Break (University Closed):** | November 22-24, 2023 | 
 | **Last Day of Classes:** | December 8, 2023 | 
 
 ## Scope and Purpose
 
 - This course examines prominent classic and contemporary works in the two major subfields in American politics, political institutions, and political behavior.
 
-- The seminar will address topics such as Congress, presidency, bureaucracy, and courts, but also public opinion, elections, campaigns, political parties, and the importance of geography, wealth, ethnicity, gender, and religion in politics, among other subjects.
+- The seminar will address topics such as Congress, presidency, and courts, but also public opinion, elections, campaigns, political parties, and the importance of geography, wealth, race and ethnicity, and gender, among other subjects.
 
 - There will be an emphasis on analyzing and appraising the theory, methodology, and contributions of the selected readings.
 
@@ -45,13 +45,9 @@ Office Hours by appointment (arrange via email)
 
 - **August 30, 2023 (Tuesday)** -- First day of class
 
-- **September 15, 2023 (Thursday)** -- No class, professor at redistricting conference
-
 - **September 26, 2023 (Tuesday)** -- First Draft of op-ed due, circulated for comments
 
 - **September 30, 2023 (Thursday)** -- Return peer review to your classmate
-
-- **October 6, 2023 (Tuesday)** -- No class, professor at law conference
 
 - **October 7, 2023 (Thursday)** -- Final Draft of op-ed due
 
@@ -59,17 +55,17 @@ Office Hours by appointment (arrange via email)
 
 - **October 28, 2023 (Tuesday)** -- Book review papers due; topic selection for area specialization
 
-- **November 8, 2023 (Tuesday)** -- Election Day
+- **November 8, 2023 (Tuesday)** -- Election Day, no class
 
-- **November 24, 2023 (Thursday)** -- Thanksgiving break, no class
+- **November 23, 2023 (Thursday)** -- Thanksgiving break, no class
 
 - **December 4, 2023 (Tuesday)** -- Area Specialization Paper due
 
-- **December 6 & 8, 2023 (Thursday & Tuesday)** -- Area Specialization presentations
+- **December 5 & 7, 2023 (Thursday & Tuesday)** -- Area Specialization presentations
 
 - **December 9, 2023 (Thursday)** -- Last Day of class
 
-- **December 21, 2023 (Thursday)** -- Grades Due
+- **December 20, 2023 (Thursday)** -- Grades Due (4:00 pm)
 
 ## Syllabus
 
@@ -165,13 +161,26 @@ Class will be organized under several general topics, ranging from theory and de
 
 **Public Opinion Section**: James A. Stimson, Tides of Consent: How Public Opinion Shapes American Politics (Cambridge University Press 2nd edition) (2015)
 
+
+What is public opinion? Where does it come from? 
+
+
+Kinder and Kalmoe, Neither liberal nor conservative, chs. 1 and 2; Provides an excellent overview of Converse’s argument and subsequent debate
+Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summary of axioms on page 58, pages 74-75, 91-96, 113-114, figure 7.4 (p. 143), figure 8.2 (p. 156).
+
+“Time for a Change.” https://www.tandfonline.com/doi/epdf/10.1080/08913811.2018.1470859?needAccess=true&role=button (Accessed August 13, 2023).
+
+
 ## Class Schedule
+
 
 - **Tuesday, August 29** - Introductions and discussion of the semester & syllabus
 
 ### American Democracy Theory and Design
 
 - **Thursday, August 31**:
+  + Smith, Rogers M. 1993. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” The American Political Science Review 87(3): 549–566. https://www.jstor.org/stable/2938735 (Accessed August 13, 2023).
+
   - Fiorina, M. P. (2016). Is the US Experience Exceptional? In *A Hoover Institution Essay on Contemporary American Politics: Vol. Series 8*. [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_is_the_us_experience_excep_8pdf.pdf)
   - Fiorina, M. P. (2016). A Historical Perspective. In *A Hoover Institution Essay on Contemporary American Politics, Ser* (Vol. 9). [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf)
 
@@ -613,7 +622,7 @@ Counseling and Psychological Services has partnered with TimelyCare to offer vir
 
 [TimelyCare FAQs](https://www.cmu.edu/wellbeing/resources/timely-care.html#faq)
 
-**[Food Insecurity:]{.smallcaps}**
+**[Food Insecurity:]**
 
 If you are worried about affording food or feeling insecure about food, there are resources on campus that can help. Email the CMU Food Pantry Coordinator to schedule an appointment:
 
