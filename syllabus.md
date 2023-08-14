@@ -161,6 +161,19 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 
 “Time for a Change.” https://www.tandfonline.com/doi/epdf/10.1080/08913811.2018.1470859?needAccess=true&role=button (Accessed August 13, 2023).
 
+### Representation
+
+- Fenichel Pitkin, Hanna. 1967. The Concept of Representation. University of California Press. https://www.degruyter.com/document/doi/10.1525/9780520340503/html (Accessed August 14, 2023).
+
+### Election Law
+
+- Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67: 61.
+
+
+### Elections and Campaigns
+
+- Gelman, Andrew, Sharad Goel, Douglas Rivers, and David Rothschild. 2016. “The Mythical Swing Voter.” Quarterly Journal of Political Science 11(1): 103–130. http://www.nowpublishers.com/article/Details/QJPS-15031.
+
 
 ## Class Schedule
 
