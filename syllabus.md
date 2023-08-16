@@ -150,13 +150,15 @@ Class will be organized under several general topics, ranging from theory and de
 
 **ADD JUDICIARY SECTION**: Adam Bonica & Maya Sen, The Judicial Tug of War: How Lawyers, Politicians, and Ideological Incentives Shape the American Judiciary (Cambridge University Press) (2021)
 
-**Public Opinion Section**: James A. Stimson, Tides of Consent: How Public Opinion Shapes American Politics (Cambridge University Press 2nd edition) (2015)
+### Public Opinion
+
+- James A. Stimson, Tides of Consent: How Public Opinion Shapes American Politics (Cambridge University Press 2nd edition) (2015)
 
 
 What is public opinion? Where does it come from? 
 
 
-Kinder and Kalmoe, Neither liberal nor conservative, chs. 1 and 2; Provides an excellent overview of Converse’s argument and subsequent debate
+- Kinder and Kalmoe, Neither liberal nor conservative, chs. 1 and 2; Provides an excellent overview of Converse’s argument and subsequent debate
 Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summary of axioms on page 58, pages 74-75, 91-96, 113-114, figure 7.4 (p. 143), figure 8.2 (p. 156).
 
 “Time for a Change.” https://www.tandfonline.com/doi/epdf/10.1080/08913811.2018.1470859?needAccess=true&role=button (Accessed August 13, 2023).
@@ -173,6 +175,24 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 ### Elections and Campaigns
 
 - Gelman, Andrew, Sharad Goel, Douglas Rivers, and David Rothschild. 2016. “The Mythical Swing Voter.” Quarterly Journal of Political Science 11(1): 103–130. http://www.nowpublishers.com/article/Details/QJPS-15031.
+- Lipsitz, Keena. 2018. “Playing with Emotions: The Effect of Moral Appeals in Elite Rhetoric.” Political Behavior 40(1): 57–78. http://link.springer.com/10.1007/s11109-017-9394-8 (Accessed August 15, 2023).
+- Lipsitz, K. 2011. Competitive Elections and the American Voter. University of Pennsylvania Press, Incorporated. https://books.google.com/books?id=rJ8s5RFA_akC.
+- 
+
+### Class in America
+
+- Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. https://www.journals.uchicago.edu/doi/10.1086/722347 (Accessed August 15, 2023).
+
+### Race and Ethnicity
+
+- Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187 (Accessed August 13, 2023).
+- Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19 (Accessed August 14, 2023).
+
+
+### Judiciary
+- Bonica, Adam, and Maya Sen. 2021. The Judicial Tug of War: How Lawyers, Politicians, and Ideological Incentives Shape the American Judiciary. New York: Cambridge University Press.
+
+
 
 
 ## Class Schedule
