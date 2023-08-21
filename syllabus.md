@@ -294,17 +294,38 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 - 8. How Political Sophistication Shapes Responses to Elite Polarization
 - 9. The Implications of Our Polarized Politics
 
+- Kinder, Donald R., and Nathan P. Kalmoe. 2017. Neither Liberal nor Conservative: Ideological Innocence in the American Public. Chicago, UNITED STATES: University of Chicago Press. (EVERYONE)
+  + Converse’s Claim
+  + The Great Debate
+  + Meaning and Measurement of Ideological Identification
+  + Becoming Ideological
+  + In the Long Run
+  + Consequences?
+  + Findings and Implications
+
+- Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press. https://www.cambridge.org/core/books/white-identity-politics/5C330931FF4CF246FCA043AB14F5C626.
+  + 1. The New American Minority (EVERYONE)
+  + 2. Making the Invisible Visible
+  + 3. The Measurement and Meaning of Group Ties
+  + 4. Who Identifies as White?
+  + 5. The Content and Contours of Whiteness
+  + 6. The Preservation of Whiteness
+  + 7. Policies that Protect the Group
+  + 8. A Black Man in the White House
+  + 9. The Future of White America (EVERYONE)
+
+
+
 
 
 ## Class Schedule
-
 
 - **Tuesday, August 29** - Introductions and discussion of the semester & syllabus
 
 ### American Democracy Theory and Design
 
 - **Thursday, August 31**:
-  + Smith, Rogers M. 1993. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” The American Political Science Review 87(3): 549–566. https://www.jstor.org/stable/2938735 (Accessed August 13, 2023).
+  + Smith, Rogers M. 1993. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” The American Political Science Review 87(3): 549–566. https://www.jstor.org/stable/2938735.
 
   - Fiorina, M. P. (2016). Is the US Experience Exceptional? In *A Hoover Institution Essay on Contemporary American Politics: Vol. Series 8*. [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_is_the_us_experience_excep_8pdf.pdf)
   - Fiorina, M. P. (2016). A Historical Perspective. In *A Hoover Institution Essay on Contemporary American Politics, Ser* (Vol. 9). [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf)
