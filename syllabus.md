@@ -197,6 +197,7 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 
 - Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187.
 - Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19.
+- Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538.
 
 -AVIDIT ACHARYA et al., Deep Roots (Princeton University Press) (2018).
   + 1 Introduction
