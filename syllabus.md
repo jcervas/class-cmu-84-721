@@ -165,7 +165,17 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 
 ### Representation
 
-- Fenichel Pitkin, Hanna. 1967. The Concept of Representation. University of California Press. https://www.degruyter.com/document/doi/10.1525/9780520340503/html (Accessed August 14, 2023).
+- Fenichel Pitkin, Hanna. 1967. The Concept of Representation. University of California Press. https://www.degruyter.com/document/doi/10.1525/9780520340503/html.
+  + Introduction (EVERYONE)
+  + The Problem of Thomas Hobbes
+  + Formalistic Views of Representation
+  + "Standing For": Descriptive Representation
+  + "Standing For": Symbolic Representation
+  + Representing as "Acting For": The Analogies
+  + The Mandate-Independence Controversy
+  + Representing Unattached Interests: Burke
+  + Representing People Who Have Interests: Liberalism
+  + Political Representation (EVERYONE)
 
 ### Election Law
 
@@ -181,17 +191,108 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 
 ### Class in America
 
-- Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. https://www.journals.uchicago.edu/doi/10.1086/722347 (Accessed August 15, 2023).
+- Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. https://www.journals.uchicago.edu/doi/10.1086/722347.
 
 ### Race and Ethnicity
 
-- Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187 (Accessed August 13, 2023).
-- Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19 (Accessed August 14, 2023).
+- Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187.
+- Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19.
 
 
 ### Judiciary
-- Bonica, Adam, and Maya Sen. 2021. The Judicial Tug of War: How Lawyers, Politicians, and Ideological Incentives Shape the American Judiciary. New York: Cambridge University Press.
 
+- Bonica, Adam, and Maya Sen. 2021. The Judicial Tug of War: How Lawyers, Politicians, and Ideological Incentives Shape the American Judiciary. New York: Cambridge University Press.
+  + Introduction: The Tug of War Over the American Judiciary Summary of Our Argument (EVERYONE)
+  + The “American Aristocracy”
+  + The Bar, Self-Regulation, and Judicial Capture
+  + Politicians, Their Interests, and the Judicial Tug-of-War
+  + Political Incentives and Politicization in the Federal Courts
+  + Politicization in the States and Across Judicial Selection Mechanisms
+  + The Politics of Judicial Reform
+  + The Tug of War, Polarization, and Judicial Conflict
+  + Conclusion: American Courts in Times of Increasing Polarization (EVERYONE)
+
+
+### State Politics
+
+- Kousser, Thad. 2004. Term Limits and the Dismantling of State Legislative Professionalism. Cambridge: Cambridge University Press.
+  + The Many Designs Of American State Legislatures, Introduction, Narratives of Change in Six States (EVERYONE)
+  + The Stability of Leadership: How Long Does “First among Equals” Last?
+  + The Role of Committees: Independent Actors or Agents?
+  + Patterns in Legislative Achievement
+  + Bargaining between the Legislative and Executive Branches
+  + The Production of Policy Innovation
+  + Conclusions
+  + Epilogue: Adaptations to Term Limits (EVERYONE)
+
+### Electoral Systems
+
+- Shugart, M.S., and R. Taagepera. 2017. Votes from Seats: Logical Models of Electoral Systems. Cambridge University Press. (EVERYONE)
+  + Introduction: How Electoral Systems Matter – for Politics and for the Scientific Study Thereof
+  + Components of Simple Electoral Systems
+  + Components of Complex and Composite Electoral Systems
+  + Conclusion: Substance and Method
+
+### Participation
+
+- Unequal and Unrepresented
+  + 1. Introduction
+  + 2. What Do We Mean by Political Voice? Does Equal Voice Matter?
+  + 3. The Roots of Citizen Participation: The Civic Voluntarism Model
+  + 4. Who Exercises Political Voice?
+  + 5. The Noisy and the Silent: Divergent Preferences and Needs
+  + 6. Do Digital Technologies Make a Difference?
+  + 7. Social Movements and Ordinary Recruitment
+  + 8. Who Sings in the Heavenly Chorus? The Shape of the Organized Interest System (with Philip E. Jones)
+  + 9. Representing Interests through Organizational Activity (with Philip E. Jones)
+  + 10. Growing Economic Inequality and Its (Partially) Political Roots
+  + 11. Has It Always Been This Way?
+  + 12. Can We Do Anything about It?
+  + 13. Unequal Voice in an Unequal Age
+
+
+
+- THE MACRO POLITY
+  + A Model of the Macro Polity (EVERYONE)
+  + Presidential Approval
+  + Expectations and Political Response: The Character of Intelligence of the American Electorate
+  + Macropartisanship: The Permanent Memory of Party Performance
+  + Decomposing Partisan Change
+  + Public Opinion
+  + Elections
+  + Public Opinion and Policy Making
+  + A Governing System: Laws and Public Opinion
+  + Part III American Politics as a System (EVERYONE)
+    * American Macro Politics: A System Model
+    * The Macro Polity and Democratic Performance
+    
+- Stimson, James A. 2015. Tides of Consent: How Public Opinion Shapes American Politics. 2nd edition. New York, NY: Cambridge University Press.
+  + Opinion Flows
+  + What the Public Wants of Government
+  + Left and Right Movements in Preference
+  + The Great Horse Race: Finding Meaning in Presidential Campaigns
+  + Between the Campaigns: Public Approval and Disapproval of Government
+  + On Politics at the Margin
+
+- Hopkins, David A. 2017. Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics. 1st ed. Cambridge University Press.
+  + A Nation Votes, Ohio Decides
+  + Solid States: The Regional Bases of the American Parties
+  + The Geographic Roots of Party Strength and Cohesion
+  + Mapping the Cultural Battlefield: How Social Issues Fuel the Regional Divide
+  + Regional Polarization and Partisan Change in the U.S. Congress
+  + Rural Red, Big-City Blue, and the Pivotal Purple Midwest
+  + A Locked-Up Nation
+
+- Zingher, Joshua N. 2022. Political choice in a polarized America : how elite polarization shapes mass behavior. New York, NY: Oxford University Press.
+- 1. America the Polarized
+- 2. Mass Opinion in Context—How Elite Polarization Has Shaped Political Behavior
+- 3. Elite Polarization and Americans’ Perceptions of the Political Parties
+- 4. Measuring Policy Orientations and Political Sophistication
+- 5. A Test of the Recursive Relationship between Policy Orientations and Partisanship
+- 6. The Relationships between Policy Orientations, Partisanship, and Vote Choice
+- 7. A Test of How Elite Polarization Shapes Mass Political Behavior
+- 8. How Political Sophistication Shapes Responses to Elite Polarization
+- 9. The Implications of Our Polarized Politics
 
 
 
