@@ -198,6 +198,20 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 - Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187.
 - Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19.
 
+-AVIDIT ACHARYA et al., Deep Roots (Princeton University Press) (2018).
+  + 1 Introduction
+  + 2 A Theory of Behavioral Path Dependence
+  + 3 How Slavery Predicts White Political Attitudes Today
+  + 4 An Alternative Account: Contemporary Demographics and Racial Threat
+  + 5 Antebellum Politics of Slavery and Race in the South
+  + 6 Emancipation as a Critical Juncture and the Timing of Divergence
+  + 7 Persistence and the Mechanisms of Reproduction
+  + 8 Interventions and Attenuation
+  + Conclusion: What Lessons Can We Draw from Southern Slavery?
+
+
+
+
 
 ### Judiciary
 
