@@ -192,25 +192,34 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 ### Class in America
 
 - Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. https://www.journals.uchicago.edu/doi/10.1086/722347.
+- Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. https://doi.org/10.1146/annurev-polisci-051921-102505.
+- Gilens, Martin, Shawn Patterson, and Pavielle Haines. 2021. “Campaign Finance Regulations and Public Policy.” American Political Science Review 115(3): 1074–1081. https://www.cambridge.org/core/journals/american-political-science-review/article/campaign-finance-regulations-and-public-policy/B739B3AB64C90AE652CEE2FF6911883F (Accessed August 21, 2023).
+
 
 ### Race and Ethnicity
 
 - Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187.
 - Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19.
 - Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538.
+- Balfour, Lawrie. 2023. “The Politics of Reparations for Black Americans.” Annual Review of Political Science 26(1): 291–304. https://doi.org/10.1146/annurev-polisci-062521-090002
+- Jardina, Ashley, and Spencer Piston. 2023. “The Politics of Racist Dehumanization in the United States.” Annual Review of Political Science 26(1): 369–388. https://doi.org/10.1146/annurev-polisci-062321-041446 (Accessed August 22, 2023).
+- Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. https://www.pnas.org/doi/abs/10.1073/pnas.2307714120.
+- Jefferson, Hakeem et al. 2023. “Beyond the Ballot Box: A Conversation About Democracy and Policing in the United States.” Annual Review of Political Science 26(1): 1–32. https://doi.org/10.1146/annurev-polisci-060722-103142 (Accessed August 22, 2023).
 
--AVIDIT ACHARYA et al., Deep Roots (Princeton University Press) (2018).
-  + 1 Introduction
-  + 2 A Theory of Behavioral Path Dependence
-  + 3 How Slavery Predicts White Political Attitudes Today
-  + 4 An Alternative Account: Contemporary Demographics and Racial Threat
-  + 5 Antebellum Politics of Slavery and Race in the South
-  + 6 Emancipation as a Critical Juncture and the Timing of Divergence
-  + 7 Persistence and the Mechanisms of Reproduction
-  + 8 Interventions and Attenuation
+
+
+
+
+- Avidit Acharya et al., Deep Roots (Princeton University Press) (2018).
+  + 1. Introduction
+  + 2. A Theory of Behavioral Path Dependence
+  + 3. How Slavery Predicts White Political Attitudes Today
+  + 4. An Alternative Account: Contemporary Demographics and Racial Threat
+  + 5. Antebellum Politics of Slavery and Race in the South
+  + 6. Emancipation as a Critical Juncture and the Timing of Divergence
+  + 7. Persistence and the Mechanisms of Reproduction
+  + 8. Interventions and Attenuation
   + Conclusion: What Lessons Can We Draw from Southern Slavery?
-
-
 
 
 
@@ -250,7 +259,11 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 
 ### Participation
 
-- Unequal and Unrepresented
+- Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. https://doi.org/10.1146/annurev-polisci-051120-014235.
+
+
+
+- Schlozman, Kay Lehman, Henry E. Brady, and Sidney Verba. 2018. Unequal and Unrepresented: Political Inequality and the People’s Voice in the New Gilded Age. Princeton University Press.
   + 1. Introduction
   + 2. What Do We Mean by Political Voice? Does Equal Voice Matter?
   + 3. The Roots of Citizen Participation: The Civic Voluntarism Model
@@ -318,7 +331,7 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
   + Consequences?
   + Findings and Implications
 
-- Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press. https://www.cambridge.org/core/books/white-identity-politics/5C330931FF4CF246FCA043AB14F5C626.
+- Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.
   + 1. The New American Minority (EVERYONE)
   + 2. Making the Invisible Visible
   + 3. The Measurement and Meaning of Group Ties
@@ -330,7 +343,15 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
   + 9. The Future of White America (EVERYONE)
 
 - Grumbach, Jacob. 2022. Laboratories against Democracy Laboratories against Democracy: How National Parties Transformed State Politics. Princeton University Press.
-  + 
+  + 1. Introduction (EVERYONE)
+  + 2. The Mythos of American Federalism
+  + 3. From Backwaters to Battlegrounds
+  + 4. Who Governs the State-Level Resurgence?
+  + 5. National Activists in State Politics
+  + 6. Partisan Laboratories of Democracy
+  + 7. Laboratories of Democratic Backsliding
+  + 8. Explaining Dynamics in Subnational Democracy
+  + 9. Conclusion (EVERYONE)
 
 
 
