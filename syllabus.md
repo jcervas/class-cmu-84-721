@@ -207,6 +207,9 @@ Zaller, Nature and origins, Chs. 2, 3, 4, 7. Carefully review pages 53-54, summa
 - Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. https://www.pnas.org/doi/abs/10.1073/pnas.2307714120.
 - Jefferson, Hakeem et al. 2023. “Beyond the Ballot Box: A Conversation About Democracy and Policing in the United States.” Annual Review of Political Science 26(1): 1–32. https://doi.org/10.1146/annurev-polisci-060722-103142 (Accessed August 22, 2023).
 
+- Kalmoe, Nathan P., and Lilliana Mason. 2022. Radical American Partisanship: Mapping Violent Hostility, Its Causes, and the Consequences for Democracy. University of Chicago Press. https://www.bibliovault.org/BV.landing.epl?ISBN=9780226820279 (Accessed August 23, 2023).
+
+Caughey, Devin, and Christopher Warshaw. 2022. Dynamic Democracy: Public Opinion, Elections, and Policymaking in the American States. University of Chicago Press.
 
 
 
