@@ -43,7 +43,8 @@ _[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)_
 
 - The two most important skills that introductory graduate students need to master are the abilities to understand the development of literature and the ability to write critically, succinctly, and objectively about these literatures. To this end, the main writing requirements for this course are papers that seek to help students develop these skills. These papers are not summaries or personal responses (thus, lines of thoughts and phrases such as "I really liked...", "My feelings on the matter..." etc. are irrelevant to these assignments).
 
-## Important Dates (Assignments due by 11:59 pm)
+## Important Dates 
+(Assignments due by 11:59 pm)
 
 | Date                        | Assignment                                     |
 |-----------------------------|------------------------------------------------|
