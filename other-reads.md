@@ -84,7 +84,6 @@
   + Stimson, J. A., Mackuen, M. B., & Erikson, R. S. (1995). Dynamic Representation. American Political Science Review, 89(3), 543--565. [Read Here](https://doi.org/10.2307/2082973)
   + Tufte, E. R. (1973). The Relationship between Seats and Votes in Two-Party Systems. American Political Science Review, 67(2), 540--554. [Read Here](https://doi.org/10.2307/1958782)
   + Rehfeld, Andrew. 2009. "Representation Rethought: On Trustees, Delegates, and Gyroscopes in the Study of Political Representation and Democracy." *American Political Science Review* 103(2): 214--30.
-  + Erikson, R. S. (2015). Income Inequality and Policy Responsiveness. Annual Review of Political Science, 18(1), 11--29. [Read Here](https://doi.org/10.1146/annurev-polisci-020614-094706)
   + Gilens, M. (2005). Inequality and Democratic Responsiveness. Public Opinion Quarterly, 69(5), 778--796. [Read Here](https://doi.org/10.1093/poq/nfi058)
   + Mansbridge, J. (1999). Should Blacks Represent Blacks and Women Represent Women? A Contingent "Yes." The Journal of Politics, 61(3), 628--657. [Read Here](https://doi.org/10.2307/2647821)
   + Broockman, David E. 2014. "Distorted Communication, Unequal Representation: Constituents Communicate Less to Representatives Not of Their Race." *American Journal of Political Science* 58(2): 307--21.
