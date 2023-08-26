@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 # Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
-## BETA VERSION (v. August 25, 2023)
+## BETA VERSION (v. August 26, 2023)
 
 Instructor: Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
@@ -159,7 +159,8 @@ Class will be organized under several general topics, ranging from theory and de
 - **Thursday, August 31**: 
   + **Choose dates for presentations**
   + Smith, Rogers M. 1993. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” The American Political Science Review 87(3): 549–566. (EVERYONE)
-  + Fiorina, M. P. (2016). A Historical Perspective. In *A Hoover Institution Essay on Contemporary American Politics, Ser* (Vol. 9). (EVERYONE)
+  + Fiorina, Morris P. “A Historical Perspective.” [Read Me](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf)
+ (EVERYONE)
 
 - **Tuesday, September 5**:
   + A Different Democracy 
