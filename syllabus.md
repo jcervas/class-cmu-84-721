@@ -186,9 +186,11 @@ Class will be organized under several general topics, ranging from theory and de
 
 - **Thursday, September 14**:
   + Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. [Read Me](https://doi.org/10.1146/annurev-polisci-051921-102505) (EVERYONE)
+  + Erikson, R. S. (2015). Income Inequality and Policy Responsiveness. Annual Review of Political Science, 18(1), 11--29. [Read Here](https://doi.org/10.1146/annurev-polisci-020614-094706) (EVERYONE)
   + Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. (STUDENT)
-  + Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. (STUDENT)
+  + Gelman, Andrew. 2007. “Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?” Quarterly Journal of Political Science 2(4): 345–367. [Read Me](http://www.nowpublishers.com/article/Details/QJPS-6026) (STUDENT)
   + Gilens, Martin, Shawn Patterson, and Pavielle Haines. 2021. “Campaign Finance Regulations and Public Policy.” American Political Science Review 115(3): 1074–1081. (STUDENT)
+  + Trounstine, Jessica. 2016. “Segregation and Inequality in Public Goods.” American Journal of Political Science 60(3): 709–725. [Read Here](https://doi.org/10.1111/ajps.12227) (STUDENT)
 
 ### Party Identification, Ideology, Attitudes, and Opinion Formation
 
@@ -299,7 +301,6 @@ Class will be organized under several general topics, ranging from theory and de
   + Jacobson, Gary C. 2015. “How Do Campaigns Matter?” Annual Review of Political Science 18(1): 31–47. [Read Here](https://doi.org/10.1146/annurev-polisci-072012-113556) (EVERYONE)
   + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Here][https://doi.org/10.1146/annurev-polisci-051120-014235] (STUDENT)
   + Warshaw, Christopher. 2019. “Local Elections and Representation in the United States.” Annual Review of Political Science 22(1): 461–479. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050317-071108) (STUDENT)
-  + Gelman, Andrew. 2007. “Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?” Quarterly Journal of Political Science 2(4): 345–367. [Read Me](http://www.nowpublishers.com/article/Details/QJPS-6026) (STUDENT)
   + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Me](https://doi.org/10.1146/annurev-polisci-051120-014235.) (STUDENT)
 
 - **Tuesday, November 14**:
