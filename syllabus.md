@@ -426,3 +426,4 @@ In general, submitting assignments on time lets me provide feedback in a more ti
 
 ## Other Readings (Optional)
 
+<https://github.com/jcervas/class-cmu-84-721/blob/main/other-reads.md>
