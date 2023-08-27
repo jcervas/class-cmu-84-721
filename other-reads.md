@@ -145,13 +145,11 @@
   + GERBER, A. S., GIMPEL, J. G., GREEN, D. P., & SHAW, D. R. (2011). How Large and Long-lasting Are the Persuasive Effects of Televised Campaign Ads? Results from a Randomized Field Experiment. American Political Science Review, 105(1), 135--150. [Read Here](https://doi.org/10.1017/S000305541000047X)
   + Uhlaner, C. J. (1989). Rational Turnout: The Neglected Role of Groups. American Journal of Political Science, 33(2), 390. [Read Here](https://doi.org/10.2307/2111153)
   + Bartels, L. M. (1996). Uninformed Votes: Information Effects in Presidential Elections. American Journal of Political Science, 40(1), 194. [Read Here](https://doi.org/10.2307/2111700)
-  + Green, D P, and A S Gerber. 2019. *Get Out the Vote: How to Increase Voter Turnout*. Brookings Institution Press. [Read Here](https://books.google.com/books?id=lPlyDwAAQBAJ)
   + Kinder, D. R., & Kiewiet, D. R. (1981). Sociotropic Politics: The American Case. British Journal of Political Science, 11(2), 129--161. [Read Here](https://doi.org/10.1017/S0007123400002544)
   + Kalla, Joshua L., and David E. Broockman. 2018. "The Minimal Persuasive Effects of Campaign Contact in General Elections: Evidence from 49 Field Experiments." *American Political Science Review* 112(1): 148--66.
   + Fiorina, M. P. (2017). The 2016 Presidential Election --- Identities, Class, and Culture. Hoover Institution. [Read Here](https://www.hoover.org/research/2016-presidential-election-identities-class-and-culture)
   + Key, V.O. 1955. "A Theory of Critical Elections." Journal of Politics, XVII: 3-18.
   + Lipsitz, K., Trost, C., Grossmann, M., & Sides, J. (2005). What Voters Want From Political Campaign Communication. *Political Communication*, *22*(3), 337--354. [Read Here](https://doi.org/10.1080/10584600591006609)
-  + Green, Donald P. et al. 2016. "The effects of lawn signs on vote outcomes: Results from four randomized field experiments." Electoral Studies 41: 143--150.
   + Gelman, Andrew, Sharad Goel, Douglas Rivers, and David Rothschild. 2016. “The Mythical Swing Voter.” Quarterly Journal of Political Science 11(1): 103–130. http://www.nowpublishers.com/article/Details/QJPS-15031.
   + Stephens-Dougan, L. (2021). The Persistence of Racial Cues and Appeals in American Elections. *Https://Doi.Org/10.1146/Annurev-Polisci-082619-015522*, *24*, 301--320.
 
@@ -166,7 +164,8 @@
   + Dahl, R. A. (1971). *Polyarchy: Participation and Opposition*. Yale University Press.
   + Dalton, R. J. (2020). *The Good Citizen How a Younger Generation Is Reshaping American Politics*. CQ Press.
   + Grumbach, J. M. (2022). *Laboratories against Democracy: How National Parties Transformed State Politics*.
-  + Lipsitz, K. 2011. Competitive Elections and the American Voter. University of Pennsylvania Press, Incorporated. https://books.google.com/books?id=rJ8s5RFA_akC
+  + Lipsitz, K. 2011. Competitive Elections and the American Voter. University of Pennsylvania Press, Incorporated.
+  + Green, D P, and A S Gerber. 2019. Get Out the Vote: How to Increase Voter Turnout. Brookings Institution Press.
 
 ### Collective Action
   + Lupia, Arthur, and Gisela Sin. 2003. "Which Public Goods Are Endangered." Public Choice: 315--31. [Read Here](http://link.springer.com/10.1023/B:PUCH.0000003735.07840.c7)
