@@ -195,7 +195,7 @@ Class will be organized under several general topics, ranging from theory and de
 ### Party Identification, Ideology, Attitudes, and Opinion Formation
 
 - **Tuesday, September 19**:
-  + **_Topic Selection for Book Review Due_**
+  + **Book Selection for Book Review Due_**
   + Kinder, Donald R., and Nathan P. Kalmoe. 2017. Neither Liberal nor Conservative: Ideological Innocence in the American Public. Chicago: University of Chicago Press.
     * Introduction: Innocent of Ideology? (EVERYONE)
     * Chapter 1. Converse’s Claim (EVERYONE)
