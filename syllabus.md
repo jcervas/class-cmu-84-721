@@ -301,13 +301,14 @@ Class will be organized under several general topics, ranging from theory and de
   + **_Democracy Day, no class_**
 
 - **Thursday, November 9**:
-  + Carson, Jamie L., and Jeffery A. Jenkins. 2011. “Examining the Electoral Connection Across Time.” Annual Review of Political Science 14(1): 25–46. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-030310-221852) (EVERYONE)
+  + Green, Donald P. et al. 2016. “The effects of lawn signs on vote outcomes: Results from four randomized field experiments.” Electoral Studies 41: 143–150. [Read Here](https://linkinghub.elsevier.com/retrieve/pii/S0261379415002310) (EVERYBODY)
   + Jacobson, Gary C. 2015. “How Do Campaigns Matter?” Annual Review of Political Science 18(1): 31–47. [Read Here](https://doi.org/10.1146/annurev-polisci-072012-113556) (EVERYONE)
-  + Key, Jr., V.O. 1955. “A Theory of Critical Elections.” The Journal of Politics 17(1): 3–18. [Read Here](https://www.journals.uchicago.edu/doi/10.2307/2126401)
+  + Key, Jr., V.O. 1955. “A Theory of Critical Elections.” The Journal of Politics 17(1): 3–18. [Read Here](https://www.journals.uchicago.edu/doi/10.2307/2126401) (EVERYONE)
   + Warshaw, Christopher. 2019. “Local Elections and Representation in the United States.” Annual Review of Political Science 22(1): 461–479. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050317-071108) (STUDENT)
   + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Here](https://doi.org/10.1146/annurev-polisci-051120-014235.) (STUDENT)
 
 - **Tuesday, November 14**:
+  + Carson, Jamie L., and Jeffery A. Jenkins. 2011. “Examining the Electoral Connection Across Time.” Annual Review of Political Science 14(1): 25–46. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-030310-221852) (EVERYONE)
   + Caughey, Devin, and Christopher Warshaw. 2022. Dynamic Democracy: Public Opinion, Elections, and Policymaking in the American States. University of Chicago Press.
     * Chapter 1. Introduction (EVERYONE)
     * Chapter 2. Measurement: Public Opinion and State Policy (STUDENT)
@@ -317,12 +318,12 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 6. Elections: Selection, Incentives, and Feedback (STUDENT)
 
 - **Thursday, November 16**:
-Caughey and Warshaw, Dynamic Democracy
-  * Chapter 7. Responsiveness: The Public’s Influence on State Policies (STUDENT)
-  * Chapter 8. Proximity: The Match between Preferences and Policies (STUDENT)
-  * Chapter 9. Deficits: Gaps in American Democracy (STUDENT)
-  * Chapter 10. Reforms: Improving American Democracy (EVERYONE)
-  * Chapter 11. Conclusion (EVERYONE)
+  + Caughey and Warshaw, Dynamic Democracy
+    * Chapter 7. Responsiveness: The Public’s Influence on State Policies (STUDENT)
+    * Chapter 8. Proximity: The Match between Preferences and Policies (STUDENT)
+    * Chapter 9. Deficits: Gaps in American Democracy (STUDENT)
+    * Chapter 10. Reforms: Improving American Democracy (EVERYONE)
+    * Chapter 11. Conclusion (EVERYONE)
 
 - **Tuesday, November 21**:
   + **_Book Review Final Draft Due_**
