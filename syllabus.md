@@ -51,7 +51,7 @@ _[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)_
 | September 19, 2023 (Tuesday)| Book Review Selection due                      |
 | September 26, 2023 (Tuesday)| First Draft of op-ed due, circulated for comments |
 | October 1, 2023 (Sunday)    | Return peer review to your classmate           |
-| October 7, 2023 (Thursday)  | Final Draft of op-ed due                       |
+| October 8, 2023 (Sunday)    | Final Draft of op-ed due                       |
 | October 18 & 20, 2023       | Fall Break                                     |
 | October 28, 2023 (Tuesday)  | Book review papers due; topic selection for area specialization |
 | November 7, 2023 (Tuesday)  | Election Day, no class                         |
@@ -103,7 +103,7 @@ The purpose of this exercise is to help you find the key insights from the readi
 You will present your paper to the class; a mini "lecture". PowerPoints are not necessary, though you are welcome to use any additional presentation skills, including analyzing new data or sharing YouTube videos, PowerPoint, and other visual aids, if applicable. This is part of your participation grade, along with the reading assignment grade. You should be sure to tell us everything we need to know to understand the main premise of the paper, with the expectation that we will not have read these papers beforehand (and may or may not know much about the literature it cites). You will only have to present roughly _five_ times, since we will have duplicate students doing each reading. You should also be prepared to answer questions and have discussion questions for the class, when applicable.
 
 **(2) Op-ed/Editorial/Blog**:
-Prepare a short essay advocating for (or against) any social or political issue of your choosing (topics relating to American politics). The idea is that you will write something that can be submitted to a newspaper or internet blog. There is a strict 1,250-word limit. Concise arguments made for a more general audience are the goal of this assignment; something your parents can read and understand. The use of data and visualizations is strongly encouraged and is not included in the word count. We will circulate drafts on September 26 to one other graduate student who will offer critiques and/or proofreading. On October 7, all final drafts will be due. We can share all the drafts with the rest of the class.
+Prepare a short essay advocating for (or against) any social or political issue of your choosing (topics relating to American politics). The idea is that you will write something that can be submitted to a newspaper or internet blog. There is a strict 1,250-word limit. Concise arguments made for a more general audience are the goal of this assignment; something your parents can read and understand. The use of data and visualizations is strongly encouraged and is not included in the word count. We will circulate drafts on September 26 to one other graduate student who will offer critiques and/or proofreading. On October 8, all final drafts will be due. We can share all the drafts with the rest of the class.
 
 **(3) Book Review/Summary**:
 You are to choose one book of your choice of academic nature, regarding any subject on American politics. I have a wide selection of books you can choose from, or you can utilize the library to find a book. Your instructor will help you find something that is relevant to your interests along with being germane to the subjects in the course. In total, the book review should be no longer than 6-8 pages, double-spaced. It should tell the reader the subject of the book, what it did well, what it left out, and your own thoughts about its relevance or importance. You may choose a book that can help give insight into your area specialization paper.
@@ -243,6 +243,9 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 7. A Test of How Elite Polarization Shapes Mass Political Behavior (STUDENT)
     * Chapter 8. How Political Sophistication Shapes Responses to Elite Polarization (STUDENT)
     * Chapter 9. The Implications of Our Polarized Politics (EVERYONE)
+
+- **Saturday, October 8**:
+  + **_Final Drafts of Op-Ed/Editorial/Blog Post Due_**
 
 - **Tuesday, October 10**:
   + Hopkins, David A. 2017. Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics. 1st ed. Cambridge University Press.
