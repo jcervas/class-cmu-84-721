@@ -217,14 +217,15 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 5. In the Long Run (STUDENT)
     * Chapter 6. Consequences? (STUDENT)
     * Chapter 7. Findings and Implications (EVERYONE)
-  + Converse, P. E. (2000). Assessing the Capacity of Mass Electorates. *Annual Review of Political Science*, *3*(1), 331--353. (EVERYONE)
-  + Zaller, J. (2012). What *Nature and Origins* Leaves Out. *Critical Review*, *24*(4), 569--642. (EVERYONE)
+  + Converse, Philip E. 2000. “Assessing the Capacity of Mass Electorates.” Annual Review of Political Science 3(1): 331–353. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev.polisci.3.1.331)
+ (EVERYONE)
+  + Zaller, John. 2012. “WHAT NATURE AND ORIGINS LEAVES OUT.” Critical Review 24(4): 569–642. [Read Me](http://www.tandfonline.com/doi/abs/10.1080/08913811.2012.807648) (EVERYONE)
 
 - **Thursday, September 28**:
-  + Canes-Wrone, B. (2015). From Mass Preferences to Policy. *Annual Review of Political Science*, *18*, 147--165. (STUDENT)
-  + Sears, D. O., & Funk, C. L. (1990). The Limited Effect of Economic Self-Interest on the Political Attitudes of the Mass Public. *Journal of Behavioral Economics*, *19*(3), 247--271. (STUDENT)
-  + Hatemi, P. K., & McDermott, R. (2016). Give Me Attitudes. *Annual Review of Political Science*, *19*(1), 331--350. (EVERYONE)
-  + Carmines, E. G., & D'Amico, N. J. (2015). The New Look in Political Ideology Research. *Annual Review of Political Science*, *18*(1), 205--216. (EVERYONE)
+  + Canes-Wrone, Brandice. 2015. “From Mass Preferences to Policy.” Annual Review of Political Science 18(1): 147–165. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050311-165552) (STUDENT)
+  + Sears, David O., and Carolyn L. Funk. 1990. “The limited effect of economic self-interest on the political attitudes of the mass public.” Journal of Behavioral Economics 19(3): 247–271. [Read Me](https://linkinghub.elsevier.com/retrieve/pii/009057209090030B) (STUDENT)
+  + Hatemi, Peter K., and Rose McDermott. 2016. “Give Me Attitudes.” Annual Review of Political Science 19(1): 331–350. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-103113-034929) (EVERYONE)
+  + Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The New Look in Political Ideology Research.” Annual Review of Political Science 18(1): 205–216. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422) (EVERYONE)
 
 ### Political Polarization
 
