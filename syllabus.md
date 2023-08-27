@@ -159,7 +159,7 @@ Class will be organized under several general topics, ranging from theory and de
 - **Thursday, August 31**: 
   + **Choose dates for presentations**
   + Smith, Rogers M. 1993. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” The American Political Science Review 87(3): 549–566. (EVERYONE)
-  + Fiorina, Morris P. “A Historical Perspective.” [Read Me](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf)
+  + Fiorina, Morris P. “A Historical Perspective.” [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf)
  (EVERYONE)
 
 - **Tuesday, September 5**:
@@ -185,10 +185,10 @@ Class will be organized under several general topics, ranging from theory and de
 ### Class and Economics
 
 - **Thursday, September 14**:
-  + Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. [Read Me](https://doi.org/10.1146/annurev-polisci-051921-102505) (EVERYONE)
+  + Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. [Read Here](https://doi.org/10.1146/annurev-polisci-051921-102505) (EVERYONE)
   + Erikson, R. S. (2015). Income Inequality and Policy Responsiveness. Annual Review of Political Science, 18(1), 11--29. [Read Here](https://doi.org/10.1146/annurev-polisci-020614-094706) (EVERYONE)
   + Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. (STUDENT)
-  + Gelman, Andrew. 2007. “Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?” Quarterly Journal of Political Science 2(4): 345–367. [Read Me](http://www.nowpublishers.com/article/Details/QJPS-6026) (STUDENT)
+  + Gelman, Andrew. 2007. “Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?” Quarterly Journal of Political Science 2(4): 345–367. [Read Here](http://www.nowpublishers.com/article/Details/QJPS-6026) (STUDENT)
   + Gilens, Martin, Shawn Patterson, and Pavielle Haines. 2021. “Campaign Finance Regulations and Public Policy.” American Political Science Review 115(3): 1074–1081. (STUDENT)
   + Trounstine, Jessica. 2016. “Segregation and Inequality in Public Goods.” American Journal of Political Science 60(3): 709–725. [Read Here](https://doi.org/10.1111/ajps.12227) (STUDENT)
 
@@ -217,15 +217,15 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 5. In the Long Run (STUDENT)
     * Chapter 6. Consequences? (STUDENT)
     * Chapter 7. Findings and Implications (EVERYONE)
-  + Converse, Philip E. 2000. “Assessing the Capacity of Mass Electorates.” Annual Review of Political Science 3(1): 331–353. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev.polisci.3.1.331)
+  + Converse, Philip E. 2000. “Assessing the Capacity of Mass Electorates.” Annual Review of Political Science 3(1): 331–353. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev.polisci.3.1.331)
  (EVERYONE)
-  + Zaller, John. 2012. “WHAT NATURE AND ORIGINS LEAVES OUT.” Critical Review 24(4): 569–642. [Read Me](http://www.tandfonline.com/doi/abs/10.1080/08913811.2012.807648) (EVERYONE)
+  + Zaller, John. 2012. “WHAT NATURE AND ORIGINS LEAVES OUT.” Critical Review 24(4): 569–642. [Read Here](http://www.tandfonline.com/doi/abs/10.1080/08913811.2012.807648) (EVERYONE)
 
 - **Thursday, September 28**:
-  + Canes-Wrone, Brandice. 2015. “From Mass Preferences to Policy.” Annual Review of Political Science 18(1): 147–165. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050311-165552) (STUDENT)
-  + Sears, David O., and Carolyn L. Funk. 1990. “The limited effect of economic self-interest on the political attitudes of the mass public.” Journal of Behavioral Economics 19(3): 247–271. [Read Me](https://linkinghub.elsevier.com/retrieve/pii/009057209090030B) (STUDENT)
-  + Hatemi, Peter K., and Rose McDermott. 2016. “Give Me Attitudes.” Annual Review of Political Science 19(1): 331–350. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-103113-034929) (EVERYONE)
-  + Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The New Look in Political Ideology Research.” Annual Review of Political Science 18(1): 205–216. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422) (EVERYONE)
+  + Canes-Wrone, Brandice. 2015. “From Mass Preferences to Policy.” Annual Review of Political Science 18(1): 147–165. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050311-165552) (STUDENT)
+  + Sears, David O., and Carolyn L. Funk. 1990. “The limited effect of economic self-interest on the political attitudes of the mass public.” Journal of Behavioral Economics 19(3): 247–271. [Read Here](https://linkinghub.elsevier.com/retrieve/pii/009057209090030B) (STUDENT)
+  + Hatemi, Peter K., and Rose McDermott. 2016. “Give Me Attitudes.” Annual Review of Political Science 19(1): 331–350. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-103113-034929) (EVERYONE)
+  + Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The New Look in Political Ideology Research.” Annual Review of Political Science 18(1): 205–216. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422) (EVERYONE)
 
 ### Political Polarization
 
@@ -303,9 +303,9 @@ Class will be organized under several general topics, ranging from theory and de
 - **Thursday, November 9**:
   + Carson, Jamie L., and Jeffery A. Jenkins. 2011. “Examining the Electoral Connection Across Time.” Annual Review of Political Science 14(1): 25–46. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-030310-221852) (EVERYONE)
   + Jacobson, Gary C. 2015. “How Do Campaigns Matter?” Annual Review of Political Science 18(1): 31–47. [Read Here](https://doi.org/10.1146/annurev-polisci-072012-113556) (EVERYONE)
-  + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Here][https://doi.org/10.1146/annurev-polisci-051120-014235] (STUDENT)
+  + Key, Jr., V.O. 1955. “A Theory of Critical Elections.” The Journal of Politics 17(1): 3–18. [Read Here](https://www.journals.uchicago.edu/doi/10.2307/2126401)
   + Warshaw, Christopher. 2019. “Local Elections and Representation in the United States.” Annual Review of Political Science 22(1): 461–479. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050317-071108) (STUDENT)
-  + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Me](https://doi.org/10.1146/annurev-polisci-051120-014235.) (STUDENT)
+  + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Here](https://doi.org/10.1146/annurev-polisci-051120-014235.) (STUDENT)
 
 - **Tuesday, November 14**:
   + Caughey, Devin, and Christopher Warshaw. 2022. Dynamic Democracy: Public Opinion, Elections, and Policymaking in the American States. University of Chicago Press.
@@ -363,21 +363,21 @@ Caughey and Warshaw, Dynamic Democracy
     * Chapter 9. Conclusion (EVERYONE)
 
 - **Tuesday, December 5**:
-  + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Me](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (EVERYONE)
-  + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Me](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (EVERYONE)
-  + Balfour, Lawrie. 2023. “The Politics of Reparations for Black Americans.” Annual Review of Political Science 26(1): 291–304. [Read Me](https://doi.org/10.1146/annurev-polisci-062521-090002) (STUDENT)
-  + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (STUDENT)
-  + Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. [Read Me](https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19)
-  + Jardina, Ashley, and Spencer Piston. 2023. “The Politics of Racist Dehumanization in the United States.” Annual Review of Political Science 26(1): 369–388. [Read Me](https://doi.org/10.1146/annurev-polisci-062321-041446) (STUDENT)
+  + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (EVERYONE)
+  + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (EVERYONE)
+  + Balfour, Lawrie. 2023. “The Politics of Reparations for Black Americans.” Annual Review of Political Science 26(1): 291–304. [Read Here](https://doi.org/10.1146/annurev-polisci-062521-090002) (STUDENT)
+  + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (STUDENT)
+  + Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. [Read Here](https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19)
+  + Jardina, Ashley, and Spencer Piston. 2023. “The Politics of Racist Dehumanization in the United States.” Annual Review of Political Science 26(1): 369–388. [Read Here](https://doi.org/10.1146/annurev-polisci-062321-041446) (STUDENT)
 
 ### Election Law
 
 - **Thursday, December 7**
-  + Hasen, Richard L. 2019. “Polarization and the Judiciary.” Annual Review of Political Science 22(1): 261–276. [Read Me](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141) (EVERYONE)
+  + Hasen, Richard L. 2019. “Polarization and the Judiciary.” Annual Review of Political Science 22(1): 261–276. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141) (EVERYONE)
   + McGhee, Eric. 2020. “Partisan Gerrymandering and Political Science.” Annual Review of Political Science 23(1): 171–185. [Read Here](https://doi.org/10.1146/annurev-polisci-060118-045351) (EVERYONE)
   + Hasen, R. L. (2020). The Supreme Court's Pro-Partisanship Turn. *The Georgetown Law Journal*, *109*, 50--80. [Read Here](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2020/07/Hasen-The-Supreme-Court’s-Pro-Partisanship-Turn.pdf) (STUDENT)
-  + Hasen, Richard L. 2022. “Identifying and Minimizing the Risk of Election Subversion and Stolen Elections in the Contemporary United States.” Harvard Law Review Forum 135: 265–301. [Read Me](https://harvardlawreview.org/forum/no-volume/identifying-and-minimizing-the-risk-of-election-subversion-and-stolen-elections-in-the-contemporary-united-states/) (STUDENT)
-  + Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67(1): 89–149. [Read Me](https://scholarship.law.vanderbilt.edu/vlr/vol67/iss1/1/) (STUDENT)
+  + Hasen, Richard L. 2022. “Identifying and Minimizing the Risk of Election Subversion and Stolen Elections in the Contemporary United States.” Harvard Law Review Forum 135: 265–301. [Read Here](https://harvardlawreview.org/forum/no-volume/identifying-and-minimizing-the-risk-of-election-subversion-and-stolen-elections-in-the-contemporary-united-states/) (STUDENT)
+  + Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67(1): 89–149. [Read Here](https://scholarship.law.vanderbilt.edu/vlr/vol67/iss1/1/) (STUDENT)
 
 - **Friday, December 15**
   + **_Area Specialization Paper Due_**
