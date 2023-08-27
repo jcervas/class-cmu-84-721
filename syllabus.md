@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
+# Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721) 
 ## BETA VERSION (v. August 26, 2023)
 
 Instructor: Prof. Jonathan Cervas  
@@ -68,6 +68,7 @@ Download the current syllabus here: <https://github.com/jcervas/class-cmu-84-721
 ## Course Requirements
 
 (Assignments due by 11:59 pm)  
+
 - **Participation (includes attendance and contributions to conversation):** 10%
 - **Additional Reading Assignments/Outlines/Mini lecture (10 per student, 3% each):** 30%
 - **Op-ed/Editorial/Blog:**
@@ -143,7 +144,6 @@ My expectation is that you will "read" all the assigned articles, but I recogniz
 > The process of amendment is as follows: (1) all students and the professor get one vote; (2) a simple majority of voters agree to a change; (3) a student's vote is weighted as 1/n where n=number of students and a professor has a vote weighted as n+1. All amendments will be announced publicly, and no student shall be injured by changes.
 
 -----------------------------------------------------------------------
-
 
 Class will be organized under several general topics, ranging from theory and design of American democracy to polarization, identity formation, political communication, and others. The readings listed below are required. You are also expected to choose from the other reading list a series of articles throughout the semester, as detailed above.
 
