@@ -1,4 +1,4 @@
-## Table of Contents  
+## Table of Contents
 
 [American Democracy Theory and Design](#american-democracy-theory-and-design)
 
@@ -22,7 +22,7 @@
 
 ---
 
-### American Democracy Theory and Design
+## American Democracy Theory and Design
   + The Federalist Papers, Numbers [10](https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493273), [51](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493427), and [70](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493457) -- *These are important foundational documents for understanding American political institutions*
   + The Declaration of Independence and the U.S. Constitution -- *You should be familiar with these documents*
   + Mansbridge, Jane. 2014. "What Is Political Science For?" *Perspectives on Politics* 12(1): 8--17.
@@ -36,7 +36,7 @@
   + Democracy's Meanings: Introduction: [Read Here](http://www.nicholastdavis.com/wp-content/uploads/2022/04/dem-meanings-introduction.pdf)
   + Cain, B. E., & Levin, M. A. (1999). Term Limits. *Annual Review of Political Science*, *2*(1), 163--188. [Read Here](https://doi.org/10.1146/annurev.polisci.2.1.163)
 
-#### Books
+### Books
   + Dahl, R. A. (2005). *Who Governs?: Democracy and Power in an American City*. Yale University Press.
   + Dahl, R. A. (2020). *On Democracy*. Yale University Press.
   + Alexis de Tocqueville, *Democracy in America*.
@@ -48,7 +48,7 @@
   + Shugart, M.S., and R. Taagepera. 2017. Votes from Seats: Logical Models of Electoral Systems. Cambridge University Press.
   + Kousser, Thad. 2004. Term Limits and the Dismantling of State Legislative Professionalism. Cambridge: Cambridge University Press.
 
-### Ideology and Opinion Formation; Cognition, Information, and Knowledge; Groups, Self-Interest, and Symbolic Politics
+## Ideology and Opinion Formation; Cognition, Information, and Knowledge; Groups, Self-Interest, and Symbolic Politics
   + Zaller, J., & Feldman, S. (1992). A Simple Theory of the Survey Response: Answering Questions versus Revealing Preferences. *American Journal of Political Science*, 36(3), 579. [Read Here](https://doi.org/10.2307/2111583)
   + Freeder, Sean, Gabriel S. Lenz, and Shad Turney. 2019. "The Importance of Knowing 'What Goes with What': Reinterpreting the Evidence on Policy Attitude Stability." *Journal of Politics* 81(1): 274--90.
   + Lenz, G. S. (2009). Learning and opinion change, not priming: Reconsidering the priming hypothesis. *American Journal of Political Science*, 53(4), 821--837. [Read Here](https://doi.org/10.1111/j.1540-5907.2009.00403.x)
@@ -64,13 +64,13 @@
   + Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 280--301. [Read Here](https://doi.org/10.1093/POQ/NFY005)
   + Uscinski, J. E., Enders, A. M., Seelig, M. I., Klofstad, C. A., Funchion, J. R., Everett, C., Wuchty, S., Premaratne, K., & Murthi, M. N. (2021). *American Politics in Two Dimensions: Partisan and Ideological Identities versus Anti-Establishment Orientations*. 00(0), 1--19. [Read Here](https://doi.org/10.1111/ajps.12616)
 
-#### Books
+### Books
   + Lewis-Beck, Michael, Helmut Norpoth, William Jacoby, and Herbert Weisberg. 2008. *The American Voter Revisited*. University of Michigan Press.
   + Delli Carpini, M. x., & Keeter, S. (1997). *What Americans Know about Politics and Why It Matters*. Yale University Press.
   + Achen, C. H., & Bartels, L. M. (2016). *Democracy for Realists*. Princeton University Press.
   + Mason, L. (2018). *Uncivil Agreement: How Politics Became Our Identity*. University of Chicago Press.
 
-### Party Identification and Polarization
+## Party Identification and Polarization
   + Bafumi, J., & Shapiro, R. Y. (2009). A New Partisan Voter. The Journal of Politics, 71(1), 1--24. [Read Here](https://doi.org/10.1017/S0022381608090014)
   + Grofman, B. (2004). Downs and Two-Party Convergence. Annual Review of Political Science, 7(1), 25--46. [Read Here](https://doi.org/10.1146/annurev.polisci.7.012003.104711)
   + Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. Annual Review of Political Science, 22, 129--146. [Read Here](https://doi.org/10.1146/annurev-polisci-051117-073034)
@@ -91,7 +91,7 @@
   + Binder, S. (2015). The Dysfunctional Congress. *Annual Review of Political Science*, *18*(1), 85--101. [Read Here](https://doi.org/10.1146/annurev-polisci-110813-032156)
   + Stewart, Alexander J., Joshua B. Plotkin, and Nolan McCarty. 2021. “Inequality, identity, and partisanship: How redistribution can stem the tide of mass polarization.” Proceedings of the National Academy of Sciences 118(50): e2102140118. https://pnas.org/doi/full/10.1073/pnas.2102140118
 
-#### Books
+### Books
   + Zingher, J. N. (2022). *Political Choice in a Polarized America: How Elite Polarization Shapes Mass Behavior*.
   + Klein, Ezra. 2020. *Why We're Polarized*. Simon & Schuster.
   + Grossman, M., & Hopkins, D. A. (2016). *Asymmetric Politics: Ideological Republicans and Group Interest Democrats*. Oxford University Press.
@@ -101,7 +101,7 @@
   + Levendusky, Matthew. 2009. The Partisan Sort: How Liberals Became Democrats and Conservatives Became Republicans. Chicago, IL: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/P/bo8212972.html
 
 
-### Representation & Public Opinion
+## Representation & Public Opinion
   + Laver, M. (2014). Measuring Policy Positions in Political Space. Annual Review of Political Science, 17(1), 207--223. [Read Here](https://doi.org/10.1146/annurev-polisci-061413-041905)
   + M. DYNES, A., & HOLBEIN, J. B. (2020). Noisy Retrospection: The Effect of Party Control on Policy Outcomes. American Political Science Review, 114(1), 237--257. [Read Here](https://doi.org/10.1017/S0003055419000649)
   + Sides, J., Tausanovitch, C., Vavreck, L., & Warshaw, C. (2020). On the Representativeness of Primary Electorates. British Journal of Political Science, 50(2), 677--685. [Read Here](https://doi.org/10.1017/S000712341700062X)
@@ -129,13 +129,13 @@
   + Lawless, J. L. (2015). Female Candidates and Legislators. *Annual Review of Political Science*, *18*, 349--366. [Read Here](https://doi.org/10.1146/annurev-polisci-020614-094613)
   + Barber and Pope, “Does Issue Importance Attenuate Partisan Cue-Taking?”
 
-#### Books
+### Books
   + Erikson, Robert S., Michael B. Mackuen, and James A. Stimson. 2001. The Macro Polity. Cambridge: Cambridge University Press.
   + Stimson, James A. 2015. Tides of Consent: How Public Opinion Shapes American Politics. 2nd edition. New York, NY: Cambridge University Press.
   + Tesler, Michael. 2016. Post-Racial or Most-Racial?: Race and Politics in the Obama Era. Chicago, UNITED STATES: University of Chicago Press.
   + Fenichel Pitkin, Hanna. 1967. The Concept of Representation. University of California Press.
  
-### Political Participation
+## Political Participation
   + McDonald, M. P., & Popkin, S. L. (2001). The Myth of the Vanishing Voter. American Political Science Review, 95(4), 963--974. [Read Here](https://doi.org/10.1017/S0003055400400134)
   + Cox, G. W. (2015). Electoral Rules, Mobilization, and Turnout. Annual Review of Political Science, 18(1), 49--68. [Read Here](https://doi.org/10.1146/annurev-polisci-060414-035915)
   + Uhlaner, C. J., Cain, B., & Kiewiet, D. R. (1989). Political Participation of Ethnic Minorities in the 1980s. Political Behavior, 11(3), 195--231. [Read Here](https://www.jstor.org/stable/586152%0A)
@@ -157,13 +157,13 @@
   + Uhlaner, C. J. (2015). Politics and Participation. In *International Encyclopedia of the Social & Behavioral Sciences: Second Edition* (pp. 504--508). Elsevier Inc. [Read Here](https://doi.org/10.1016/B978-0-08-097086-8.93086-1)
   + Hooghe, M., Hosch-Dayican, B., & van Deth, J. W. (2014). Conceptualizing Political Participation. *Acta Politica*, *49*(3), 337--348. [Read Here](https://doi.org/10.1057/ap.2014.7)
 
-#### Books
+### Books
   + Verba, S., & Nie, N. H. (1987). *Participation in America: Political Democracy and Social Equality*. University of Chicago Press.
   + Verba, S., Brady, S. V. K. L. S. H. E., Schlozman, K. L., Brady, H. E., & Press, H. U. (1995). *Voice and Equality: Civic Voluntarism in American Politics*. Harvard University Press.
   + Blais, A. (2000). *To Vote or Not to Vote*. University of Pittsburgh Press.
   + Wattenberg, M. P. (2020). *Is Voting for Young People?* (5th ed.). Routledge.
 
-### Campaigns and Elections
+## Campaigns and Elections
   + Key, V. O. (1955). A Theory of Critical Elections. *The Journal of Politics*, *17*(1), 3--18. [Read Here](https://doi.org/10.2307/2126401)
   + Enos, R. D., & Hersh, E. D. (2017). Campaign Perceptions of Electoral Closeness: Uncertainty, Fear and Over-Confidence. British Journal of Political Science, 47(3), 501--519. [Read Here](https://doi.org/10.1017/S0007123415000435)
   + Huber, G. A., & Arceneaux, K. (2007). Identifying the persuasive effects of presidential advertising. American Journal of Political Science, 51(4), 957--977. [Read Here](https://doi.org/10.1111/j.1540-5907.2007.00291.x)
@@ -181,7 +181,7 @@
   + Gelman, Andrew, Sharad Goel, Douglas Rivers, and David Rothschild. 2016. “The Mythical Swing Voter.” Quarterly Journal of Political Science 11(1): 103–130. http://www.nowpublishers.com/article/Details/QJPS-15031.
   + Stephens-Dougan, L. (2021). The Persistence of Racial Cues and Appeals in American Elections. *Https://Doi.Org/10.1146/Annurev-Polisci-082619-015522*, *24*, 301--320.
 
-#### Books
+### Books
   + Sides, J., Tesler, M., & Vavreck, L. (2019). *Identity Crisis*. Princeton University Press.
   + Fiorina, Morris. 1981. *Retrospective Voting in National Elections.* New Haven : Yale University Press
   + Lee, F. E. (2016). *Insecure Majorities: Congress and the Perpetual Campaign*. University of Chicago Press.
@@ -195,7 +195,7 @@
   + Lipsitz, K. 2011. Competitive Elections and the American Voter. University of Pennsylvania Press, Incorporated.
   + Green, D P, and A S Gerber. 2019. Get Out the Vote: How to Increase Voter Turnout. Brookings Institution Press.
 
-### Collective Action
+## Collective Action
   + Lupia, Arthur, and Gisela Sin. 2003. "Which Public Goods Are Endangered." Public Choice: 315--31. [Read Here](http://link.springer.com/10.1023/B:PUCH.0000003735.07840.c7)
   + Congleton, Roger D. 2015. "The Logic of Collective Action and Beyond." Public Choice 164(3--4): 217--34. [Read Here](https://doi.org/10.1007/s11127-015-0266-7)
   + Axelrod, R., & Hamilton, W. D. (1981). The evolution of cooperation. Science, 27, 1390--1396. [Read Here](http://www-personal.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf)
@@ -203,13 +203,13 @@
   + Warner, W. K., Havens, A. E., & Olson, M. (1967). The Logic of Collective Action: A Review Essay. *Land Economics*, *43*(4), 446. [Read Here](https://doi.org/10.2307/3145551)
   + Riker, W. H., & Ordeshook, P. C. (1968). A Theory of the Calculus of Voting. American Political Science Review, 62(1), 25--42.
 
-#### Books
+### Books
   + Logic of Collective Action -- Olson, Mancur. 1965. Logic of Collective Action: Public Goods and the Theory of Groups. Cambridge, MA: Harvard University Press.
   + Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge, MA: Cambridge University Press.
   + Schelling, T. C. (1978). *Micromotives and Macrobehavior*. W. W. Norton & Co.
   + Oppenheimer, J. (2012). *Principles of Politics A Rational Choice Theory Guide to Politics and Social Justice*.
 
-### Social Influence and Context
+## Social Influence and Context
   + Enos, R. D., Kaufman, A. R., & Sands, M. L. (2019). Can Violent Protest Change Local Policy Support? Evidence from the Aftermath of the 1992 Los Angeles Riot. American Political Science Review, 1--17. [Read Here](https://doi.org/10.1017/s0003055419000340)
   + Lupton, R. N., & McKee, S. C. (2020). Dixie's Drivers: Core Values and the Southern Republican Realignment. The Journal of Politics, 82(3), 921--936. [Read Here](https://doi.org/10.1086/707489)
   + HOPKINS, D. J. (2010). Politicized Places: Explaining Where and When Immigrants Provoke Local Opposition. American Political Science Review, 104(1), 40--60. [Read Here](https://doi.org/10.1017/S0003055409990360)
@@ -220,12 +220,12 @@
   + Zacher, Sam. 2023. “Polarization of the Rich: The New Democratic Allegiance of Affluent Americans and the Politics of Redistribution.” Perspectives on Politics: 1–19. https://www.cambridge.org/core/journals/perspectives-on-politics/article/polarization-of-the-rich-the-new-democratic-allegiance-of-affluent-americans-and-the-politics-of-redistribution/E18D7DAE3A1EF35BA5BC54DE799F291B
 
 
-#### Books
+### Books
   + Enos, R. D. (2017). The space between us: Social geography and politics. *The Space between Us: Social Geography and Politics*, 1--302.
   + Trounstine, J. (2019). *Segregation by Design: Local politics and inequality American cities*.
   + Putnam, R. D. (2000). *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster.
 
-### Politics of Race and Ethnicity
+## Politics of Race and Ethnicity
   + Acharya, A., Blackwell, M., & Sen, M. (2016). The Political Legacy of American Slavery. *The Journal of Politics*, 78(3), 621--641. [Read Here](https://doi.org/10.1086/686631)
   + Valentino, N. A., & Sears, D. O. (2005). Old Times There Are Not Forgotten: Race and Partisan Realignment in the Contemporary South. *American Journal of Political Science*, 49(3), 672--688. [Read Here](https://doi.org/10.1111/j.1540-5907.2005.00136.x)
   + Griffin, J. D. (2014). When and Why Minority Legislators Matter. *Annual Review of Political Science*, 17(1), 327--336. [Read Here](https://doi.org/10.1146/annurev-polisci-033011-205028)
@@ -251,7 +251,7 @@
   + Cadava, Geraldo. 2023. “The Rise of Latino White Supremacy.” The New Yorker. https://www.newyorker.com/news/daily-comment/the-rise-of-latino-white-supremacy.
 
 
-#### Books
+### Books
   + Boykin, K. (2021). *Race Against Time: The Politics of a Darkening America*. Bold Type Books.
   + Phoenix, D. L. (2019). *The Anger Gap*. Cambridge University Press.
   + After Obama. (2021). In T. C. Shaw, R. A. Brown, & J. P. McCormick II (Eds.), *After Obama: African American Politics in a Post-Obama Era*. New York University Press. [Read Here](https://doi.org/10.18574/nyu/9781479807277.001.0001)
@@ -263,7 +263,7 @@
   + Bonilla-Silva, E. (2021). *Racism without Racists: Color-Blind Racism and the Persistence of Racial Inequality in America* (Sixth Edition). Rowman & Littlefield. [Read Here](https://rowman.com/ISBN/9781538151419/Racism-without-Racists-Color-Blind-Racism-and-the-Persistence-of-Racial-Inequality-in-America-Sixth-Edition)
   + Stephens-Dougan L. 2020. *Race to the Bottom: How Racial Appeals Work in American Politics*. Chicago: Univ. Chicago Press.
 
-### Political Communication & Media
+## Political Communication & Media
   * Barberá, Pablo et al. 2019. "Who Leads? Who Follows? Measuring Issue Attention and Agenda Setting by Legislators and the Mass Public Using Social Media Data." *American Political Science Review* 113(4): 883--901. [Read Here](https://www.cambridge.org/core/journals/american-political-science-review/article/who-leads-who-follows-measuring-issue-attention-and-agenda-setting-by-legislators-and-the-mass-public-using-social-media-data/D855849CE288A241529E9EC2E4FBD3A8)
   + Gentzkow, Matthew, and Jesse M Shapiro. 2008. "Competition and Truth in the Market for News." *Journal of Economic Perspectives* 22(2): 133--54.
   + Xenos, Michael A., and Amy B. Becker. 2009. "Moments of Zen: Effects of the Daily Show on Information Seeking and Political Learning." *Political Communication* 26(3): 317--32.
@@ -283,7 +283,7 @@
   + Freiling, I., Krause, N. M., Scheufele, D. A., & Brossard, D. (2021). Believing and sharing misinformation, fact-checks, and accurate information on social media: The role of anxiety during COVID-19. *New Media & Society*, 146144482110114. [Read Here](https://doi.org/10.1177/14614448211011451)
   + Lipsitz, Keena. 2018. “Playing with Emotions: The Effect of Moral Appeals in Elite Rhetoric.” Political Behavior 40(1): 57–78. [Read Me](http://link.springer.com/10.1007/s11109-017-9394-8)
 
-#### Books
+### Books
   + C. R. Sunstein, #Republic: Divided Democracy in the Age of Social Media (Princeton University Press, 2017).
   + M. Prior, Post-Broadcast Democracy: How Media Choice Increases Inequality in Political Involvement and Polarizes Elections (Cambridge University Press, 2007)
   + M. Levendusky, How Partisan Media Polarize America (University of Chicago Press, 2013).
@@ -293,7 +293,7 @@
   + Arceneaux, K., & Johnson, M. (2013). *Changing Minds or Changing Channels?: Partisan News in an Age of Choice*. University of Chicago Press.
   + O'Connor, Cailin, and James Owen Weatherall. 2020. *The Misinformation Age: How False Beliefs Spread*. Yale University Press.
 
-### Courts and Election Law
+## Courts and Election Law
   + Gelman, A., & King, G. (1994). Enhancing Democracy Through Legislative Redistricting. American Political Science Review, 88(3), 541--559. [Read Here](https://doi.org/10.2307/2944794)
   + McGhee, E. (2020). Partisan Gerrymandering and Political Science. Annual Review of Political Science, 23(1), 171--185. [Read Here](https://doi.org/10.1146/annurev-polisci-060118-045351)
   + Cervas, J. R., & Grofman, B. (2020). Tools for identifying partisan gerrymandering with an application to congressional districting in Pennsylvania. Political Geography, 76, 102069. [Read Here](https://doi.org/10.1016/j.polgeo.2019.102069)
@@ -308,7 +308,7 @@
   + Duchin, M., & Spencer, D. M. (2021). Models, Race, and the Law. Yale Law Journal Forum, 55--58.
   + Canon, D. T. (2022). Race and Redistricting. Https://Doi.Org/10.1146/Annurev-Polisci-041719-102107, 25(1), 509--528. [Read Here](https://doi.org/10.1146/ANNUREV-POLISCI-041719-102107)
 
-#### Books
+### Books
   + Hasen, R. L. (2020). Election Meltdown: Dirty Tricks, Distrust, and the Threat to American Democracy. Yale University Press.
   + Hasen, R. L. (2022). Cheap Speech: How Disinformation Poisons Our Politics—And How to Cure It. Yale University Press. [Read Here](https://books.google.com/books?id=5KuOzgEACAAJ)
   + Foley, E. B. (2020). Presidential Elections and Majority Rule: The Rise, Demise, and Potential Restoration of the Jeffersonian Electoral College. Oxford University Press.
