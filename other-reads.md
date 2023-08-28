@@ -65,6 +65,7 @@
   + Fiorina, M. P. (2016). Has the American Public Polarized? A Hoover Institution Essay on Contemporary American Politics, Ser, 2. [Read Here](https://www.hoover.org/research/has-american-public-polarized)
   + Fiorina, M. P., & Abrams, S. J. (2008). Political Polarization in the American Public. *Annual Review of Political Science*, *11*, 563--588.
   + Binder, S. (2015). The Dysfunctional Congress. *Annual Review of Political Science*, *18*(1), 85--101. [Read Here](https://doi.org/10.1146/annurev-polisci-110813-032156)
+  + Stewart, Alexander J., Joshua B. Plotkin, and Nolan McCarty. 2021. “Inequality, identity, and partisanship: How redistribution can stem the tide of mass polarization.” Proceedings of the National Academy of Sciences 118(50): e2102140118. https://pnas.org/doi/full/10.1073/pnas.2102140118
 
 #### Books
   + Zingher, J. N. (2022). *Political Choice in a Polarized America: How Elite Polarization Shapes Mass Behavior*.
@@ -72,7 +73,9 @@
   + Grossman, M., & Hopkins, D. A. (2016). *Asymmetric Politics: Ideological Republicans and Group Interest Democrats*. Oxford University Press.
   + Fiorina, M. P. (2017). *Unstable Majorities*. Hoover Institution Press.
   + Dalton, R. J. (2017). *The Participation Gap: Social Status and Political Inequality*. Oxford University Press.
-  + Kalmoe, Nathan P., and Lilliana Mason. 2022. Radical American Partisanship: Mapping Violent Hostility, Its Causes, and the Consequences for Democracy. University of Chicago Press. https://www.bibliovault.org/BV.landing.epl?ISBN=9780226820279 (Accessed August 23, 2023).
+  + Kalmoe, Nathan P., and Lilliana Mason. 2022. Radical American Partisanship: Mapping Violent Hostility, Its Causes, and the Consequences for Democracy. University of Chicago Press. https://www.bibliovault.org/BV.landing.epl?ISBN=9780226820279
+  + Levendusky, Matthew. 2009. The Partisan Sort: How Liberals Became Democrats and Conservatives Became Republicans. Chicago, IL: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/P/bo8212972.html
+
 
 ### Representation & Public Opinion
   + Laver, M. (2014). Measuring Policy Positions in Political Space. Annual Review of Political Science, 17(1), 207--223. [Read Here](https://doi.org/10.1146/annurev-polisci-061413-041905)
