@@ -3,8 +3,9 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721) 
-## BETA VERSION (v. August 27, 2023)
+
+# Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
+## (v. August 27, 2023) 
 
 Instructor: Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
