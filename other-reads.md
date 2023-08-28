@@ -1,14 +1,23 @@
 
-American Democracy Theory and Design
+[American Democracy Theory and Design](#american-democracy-theory-and-design)
+
 [Ideology and Opinion Formation; Cognition, Information, and Knowledge; Groups, Self-Interest, and Symbolic Politics](#ideology-and-opinion-formation-cognition-information-and-knowledge-groups-self-interest-and-symbolic-politics)
-Party Identification and Polarization
-Representation & Public Opinion
-Political Participation
-Campaigns and Elections
-Collective Action
-Politics of Race and Ethnicity
-Political Communication & Media
-Courts and Election Law
+
+[Party Identification and Polarization](#party-identification-and-polarization)
+
+[Representation & Public Opinion](#representation--public-opinion)
+
+[Political Participation](#political-participation)
+
+[Campaigns and Elections](#campaigns-and-elections)
+
+[Collective Action](#collective-action)
+
+[Politics of Race and Ethnicity](#politics-of-race-and-ethnicity)
+
+[Political Communication & Media](#political-communication--media)
+
+[Courts and Election Law](#courts-and-election-law)
 
 
 ### American Democracy Theory and Design
