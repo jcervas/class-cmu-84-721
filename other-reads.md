@@ -1,3 +1,7 @@
+# Additional Reading list for American Politics
+
+Please suggest additional readings that would be useful, or better ways of dividing the field.
+
 ## Table of Contents
 
 [American Democracy Theory and Design](#american-democracy-theory-and-design)
