@@ -1,3 +1,4 @@
+## Table of Contents  
 
 [American Democracy Theory and Design](#american-democracy-theory-and-design)
 
@@ -19,6 +20,7 @@
 
 [Courts and Election Law](#courts-and-election-law)
 
+---
 
 ### American Democracy Theory and Design
   + The Federalist Papers, Numbers [10](https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493273), [51](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493427), and [70](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493457) -- *These are important foundational documents for understanding American political institutions*
