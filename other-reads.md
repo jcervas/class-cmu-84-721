@@ -100,6 +100,7 @@
   + Tesler, M. (2015). Priming Predispositions and Changing Policy Positions: An Account of When Mass Opinion Is Primed or Changed. American Journal of Political Science, 59(4), 806--824. [Read Here](https://doi.org/10.1111/ajps.12157)
   + Tesler, M. (2012). The Spillover of Racialization into Health Care: How President Obama Polarized Public Opinion by Racial Attitudes and Race. American Journal of Political Science, 56(3), 690--704. [Read Here](https://doi.org/10.1111/j.1540-5907.2011.00577.x)
   + Lawless, J. L. (2015). Female Candidates and Legislators. *Annual Review of Political Science*, *18*, 349--366. [Read Here](https://doi.org/10.1146/annurev-polisci-020614-094613)
+  + Barber and Pope, “Does Issue Importance Attenuate Partisan Cue-Taking?”
 
 #### Books
   + Erikson, Robert S., Michael B. Mackuen, and James A. Stimson. 2001. The Macro Polity. Cambridge: Cambridge University Press.
