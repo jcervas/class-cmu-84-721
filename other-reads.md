@@ -1,5 +1,15 @@
 
+American Democracy Theory and Design
 [Ideology and Opinion Formation; Cognition, Information, and Knowledge; Groups, Self-Interest, and Symbolic Politics](#ideology-and-opinion-formation-cognition-information-and-knowledge-groups-self-interest-and-symbolic-politics)
+Party Identification and Polarization
+Representation & Public Opinion
+Political Participation
+Campaigns and Elections
+Collective Action
+Politics of Race and Ethnicity
+Political Communication & Media
+Courts and Election Law
+
 
 ### American Democracy Theory and Design
   + The Federalist Papers, Numbers [10](https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493273), [51](https://guides.loc.gov/federalist-papers/text-51-60#s-lg-box-wrapper-25493427), and [70](https://guides.loc.gov/federalist-papers/text-61-70#s-lg-box-wrapper-25493457) -- *These are important foundational documents for understanding American political institutions*
