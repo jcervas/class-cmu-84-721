@@ -188,6 +188,7 @@
   + Enos, R. D. (2016). What the Demolition of Public Housing Teaches Us about the Impact of Racial Threat on Political Behavior. American Journal of Political Science, 60(1), 123--142. [Read Here](https://doi.org/10.1111/ajps.12156)
   + Enos, R. D. (2014). Causal effect of intergroup contact on exclusionary attitudes. Proceedings of the National Academy of Sciences, 111(10), 3699--3704. [Read Here](https://doi.org/10.1073/pnas.1317670111)
   + Gilens, Martin, Shawn Patterson, and Pavielle Haines. 2021. “Campaign Finance Regulations and Public Policy.” American Political Science Review 115(3): 1074–1081. [Read Me](https://www.cambridge.org/core/journals/american-political-science-review/article/campaign-finance-regulations-and-public-policy/B739B3AB64C90AE652CEE2FF6911883F)
+  + Kreiss and McGregor, “A Review and Provocation.”
 
 #### Books
   + Enos, R. D. (2017). The space between us: Social geography and politics. *The Space between Us: Social Geography and Politics*, 1--302.
