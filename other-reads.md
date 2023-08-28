@@ -221,7 +221,9 @@
   + Garcia, M. M., & Sadhwani, S. (2022). ¿Quién Importa? State Legislators and Their Responsiveness to Undocumented Immigrants. *Political Research Quarterly*, 0(0). [Read Here](https://doi.org/10.1177/10659129221137825)
   + "Explaining Trump's Popular Support: Validation of a Nativism Index," *Social Science Quarterly* 100, no. 2 (2019): 416.
   + Lizama, Jimmy. 2023. “The Trump administration’s framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity.” Communication and Critical/Cultural Studies: 1–17. https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187.
-  + Jefferson, Hakeem et al. 2023. “Beyond the Ballot Box: A Conversation About Democracy and Policing in the United States.” Annual Review of Political Science 26(1): 1–32. https://doi.org/10.1146/annurev-polisci-060722-103142 (Accessed August 22, 2023).
+  + Jefferson, Hakeem et al. 2023. “Beyond the Ballot Box: A Conversation About Democracy and Policing in the United States.” Annual Review of Political Science 26(1): 1–32. https://doi.org/10.1146/annurev-polisci-060722-103142
+  + Cadava, Geraldo. 2023. “The Rise of Latino White Supremacy.” The New Yorker. https://www.newyorker.com/news/daily-comment/the-rise-of-latino-white-supremacy.
+
 
 #### Books
   + Boykin, K. (2021). *Race Against Time: The Politics of a Darkening America*. Bold Type Books.
