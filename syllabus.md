@@ -5,6 +5,8 @@ output:
 ---
 
 # Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
+
+Fall 2023
 ## (v. August 27, 2023) 
 
 Instructor: Prof. Jonathan Cervas  
