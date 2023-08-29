@@ -6,6 +6,8 @@ output:
 
 # Advanced Topics in American Politics (84-421) & American Politics Graduate Seminar (84-721)
 
+Carnegie Mellon University  
+Institute for Security and Technology  
 Fall 2023  
 (v. August 27, 2023) 
 
