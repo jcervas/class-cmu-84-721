@@ -67,6 +67,8 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Delli Carpini, M. X. (2005). An Overview of the State of Citizens' Knowledge About Politics. In M. S. McKinney, L. L. Kaid, D. G. Bystrom, & D. B. Carlin (Eds.), *Communicating Politics: Engaging the Public in Democratic Life* (pp. 27--40). Peter Lang. [Read Here](http://repository.upenn.edu/asc_papers)
   + Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 280--301. [Read Here](https://doi.org/10.1093/POQ/NFY005)
   + Uscinski, J. E., Enders, A. M., Seelig, M. I., Klofstad, C. A., Funchion, J. R., Everett, C., Wuchty, S., Premaratne, K., & Murthi, M. N. (2021). *American Politics in Two Dimensions: Partisan and Ideological Identities versus Anti-Establishment Orientations*. 00(0), 1--19. [Read Here](https://doi.org/10.1111/ajps.12616)
+  + “How Social Group Memberships Interact to Shape Partisanship, Policy Orientations, and Vote Choice | SpringerLink.” https://link.springer.com/article/10.1007/s11109-021-09725-7
+
 
 ### Books
   + Lewis-Beck, Michael, Helmut Norpoth, William Jacoby, and Herbert Weisberg. 2008. *The American Voter Revisited*. University of Michigan Press.
