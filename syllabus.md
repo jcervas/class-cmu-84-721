@@ -175,13 +175,13 @@ Class will be organized under several general topics, ranging from theory and de
 
 - **Thursday, September 7**:
   + A Different Democracy
-    * Chapter 3. Constitutions (STUDENT)
-    * Chapter 4. Federalism and Division of Power (STUDENT)
-    * Chapter 5. Elections and Electoral Systems (STUDENT)
-    * Chapter 6. Political Parties, Election Campaigns, and Interest Groups (STUDENT)
-    * Chapter 7. Legislative Power (STUDENT)
-    * Chapter 8. Executive Power (STUDENT)
-    * Chapter 9. Judicial Power (STUDENT)
+    * Chapter 3. Constitutions (Lauren)
+    * Chapter 4. Federalism and Division of Power (Arina)
+    * Chapter 5. Elections and Electoral Systems (Graham)
+    * Chapter 6. Political Parties, Election Campaigns, and Interest Groups (Jesse)
+    * Chapter 7. Legislative Power (Jaykob)
+    * Chapter 8. Executive Power (Matt)
+    * Chapter 9. Judicial Power (Kiki)
     * Chapter 10. Comparative Conclusions (EVERYONE)
 
 - **Tuesday, September 12**:
@@ -192,10 +192,10 @@ Class will be organized under several general topics, ranging from theory and de
 - **Thursday, September 14**:
   + Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. [Read Here](https://doi.org/10.1146/annurev-polisci-051921-102505) (EVERYONE)
   + Erikson, R. S. (2015). Income Inequality and Policy Responsiveness. Annual Review of Political Science, 18(1), 11--29. [Read Here](https://doi.org/10.1146/annurev-polisci-020614-094706) (EVERYONE)
-  + Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. (STUDENT)
-  + Gelman, Andrew. 2007. “Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?” Quarterly Journal of Political Science 2(4): 345–367. [Read Here](http://www.nowpublishers.com/article/Details/QJPS-6026) (STUDENT)
-  + Gilens, Martin, Shawn Patterson, and Pavielle Haines. 2021. “Campaign Finance Regulations and Public Policy.” American Political Science Review 115(3): 1074–1081. (STUDENT)
-  + Trounstine, Jessica. 2016. “Segregation and Inequality in Public Goods.” American Journal of Political Science 60(3): 709–725. [Read Here](https://doi.org/10.1111/ajps.12227) (STUDENT)
+  + Franko, William W., and Christopher Witko. 2023. “Unions, Class Identification, and Policy Attitudes.” The Journal of Politics 85(2): 553–567. (Amor)
+  + Gelman, Andrew. 2007. “Rich State, Poor State, Red State, Blue State: What’s the Matter with Connecticut?” Quarterly Journal of Political Science 2(4): 345–367. [Read Here](http://www.nowpublishers.com/article/Details/QJPS-6026) (Seth,Graham)
+  + Gilens, Martin, Shawn Patterson, and Pavielle Haines. 2021. “Campaign Finance Regulations and Public Policy.” American Political Science Review 115(3): 1074–1081. (Lauren)
+  + Trounstine, Jessica. 2016. “Segregation and Inequality in Public Goods.” American Journal of Political Science 60(3): 709–725. [Read Here](https://doi.org/10.1111/ajps.12227) (Kiki)
 
 ### Party Identification, Ideology, Attitudes, and Opinion Formation
 
@@ -217,18 +217,18 @@ Class will be organized under several general topics, ranging from theory and de
 - **Tuesday, September 26**
   + **_First Drafts of Op-Ed/Editorial/Blog Post Due and Circulated_**
   + Kinder and Kalmoe, Neither Liberal nor Conservative
-    * Chapter 3. Meaning and Measurement of Ideological Identification (STUDENT)
-    * Chapter 4. Becoming Ideological (STUDENT)
-    * Chapter 5. In the Long Run (STUDENT)
-    * Chapter 6. Consequences? (STUDENT)
+    * Chapter 3. Meaning and Measurement of Ideological Identification (Elijah)
+    * Chapter 4. Becoming Ideological (Arina)
+    * Chapter 5. In the Long Run (Lauren)
+    * Chapter 6. Consequences? (Matt)
     * Chapter 7. Findings and Implications (EVERYONE)
   + Converse, Philip E. 2000. “Assessing the Capacity of Mass Electorates.” Annual Review of Political Science 3(1): 331–353. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev.polisci.3.1.331)
  (EVERYONE)
   + Zaller, John. 2012. “WHAT NATURE AND ORIGINS LEAVES OUT.” Critical Review 24(4): 569–642. [Read Here](http://www.tandfonline.com/doi/abs/10.1080/08913811.2012.807648) (EVERYONE)
 
 - **Thursday, September 28**:
-  + Canes-Wrone, Brandice. 2015. “From Mass Preferences to Policy.” Annual Review of Political Science 18(1): 147–165. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050311-165552) (STUDENT)
-  + Sears, David O., and Carolyn L. Funk. 1990. “The limited effect of economic self-interest on the political attitudes of the mass public.” Journal of Behavioral Economics 19(3): 247–271. [Read Here](https://linkinghub.elsevier.com/retrieve/pii/009057209090030B) (STUDENT)
+  + Canes-Wrone, Brandice. 2015. “From Mass Preferences to Policy.” Annual Review of Political Science 18(1): 147–165. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050311-165552) (Lauren)
+  + Sears, David O., and Carolyn L. Funk. 1990. “The limited effect of economic self-interest on the political attitudes of the mass public.” Journal of Behavioral Economics 19(3): 247–271. [Read Here](https://linkinghub.elsevier.com/retrieve/pii/009057209090030B) (Allison)
   + Hatemi, Peter K., and Rose McDermott. 2016. “Give Me Attitudes.” Annual Review of Political Science 19(1): 331–350. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-103113-034929) (EVERYONE)
   + Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The New Look in Political Ideology Research.” Annual Review of Political Science 18(1): 205–216. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422) (EVERYONE)
 
@@ -237,16 +237,16 @@ Class will be organized under several general topics, ranging from theory and de
 - **Tuesday, October 3**:
   + Zingher, Joshua N. 2022. Political choice in a polarized America: how elite polarization shapes mass behavior. New York, NY: Oxford University Press.
     * Chapter 1. America the Polarized (EVERYONE)
-    * Chapter 2. Mass Opinion in Context—How Elite Polarization Has Shaped Political Behavior (STUDENT)
-    * Chapter 3. Elite Polarization and Americans’ Perceptions of the Political Parties (STUDENT)
-    * Chapter 4. Measuring Policy Orientations and Political Sophistication (STUDENT)
-    * Chapter 5. A Test of the Recursive Relationship between Policy Orientations and Partisanship (STUDENT)
+    * Chapter 2. Mass Opinion in Context—How Elite Polarization Has Shaped Political Behavior (Lauren)
+    * Chapter 3. Elite Polarization and Americans’ Perceptions of the Political Parties (Seth)
+    * Chapter 4. Measuring Policy Orientations and Political Sophistication (Allison)
+    * Chapter 5. A Test of the Recursive Relationship between Policy Orientations and Partisanship (Jaykob)
 
 - **Thursday, October 5**:
   + Zingher, Political choice in a polarized America
-    * Chapter 6. The Relationships between Policy Orientations, Partisanship, and Vote Choice (STUDENT)
-    * Chapter 7. A Test of How Elite Polarization Shapes Mass Political Behavior (STUDENT)
-    * Chapter 8. How Political Sophistication Shapes Responses to Elite Polarization (STUDENT)
+    * Chapter 6. The Relationships between Policy Orientations, Partisanship, and Vote Choice (Ammu)
+    * Chapter 7. A Test of How Elite Polarization Shapes Mass Political Behavior (Jaykob)
+    * Chapter 8. How Political Sophistication Shapes Responses to Elite Polarization (Amor)
     * Chapter 9. The Implications of Our Polarized Politics (EVERYONE)
 
 - **Saturday, October 8**:
@@ -261,8 +261,8 @@ Class will be organized under several general topics, ranging from theory and de
 
 - **Thursday, October 12** - Topic Selection for Book Review and Area Specialization Due
   + Hopkins, Red Fighting Blue
-    * Chapter 5. Regional Polarization and Partisan Change in the U.S. Congress (STUDENT)
-    * Chapter 6. Rural Red, Big-City Blue, and the Pivotal Purple Midwest (STUDENT)
+    * Chapter 5. Regional Polarization and Partisan Change in the U.S. Congress (Elijah)
+    * Chapter 6. Rural Red, Big-City Blue, and the Pivotal Purple Midwest (Jesse)
     * Chapter 7. A Locked-Up Nation (EVERYONE)
   + Martin, Greg, and Steven Webster. 2018. “Why Are Americans So Geographically Polarized?” The Atlantic. <https://web.archive.org/web/20221119174825/https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/> (EVERYONE)
   
@@ -271,7 +271,7 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 1. The Ins versus the Outs (EVERYONE)
   + Dalton, R. J. (2016). Party Identification and Its Implications. In Oxford Research Encyclopedia of Politics. Oxford University Press. (EVERYONE)
   + Lee, F. E. (2015). How Party Polarization Affects Governance. *Annual Review of Political Science*, *18*(1), 261--282. (STUDENT)
-  + Abramowitz, A. I., & Webster, S. W. (2018). Negative Partisanship: Why Americans Dislike Parties But Behave Like Rabid Partisans. Political Psychology, 39(S1), 119--135. (STUDENT)
+  + Abramowitz, A. I., & Webster, S. W. (2018). Negative Partisanship: Why Americans Dislike Parties But Behave Like Rabid Partisans. Political Psychology, 39(S1), 119--135. (Graham)
   + Pierson, Paul, and Eric Schickler. 2020. “Madison’s Constitution Under Stress: A Developmental Analysis of Political Polarization.” Annual Review of Political Science 23(1): 37–58.(STUDENT)
 
 - **Thursday, October 26**:
@@ -287,17 +287,17 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 2. What Do We Mean by Political Voice? Does Equal Voice Matter? (EVERYONE)
     * Chapter 3. The Roots of Citizen Participation: The Civic Voluntarism Model (EVERYONE)
     * Chapter 4. Who Exercises Political Voice? (STUDENT)
-    * Chapter 5. The Noisy and the Silent: Divergent Preferences and Needs (STUDENT)
-    * Chapter 6. Do Digital Technologies Make a Difference? (STUDENT)
+    * Chapter 5. The Noisy and the Silent: Divergent Preferences and Needs (Seth)
+    * Chapter 6. Do Digital Technologies Make a Difference? (Arina)
 
 - **Thursday, November 2**:
   + Schlozman et al., Unequal and Unrepresented
-    * Chapter 7. Social Movements and Ordinary Recruitment (STUDENT)
-    * Chapter 8. Who Sings in the Heavenly Chorus? The Shape of the Organized Interest System (with Philip E. Jones) (STUDENT)
+    * Chapter 7. Social Movements and Ordinary Recruitment (Elijah)
+    * Chapter 8. Who Sings in the Heavenly Chorus? The Shape of the Organized Interest System (with Philip E. Jones) (Amor)
     * Chapter 9. Representing Interests through Organizational Activity (with Philip E. Jones) (STUDENT)
-    * Chapter 10. Growing Economic Inequality and Its (Partially) Political Roots (STUDENT)
-    * Chapter 11. Has It Always Been This Way? (STUDENT)
-    * Chapter 12. Can We Do Anything about It? (EVERYONE)
+    * Chapter 10. Growing Economic Inequality and Its (Partially) Political Roots (Graham)
+    * Chapter 11. Has It Always Been This Way? (Jesse)
+    * Chapter 12. Can We Do Anything about It? (Jaykob)
     * Chapter 13. Unequal Voice in an Unequal Age (EVERYONE)
 
 ### Campaigns and Elections
@@ -309,25 +309,25 @@ Class will be organized under several general topics, ranging from theory and de
   + Green, Donald P. et al. 2016. “The effects of lawn signs on vote outcomes: Results from four randomized field experiments.” Electoral Studies 41: 143–150. [Read Here](https://linkinghub.elsevier.com/retrieve/pii/S0261379415002310) (EVERYBODY)
   + Jacobson, Gary C. 2015. “How Do Campaigns Matter?” Annual Review of Political Science 18(1): 31–47. [Read Here](https://doi.org/10.1146/annurev-polisci-072012-113556) (EVERYONE)
   + Key, Jr., V.O. 1955. “A Theory of Critical Elections.” The Journal of Politics 17(1): 3–18. [Read Here](https://www.journals.uchicago.edu/doi/10.2307/2126401) (EVERYONE)
-  + Warshaw, Christopher. 2019. “Local Elections and Representation in the United States.” Annual Review of Political Science 22(1): 461–479. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050317-071108) (STUDENT)
-  + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Here](https://doi.org/10.1146/annurev-polisci-051120-014235.) (STUDENT)
+  + Warshaw, Christopher. 2019. “Local Elections and Representation in the United States.” Annual Review of Political Science 22(1): 461–479. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050317-071108) (Anthony)
+  + Willeck, Claire, and Tali Mendelberg. 2022. “Education and Political Participation.” Annual Review of Political Science 25(1): 89–110. [Read Here](https://doi.org/10.1146/annurev-polisci-051120-014235.) (Ammu)
 
 - **Tuesday, November 14**:
   + Carson, Jamie L., and Jeffery A. Jenkins. 2011. “Examining the Electoral Connection Across Time.” Annual Review of Political Science 14(1): 25–46. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-030310-221852) (EVERYONE)
   + Caughey, Devin, and Christopher Warshaw. 2022. Dynamic Democracy: Public Opinion, Elections, and Policymaking in the American States. University of Chicago Press.
     * Chapter 1. Introduction (EVERYONE)
-    * Chapter 2. Measurement: Public Opinion and State Policy (STUDENT)
-    * Chapter 3. Preferences: Partisanship and Ideology in State Publics (STUDENT)
-    * Chapter 4. Policies: The Outputs of State Government (STUDENT)
+    * Chapter 2. Measurement: Public Opinion and State Policy (Matt)
+    * Chapter 3. Preferences: Partisanship and Ideology in State Publics (Anthony)
+    * Chapter 4. Policies: The Outputs of State Government (Anthony)
     * Chapter 5. Parties: The Policy Effects of Party Control (STUDENT)
     * Chapter 6. Elections: Selection, Incentives, and Feedback (STUDENT)
 
 - **Thursday, November 16**:
   + Caughey and Warshaw, Dynamic Democracy
-    * Chapter 7. Responsiveness: The Public’s Influence on State Policies (STUDENT)
-    * Chapter 8. Proximity: The Match between Preferences and Policies (STUDENT)
+    * Chapter 7. Responsiveness: The Public’s Influence on State Policies (Allison)
+    * Chapter 8. Proximity: The Match between Preferences and Policies (Amor)
     * Chapter 9. Deficits: Gaps in American Democracy (STUDENT)
-    * Chapter 10. Reforms: Improving American Democracy (EVERYONE)
+    * Chapter 10. Reforms: Improving American Democracy (Ammu)
     * Chapter 11. Conclusion (EVERYONE)
 
 - **Tuesday, November 21**:
@@ -340,7 +340,7 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 5. The Content and Contours of Whiteness (STUDENT)
     * Chapter 6. The Preservation of Whiteness (STUDENT)
     * Chapter 7. Policies that Protect the Group (STUDENT)
-    * Chapter 8. A Black Man in the White House (STUDENT)
+    * Chapter 8. A Black Man in the White House (Elijah)
     * Chapter 9. The Future of White America (EVERYONE)
 
 
@@ -372,7 +372,7 @@ Class will be organized under several general topics, ranging from theory and de
   + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (EVERYONE)
   + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (EVERYONE)
   + Balfour, Lawrie. 2023. “The Politics of Reparations for Black Americans.” Annual Review of Political Science 26(1): 291–304. [Read Here](https://doi.org/10.1146/annurev-polisci-062521-090002) (STUDENT)
-  + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (STUDENT)
+  + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (Ammu)
   + Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. [Read Here](https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19)
   + Jardina, Ashley, and Spencer Piston. 2023. “The Politics of Racist Dehumanization in the United States.” Annual Review of Political Science 26(1): 369–388. [Read Here](https://doi.org/10.1146/annurev-polisci-062321-041446) (STUDENT)
 
@@ -383,7 +383,7 @@ Class will be organized under several general topics, ranging from theory and de
   + McGhee, Eric. 2020. “Partisan Gerrymandering and Political Science.” Annual Review of Political Science 23(1): 171–185. [Read Here](https://doi.org/10.1146/annurev-polisci-060118-045351) (EVERYONE)
   + Hasen, R. L. (2020). The Supreme Court's Pro-Partisanship Turn. *The Georgetown Law Journal*, *109*, 50--80. [Read Here](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2020/07/Hasen-The-Supreme-Court’s-Pro-Partisanship-Turn.pdf) (STUDENT)
   + Hasen, Richard L. 2022. “Identifying and Minimizing the Risk of Election Subversion and Stolen Elections in the Contemporary United States.” Harvard Law Review Forum 135: 265–301. [Read Here](https://harvardlawreview.org/forum/no-volume/identifying-and-minimizing-the-risk-of-election-subversion-and-stolen-elections-in-the-contemporary-united-states/) (STUDENT)
-  + Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67(1): 89–149. [Read Here](https://scholarship.law.vanderbilt.edu/vlr/vol67/iss1/1/) (STUDENT)
+  + Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67(1): 89–149. [Read Here](https://scholarship.law.vanderbilt.edu/vlr/vol67/iss1/1/) (Anthony)
 
 - **Friday, December 15**
   + **_Area Specialization Paper Due_**
