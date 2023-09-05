@@ -256,9 +256,9 @@ Class will be organized under several general topics, ranging from theory and de
 - **Tuesday, October 10**:
   + Hopkins, David A. 2017. Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics. 1st ed. Cambridge University Press.
     * Chapter 1. A Nation Votes, Ohio Decides (EVERYONE)
-    * Chapter 2. Solid States: The Regional Bases of the American Parties (STUDENT)
-    * Chapter 3. The Geographic Roots of Party Strength and Cohesion (STUDENT)
-    * Chapter 4. Mapping the Cultural Battlefield: How Social Issues Fuel the Regional Divide (STUDENT)
+    * Chapter 2. Solid States: The Regional Bases of the American Parties (Anthony)
+    * Chapter 3. The Geographic Roots of Party Strength and Cohesion (Matt)
+    * Chapter 4. Mapping the Cultural Battlefield: How Social Issues Fuel the Regional Divide (Kiki)
 
 - **Thursday, October 12** - Topic Selection for Book Review and Area Specialization Due
   + Hopkins, Red Fighting Blue
