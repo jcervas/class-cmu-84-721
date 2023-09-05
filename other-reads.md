@@ -231,7 +231,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Trounstine, J. (2019). *Segregation by Design: Local politics and inequality American cities*.
   + Putnam, R. D. (2000). *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster.
 
-## Politics of Race and Ethnicity, politics of class
+## Politics of Race and Ethnicity, politics of class/sex
   + Acharya, A., Blackwell, M., & Sen, M. (2016). The Political Legacy of American Slavery. *The Journal of Politics*, 78(3), 621--641. [Read Here](https://doi.org/10.1086/686631)
   + Valentino, N. A., & Sears, D. O. (2005). Old Times There Are Not Forgotten: Race and Partisan Realignment in the Contemporary South. *American Journal of Political Science*, 49(3), 672--688. [Read Here](https://doi.org/10.1111/j.1540-5907.2005.00136.x)
   + Griffin, J. D. (2014). When and Why Minority Legislators Matter. *Annual Review of Political Science*, 17(1), 327--336. [Read Here](https://doi.org/10.1146/annurev-polisci-033011-205028)
@@ -256,8 +256,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Jefferson, Hakeem et al. 2023. “Beyond the Ballot Box: A Conversation About Democracy and Policing in the United States.” Annual Review of Political Science 26(1): 1–32. https://doi.org/10.1146/annurev-polisci-060722-103142
   + Cadava, Geraldo. 2023. “The Rise of Latino White Supremacy.” The New Yorker. https://www.newyorker.com/news/daily-comment/the-rise-of-latino-white-supremacy.
   + “Race and Representation in Campaign Finance | American Political Science Review | Cambridge Core.” [Read Here](https://www.cambridge.org/core/journals/american-political-science-review/article/race-and-representation-in-campaign-finance/D954D2B6ACC3CCF36E15D241365365FF)
-
-
+  + Butcher, Jordan, and Noah Haynes. “Already Gone: Retaining Women in State Legislatures.” Legislative Studies Quarterly n/a(n/a). [Read Here](https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12435)
 
 ### Books
   + Boykin, K. (2021). *Race Against Time: The Politics of a Darkening America*. Bold Type Books.
