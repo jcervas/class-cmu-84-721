@@ -9,7 +9,7 @@ output:
 Carnegie Mellon University  
 Institute for Security and Technology  
 Fall 2023  
-(v. August 27, 2023) 
+(v. Sept. 1, 2023) 
 
 Instructor: Prof. Jonathan Cervas  
 Email: <cervas@cmu.edu>  
@@ -164,8 +164,9 @@ Class will be organized under several general topics, ranging from theory and de
 - **Thursday, August 31**: 
   + **Choose dates for presentations**
   + Smith, Rogers M. 1993. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” The American Political Science Review 87(3): 549–566. (EVERYONE)
-  + Fiorina, Morris P. “A Historical Perspective.” [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf)
- (EVERYONE)
+  + Fiorina, Morris P. “A Historical Perspective.” [Read Here](https://www.hoover.org/sites/default/files/research/docs/fiorina_essay9_ahistoricalperspective.pdf) (EVERYONE)
+  + ADD Shafer, Byron E. 1999. “American Exceptionalism.” Annual Review of Political Science 2(1): 445–463. [Read Here](https://doi.org/10.1146/annurev.polisci.2.1.445)
+
 
 - **Tuesday, September 5**:
   + A Different Democracy 
