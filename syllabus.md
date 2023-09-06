@@ -187,6 +187,8 @@ Class will be organized under several general topics, ranging from theory and de
 
 - **Tuesday, September 12**:
   + How Democratic Is the American Constitution? Dahl, R. A. (2003). Yale University Press. [Read Here](http://polisci.uci.edu/~jcervas/papers/dahl2003.pdf) (EVERYONE)
+  + Ahmed, Amel. 2023. “Is the American Public Really Turning Away from Democracy? Backsliding and the Conceptual Challenges of Understanding Public Attitudes.” Perspectives on Politics 21(3): 967–978. [Optional](https://www.cambridge.org/core/journals/perspectives-on-politics/article/is-the-american-public-really-turning-away-from-democracy-backsliding-and-the-conceptual-challenges-of-understanding-public-attitudes/E7692CC6CC0EA939D30CA4A93D307875?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Issues%20Society&WT.mc_id=New%20Cambridge%20Alert%20-%20Issues%20Society)
+
 
 ### Class and Economics
 
