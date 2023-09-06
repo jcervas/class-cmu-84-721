@@ -68,6 +68,8 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 280--301. [Read Here](https://doi.org/10.1093/POQ/NFY005)
   + Uscinski, J. E., Enders, A. M., Seelig, M. I., Klofstad, C. A., Funchion, J. R., Everett, C., Wuchty, S., Premaratne, K., & Murthi, M. N. (2021). *American Politics in Two Dimensions: Partisan and Ideological Identities versus Anti-Establishment Orientations*. 00(0), 1--19. [Read Here](https://doi.org/10.1111/ajps.12616)
   + “How Social Group Memberships Interact to Shape Partisanship, Policy Orientations, and Vote Choice | SpringerLink.” https://link.springer.com/article/10.1007/s11109-021-09725-7
+  + Arceneaux, Kevin, and Rory Truex. 2023. “Donald Trump and the Lie.” Perspectives on Politics 21(3): 863–879. [Read Here](https://www.cambridge.org/core/journals/perspectives-on-politics/article/donald-trump-and-the-lie/A438DF5A45FE78CB2BC887859EFAB587?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Issues%20Society&WT.mc_id=New%20Cambridge%20Alert%20-%20Issues%20Society)
+
 
 
 ### Books
