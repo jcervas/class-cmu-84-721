@@ -325,3 +325,6 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Foley, E. (2016). Ballot Battles: The History of Disputed Elections in the United States. Oxford University Press.
   + Engstrom, E. J. (2013). Partisan Gerrymandering and the Construction of American Democracy. University of Michigan Press. [Read Here](https://doi.org/10.2307/j.ctt1gk086k)
   + Bonica, Adam, and Maya Sen. 2021. The Judicial Tug of War: How Lawyers, Politicians, and Ideological Incentives Shape the American Judiciary. New York: Cambridge University Press.
+
+## Exectuive Power
+  + Kaufman, Aaron R., and Jon C. Rogowski. “Divided Government, Strategic Substitution, and Presidential Unilateralism.” American Journal of Political Science n/a(n/a). [Read Here](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12821)
