@@ -51,6 +51,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Davis, N., Goidel, K., & Gaddie, K. (2022). *Democracy's Meanings*. University of Michigan Press. [Read Here](https://doi.org/10.3998/mpub.11684226)
   + Shugart, M.S., and R. Taagepera. 2017. Votes from Seats: Logical Models of Electoral Systems. Cambridge University Press.
   + Kousser, Thad. 2004. Term Limits and the Dismantling of State Legislative Professionalism. Cambridge: Cambridge University Press.
+  + Josep M. Colomer. 2023. Constitutional Polarization: A Critical Review of the U.S. Political System. Routledge. [Read Here](https://www.routledge.com/Constitutional-Polarization-A-Critical-Review-of-the-US-Political-System/Colomer/p/book/9781032495224)
 
 ## Ideology and Opinion Formation; Cognition, Information, and Knowledge; Groups, Self-Interest, and Symbolic Politics
   + Zaller, J., & Feldman, S. (1992). A Simple Theory of the Survey Response: Answering Questions versus Revealing Preferences. *American Journal of Political Science*, 36(3), 579. [Read Here](https://doi.org/10.2307/2111583)
