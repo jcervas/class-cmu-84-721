@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Detailed Summary of "The Political Role of Business Leaders"
+# Summary of "The Political Role of Business Leaders"
 
 **Article Citation:** Hersh, Eitan. 2023. “The Political Role of Business Leaders.” Annual Review of Political Science 26(1): 97–115. https://doi.org/10.1146/annurev-polisci-051921-102505
 
