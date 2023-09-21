@@ -165,3 +165,54 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 ### Preview of the Argument
 
 - Provides a preview of how the RAS Model will be used to explain changes in public opinion based on various factors like political awareness and changes in information flow.
+
+# Chapter 4: Coming to terms with response instability
+
+### Supporting Evidence
+
+1. **Statistical Significance**: The statistical data in Table 4.6 reveal that although there is some consistency, it does not meet the theoretical expectations.
+   
+2. **Coding Errors**: Lack of coder agreement in 10-15% of all open-ended remarks introduces a significant margin of error.
+
+3. **Directionally Uncodable Remarks**: Items with higher rates of such remarks correlate with a greater shortfall from theoretical expectations.
+
+4. **Internal vs. Cross-Interview Conflict**: The analysis suggests that respondents are often unaware of their internal conflicts, which are more likely to arise across multiple interviews than within a single one.
+
+5. **Regression Coefficients**: These are used to summarize relationships between stability and consistency, revealing that items with lower percentages of uncodable remarks have stronger consistency-stability relationships.
+
+### Implications
+
+1. **RAS Model vs. Measurement Error Tradition**: The RAS model asserts that the inconsistency is not just noise but represents genuine ambivalence, contrasting with traditional models that attribute inconsistencies to measurement error.
+
+2. **Broader Impact**: The study informs various aspects like the priming effect of the mass media, the effects of survey question order, and attitude change.
+
+### Conclusions
+
+- The observed inconsistencies in Table 4.6 are likely as accurate as can be expected, given the various constraints like measurement errors and sample size.
+- The findings support the RAS model's argument about the prevalence of ambivalence in public opinion.
+
+# Chapter 7
+
+This is a comprehensive analysis focusing on attitude change within the context of political awareness, and it deals with numerous factors that contribute to attitude change, including the role of persuasive messages, awareness levels, resistance to change based on existing beliefs, and the dynamics of individual and mass attitudes. The text also examines case studies, such as U.S. defense spending and involvement in Central America, to validate the proposed models.
+
+#### Methodology and Data
+- Analyzes defense spending and U.S. involvement in Central America.
+- Relies on statistical models, and discusses how political awareness affects reception and acceptance of messages.
+  
+#### Findings
+- Finds that attitude change is a two-step process: reception and acceptance.
+- Politically aware people are better at resisting messages contrary to their views.
+- Coefficients for political awareness reach statistical significance at the 0.05 level when constraints are applied.
+  
+#### Cases and Issues
+- Attitude towards defense spending and U.S. involvement in Central America are scrutinized.
+- Finds that hawkish values, rather than Reagan support, were the determinant for rallying behind U.S. involvement in Central America.
+  
+#### Limitations
+- Discusses the issues with wide confidence intervals for coefficients and proposes ways to improve future tests.
+
+#### Concluding Remarks
+- The chapter develops basic principles of attitude change and tests simplified models.
+- The model assumes a single dominant flow of communications as a major simplification, which could be improved upon.
+
+
