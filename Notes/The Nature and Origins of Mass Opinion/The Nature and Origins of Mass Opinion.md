@@ -22,49 +22,28 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
    - An individual's response to a question about a policy or issue depends on the mix of positive and negative considerations available in their mind at the moment of inquiry.
     
 
-## Public Opinion
+- **Public Opinion**: The collective attitudes or beliefs of the public about a given subject, particularly in the context of politics and policy issues.
 
-- The collective attitudes or beliefs of the public about a given subject, particularly in the context of politics and policy issues.
+- **True Attitude Model**: A conventional model that assumes people have a single, unchanging 'true attitude' toward an issue, which is problematic according to the RAS Model.
 
-## True Attitude Model
+- **On-line Model**: A theoretical model that assumes people continuously update their attitudes based on new information. Criticized for being unrealistic in how people actually process and update attitudes.
 
-- A conventional model that assumes people have a single, unchanging 'true attitude' toward an issue, which is problematic according to the RAS Model.
+- **Information Flows**: Streams of messages, arguments, or cues that individuals are exposed to from their environment, especially in the context of political information.
 
-## On-line Model
+- **Sampling Axiom**: One of the four axioms in the RAS Model, stating that people sample from available considerations to form an opinion at the moment of inquiry.
 
-- A theoretical model that assumes people continuously update their attitudes based on new information. Criticized for being unrealistic in how people actually process and update attitudes.
+- **Considerations**: Information, beliefs, or opinions that people hold, from which they 'sample' when forming an attitude or answering a survey question.
 
-## Information Flows
+- **Situational Variables**: Variables that can affect which 'considerations' are most salient or relevant at a given moment when an individual is forming an opinion.
 
-- Streams of messages, arguments, or cues that individuals are exposed to from their environment, especially in the context of political information.
+- **Opinion Statement**: The expression of an individual's genuine opinion at the moment of answering a survey question, according to the RAS Model.
 
-## Sampling Axiom
+- **Political Environment**: The overarching setting or climate in which political information is disseminated and in which political attitudes are formed.
 
-- One of the four axioms in the RAS Model, stating that people sample from available considerations to form an opinion at the moment of inquiry.
+- **Political Awareness**: The degree to which an individual is informed about and engaged with political issues and information.
 
-## Considerations
+- **Political Predispositions**: An individual's pre-existing attitudes, beliefs, or values that influence how they receive and interpret new political information.
 
-- Information, beliefs, or opinions that people hold, from which they 'sample' when forming an attitude or answering a survey question.
-
-## Situational Variables
-
-- Variables that can affect which 'considerations' are most salient or relevant at a given moment when an individual is forming an opinion.
-
-## Opinion Statement
-
-- The expression of an individual's genuine opinion at the moment of answering a survey question, according to the RAS Model.
-
-## Political Environment
-
-- The overarching setting or climate in which political information is disseminated and in which political attitudes are formed.
-
-## Political Awareness
-
-- The degree to which an individual is informed about and engaged with political issues and information.
-
-## Political Predispositions
-
-- An individual's pre-existing attitudes, beliefs, or values that influence how they receive and interpret new political information.
 
 ## Deductions from Model (Chapter 4)
 
