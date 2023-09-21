@@ -48,31 +48,45 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 ## Deductions from Model (Chapter 4)
 
-1. **Deduction D1:** Attitude responses to survey questions tend to fluctuate over time due to the inconsistency of considerations. (Supported)
+1. **Deduction D1:** Attitude responses to survey questions tend to fluctuate over time due to the inconsistency of considerations.
+   - *Supported:* The text discusses how attitudes fluctuate over time, and these fluctuations are attributed to the inconsistency of the considerations that individuals bring to mind when responding to survey questions.
 
-2. **Deduction D2:** The inconsistencies in attitudes are not due to random variation but reflect genuine fluctuations in the considerations that individuals bring to mind when responding to survey questions. (Supported)
+2. **Deduction D2:** The inconsistencies in attitudes are not due to random variation but reflect genuine fluctuations in the considerations that individuals bring to mind when responding to survey questions.
+   - *Supported:* The text indicates that the inconsistencies in attitudes are not random but are rooted in genuine fluctuations in the considerations that individuals have.
 
-3. **Deduction D3:** These fluctuations in considerations can be attributed to the phenomenon of ambivalence, where individuals hold mixed or conflicting attitudes on certain issues. (Supported)
+3. **Deduction D3:** These fluctuations in considerations can be attributed to the phenomenon of ambivalence, where individuals hold mixed or conflicting attitudes on certain issues.
+   - *Supported:* The text mentions the phenomenon of ambivalence and how it contributes to fluctuations in attitudes and considerations.
 
-4. **Deduction D4:** Response instability consists largely of chance variation around a stable central tendency when the flow of communications remains steady. (Supported)
+4. **Deduction D4:** Response instability consists largely of chance variation around a stable central tendency when the flow of communications remains steady.
+   - *Supported:* The text discusses how response instability primarily involves chance variation around a stable central tendency when the flow of communications remains steady.
 
-5. **Deduction D5:** Better-informed individuals are more likely to possess cueing information that helps them reject communications inconsistent with their values. (Supported)
+5. **Deduction D5:** Better-informed individuals are more likely to possess cueing information that helps them reject communications inconsistent with their values.
+   - *Supported:* The text suggests that better-informed individuals are more likely to reject communications inconsistent with their values, supporting this deduction.
 
-6. **Deduction D6:** More politically aware individuals are likely to form considerations that are homogeneously consistent with their values, leading to greater response stability. (Supported)
+6. **Deduction D6:** More politically aware individuals are likely to form considerations that are homogeneously consistent with their values, leading to greater response stability.
+   - *Supported:* The text discusses how more politically aware individuals tend to form more homogeneous considerations, which contributes to greater response stability.
 
-7. **Deduction D7:** More politically aware individuals exhibit less random instability in their closed-ended attitude reports. (Supported)
+7. **Deduction D7:** More politically aware individuals exhibit less random instability in their closed-ended attitude reports.
+   - *Supported:* The text mentions that more politically aware individuals exhibit less random instability in their attitude reports, supporting this deduction.
 
-8. **Deduction D8:** Attitude stability is stronger for issues with clear partisan divisions, as they provide clearer message cues to the public. (Supported)
+8. **Deduction D8:** Attitude stability is stronger for issues with clear partisan divisions, as they provide clearer message cues to the public.
+   - *Supported:* The text discusses how attitude stability can be stronger for issues with clear partisan divisions, which provide clearer message cues, supporting this deduction.
 
-9. **Deduction D9:** Attitude statements are more reliable for issues that are highly salient and frequently discussed by the public. (Supported)
+9. **Deduction D9:** Attitude statements are more reliable for issues that are highly salient and frequently discussed by the public.
+   - *Supported:* The text mentions that attitude statements on certain issues are more reliable, indicating that these issues are highly salient and frequently discussed by the public, supporting this deduction.
 
-10. **Deduction D10:** Individuals who care strongly about issues or are part of issue publics will exhibit less random variability in their attitude statements. (Partially Supported)
+10. **Deduction D10:** Individuals who care strongly about issues or are part of issue publics will exhibit less random variability in their attitude statements.
+    - *Partially Supported:* The text provides some evidence supporting this deduction but also mentions conflicting findings regarding the relationship between issue importance and response variability.
 
-11. **Deduction D11:** In a stable informational environment, individuals remain near their equilibrium points, resulting in minimal susceptibility to systematic attitude change. (Supported)
+11. **Deduction D11:** In a stable informational environment, individuals remain near their equilibrium points, resulting in minimal susceptibility to systematic attitude change.
+    - *Supported:* The text discusses how individuals tend to remain near their equilibrium points in a stable informational environment, resulting in minimal susceptibility to systematic attitude change.
 
-12. **Deduction D12:** Changes in the direction of open-ended remarks are associated with changes in the direction of closed-ended survey responses. (Partially Supported)
+12. **Deduction D12:** Changes in the direction of open-ended remarks are associated with changes in the direction of closed-ended survey responses.
+    - *Partially Supported:* The text provides some evidence for this deduction but mentions that the relationship is not entirely consistent.
 
-13. **Deduction D13:** Response instability is partly due to internal conflict in individuals' considerations, which may occur across interviews and remain unnoticed. (Supported)
+13. **Deduction D13:** The internal conflict most responsible for response instability is conflict of which respondents themselves are unaware because it occurs across rather than within interviews.
+    - *Supported:* The text suggests that internal conflict occurring across interviews contributes to response instability, supporting this deduction.
+
 
 
 # Chapter 2: Information, predispositions, and opinion
