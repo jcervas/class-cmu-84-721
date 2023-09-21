@@ -48,46 +48,31 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 ## Deductions from Model (Chapter 4)
 
-# Deductions and Supporting Evidence from the Text
+1. **Deduction D1:** Shifting balance of liberal and conservative communications leads to systematic attitude change.
 
-1. **Deduction D1:** Attitude responses to survey questions tend to fluctuate over time due to the inconsistency of considerations.
-   - *Supported:* Attitudes can fluctuate over time due to the shifting balance of liberal and conservative communications, leading to systematic attitude change.
+2. **Deduction D2:** Response instability consists almost exclusively of chance variation around a largely stable central tendency.
 
-2. **Deduction D2:** The inconsistencies in attitudes are not due to random variation but reflect genuine fluctuations in the considerations that individuals bring to mind when responding to survey questions.
-   - *Supported:* Response instability consists of genuine fluctuations in the considerations that individuals bring to mind, not random variation.
+3. **Deduction D3:** Ambivalence contributes to fluctuations in attitudes and considerations.
 
-3. **Deduction D3:** These fluctuations in considerations can be attributed to the phenomenon of ambivalence, where individuals hold mixed or conflicting attitudes on certain issues.
-   - *Supported:* Ambivalence is mentioned as a factor contributing to fluctuations in attitudes and considerations.
+4. **Deduction D4:** When the flow of communications remains steady, response instability consists of chance variation around a stable central tendency.
 
-4. **Deduction D4:** Response instability consists largely of chance variation around a stable central tendency when the flow of communications remains steady.
-   - *Supported:* Response instability consists of chance variation around a stable central tendency when the flow of communications remains steady.
+5. **Deduction D5:** Better-informed individuals are more likely to reject communications inconsistent with their values.
 
-5. **Deduction D5:** Better-informed individuals are more likely to possess cueing information that helps them reject communications inconsistent with their values.
-   - *Supported:* Better-informed individuals are more likely to reject communications inconsistent with their values, indicating they possess cueing information.
+6. **Deduction D6:** More politically aware individuals tend to form more homogeneous considerations, contributing to greater response stability.
 
-6. **Deduction D6:** More politically aware individuals are likely to form considerations that are homogeneously consistent with their values, leading to greater response stability.
-   - *Supported:* More politically aware individuals tend to form more homogeneous considerations, contributing to greater response stability.
+7. **Deduction D7:** More politically aware individuals exhibit less random instability in their attitude reports.
 
-7. **Deduction D7:** More politically aware individuals exhibit less random instability in their closed-ended attitude reports.
-   - *Supported:* More politically aware individuals exhibit less random instability in their attitude reports.
+8. **Deduction D8:** Attitude stability can be stronger for issues with clear partisan divisions, as they provide clearer message cues.
 
-8. **Deduction D8:** Attitude stability is stronger for issues with clear partisan divisions, as they provide clearer message cues to the public.
-   - *Supported:* Attitude stability can be stronger for issues with clear partisan divisions, providing clearer message cues.
+9. **Deduction D9:** Attitude statements on certain issues are more reliable, suggesting high salience and frequent discussion.
 
-9. **Deduction D9:** Attitude statements are more reliable for issues that are highly salient and frequently discussed by the public.
-   - *Supported:* Attitude statements on certain issues are more reliable, indicating that these issues are highly salient and frequently discussed.
+10. **Deduction D10:** The relationship between issue importance and response variability may vary, with some evidence supporting it.
 
-10. **Deduction D10:** Individuals who care strongly about issues or are part of issue publics will exhibit less random variability in their attitude statements.
-    - *Partially Supported:* The text provides some evidence supporting this deduction but also mentions conflicting findings regarding the relationship between issue importance and response variability.
+11. **Deduction D11:** In a stable informational environment, individuals tend to remain near their equilibrium points, resulting in minimal susceptibility to systematic attitude change.
 
-11. **Deduction D11:** In a stable informational environment, individuals remain near their equilibrium points, resulting in minimal susceptibility to systematic attitude change.
-    - *Supported:* Individuals tend to remain near their equilibrium points in a stable informational environment, resulting in minimal susceptibility to systematic attitude change.
+12. **Deduction D12:** There is some evidence that changes in open-ended remarks are associated with changes in closed-ended responses.
 
-12. **Deduction D12:** Changes in the direction of open-ended remarks are associated with changes in the direction of closed-ended survey responses.
-    - *Partially Supported:* The text provides some evidence for this deduction but mentions that the relationship is not entirely consistent.
-
-13. **Deduction D13:** The internal conflict most responsible for response instability is conflict of which respondents themselves are unaware because it occurs across rather than within interviews.
-    - *Supported:* Internal conflict occurring across interviews contributes to response instability, supporting this deduction.
+13. **Deduction D13:** Internal conflict occurring across interviews contributes to response instability.
 
 
 # Chapter 2: Information, predispositions, and opinion
