@@ -43,8 +43,9 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 - **Political Awareness**: The degree to which an individual is informed about and engaged with political issues and information.
 
-- **Political Predispositions**: An individual's pre-existing attitudes, beliefs, or values that influence how they receive and interpret new political information.
-
+- **Political Predispositions**: An individual's pre-existing attitudes, beliefs, or values that influence how they receive and interpret new political information. it refers to an alteration in long-term response probabilities brought about by the acquisition of new considerations.
+- **Attitude Change**: It involves the process by which new considerations are added to the pool of existing considerations in a person's mind, permanently altering long-term response probabilities on the issue.
+   - Within the RAS (Reception-Acceptance-Similarity) model, attitudes, in the conventional sense of the term, do not exist. Instead, people make "attitude reports" or "survey responses" based on momentarily salient considerations. Attitude change, within this model, is not understood as a conversion experience but as a change in the balance of positive and negative considerations related to a given issue. In the RAS model, permanent alterations in long-term response probabilities are the equivalent of attitude change.
 
 ## Deductions from Model (Chapter 4)
 
