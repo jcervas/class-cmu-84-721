@@ -46,3 +46,60 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 ## Summary
 - The chapter wraps up by reiterating the complex interplay among various levels of information, attention to this information, and individual political values. It introduces a model based on these ideas, which will be detailed in the next chapter, that seeks to explain how the "considerations" available to individuals influence their responses to survey questions and decisions in general.
+
+
+# Chapter 3: How citizens acquire information and convert it into public opinion
+
+## Introduction
+
+- Introduces the Receive-Accept-Sample (RAS) Model as an alternative to existing models of public opinion.
+- Argues that traditional models are insufficient to explain the complexity and dynamism of public opinion.
+
+### The Problem with Existing Models
+
+- Criticizes existing models for assuming a static, unchanging 'true attitude' in individuals.
+- Discusses the limitations of the "conventional 'true attitude' model" and the "on-line model" for explaining public opinion.
+
+### The Four Axioms
+
+- Introduces the four axioms of the RAS Model but does not go into detail.
+  
+## Information Flows and the Sampling Axiom
+
+- Discusses the significance of information flows in shaping public opinion.
+- Focuses on the 'Sampling Axiom,' which posits that people sample from available considerations to form an opinion at the moment of inquiry.
+
+### The Crux of the Argument
+
+- Highlights the importance of situational variables and considerations in forming an opinion.
+- Argues that individuals may sample different considerations based on the issue at hand, making public opinion dynamic rather than static.
+
+### Challenges to the Sampling Axiom
+
+- Addresses objections to the Sampling Axiom, noting it is a generalization but one that holds in most cases.
+  
+## The RAS Model and Other Theories
+
+- Compares the RAS Model to other prevalent theories like the 'on-line model.'
+- Criticizes the 'on-line model' for being unrealistic in its expectations of how people process political information.
+
+### Why the On-line Model Falls Short
+
+- Argues that the on-line model is impractical because it expects people to update a range of attitudes based on each piece of new information.
+- States that the on-line model is simply a restatement of the conventional "true attitude" model, which has been shown to be inadequate.
+
+### Terminology: From "True Attitudes" to "Opinion Statements"
+
+- Introduces the term 'Opinion Statement' as a more accurate descriptor than 'true attitudes' for what the model proposes.
+  
+## How the Model is Used in This Book
+
+- Explains how the four axioms will be used throughout the book to explore various aspects of mass opinion in different political environments.
+
+### Methodology of the Book
+
+- Outlines the methodological approach, which involves deducing implications from the four axioms and testing them empirically.
+  
+### Preview of the Argument
+
+- Provides a preview of how the RAS Model will be used to explain changes in public opinion based on various factors like political awareness and changes in information flow.
