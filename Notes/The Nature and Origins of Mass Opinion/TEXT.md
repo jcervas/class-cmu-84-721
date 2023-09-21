@@ -1,3 +1,7 @@
+Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press. https://www.cambridge.org/core/books/nature-and-origins-of-mass-opinion/70B1485D3A9CFF55ADCCDD42FC7E926A.
+
+FULL TEXT (no footnotes or tables)
+
 # Chapter 2: Information, predispositions, and opinion
 
 Every opinion is a marriage of information and predisposition: information to form a mental picture of the given issue, and predisposition to motivate some conclusion about it. The central aim of this book is to show how, across a very wide range of issues, variations in the information carried in elite discourse, individual differences in attention to this information, and individual differences in political values and other predispositions jointly determine the contours of public opinion. The book, thus, is most crucially about the relationship among information, predispositions, and opinion. The present chapter introduces and defines these key terms, examines some critical problems associated with their study, and shows in a preliminary way how they relate to one another. In so doing, it develops the intuitions behind the more technical core of the book, which begins in Chapter 3. 
