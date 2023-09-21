@@ -20,13 +20,13 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 ### Table 4.1. Axioms of Receive-Accept-Sample (RAS) model 
   #### Al. Reception Axiom. 
-    + The greater a person's level of cognitive engagement with an issue, the more likely he or she is to be exposed to and comprehend - in a word, to receive - political messages concerning that issue.
+    The greater a person's level of cognitive engagement with an issue, the more likely he or she is to be exposed to and comprehend - in a word, to receive - political messages concerning that issue.
   #### A2. Resistance Axiom. 
-    + People tend to resist arguments that are inconsistent with their political predispositions, but they do so only to the extent that they possess the contextual information necessary to perceive a relationship between the message and their predispositions.
+    People tend to resist arguments that are inconsistent with their political predispositions, but they do so only to the extent that they possess the contextual information necessary to perceive a relationship between the message and their predispositions.
   #### A3. Accessibility Axiom. 
-    +The more recently a consideration has been called to mind or thought about, the less time it takes to retrieve that consideration or related considerations from memory and bring them to the top of the headfor use.
+    The more recently a consideration has been called to mind or thought about, the less time it takes to retrieve that consideration or related considerations from memory and bring them to the top of the headfor use.
   #### A4. Response Axiom. 
-    + Individuals answer survey questions by averaging across the considerations that are immediately salient or accessible to them.
+    Individuals answer survey questions by averaging across the considerations that are immediately salient or accessible to them.
 
 ## Public Opinion
 
