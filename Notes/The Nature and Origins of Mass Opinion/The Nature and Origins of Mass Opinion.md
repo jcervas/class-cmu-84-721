@@ -2,6 +2,68 @@
 
 Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press. https://www.cambridge.org/core/books/nature-and-origins-of-mass-opinion/70B1485D3A9CFF55ADCCDD42FC7E926A.
 
+# Key Terms and Definitions
+
+## Receive-Accept-Sample (RAS) Model
+
+- A model for understanding public opinion that is based on four axioms. This model posits that people receive information, decide whether to accept it, and then sample from these accepted considerations when forming an opinion.
+
+## Receive-Accept-Sample (RAS) Model Axioms
+
+1. **Reception Axiom**: The likelihood of an individual receiving a particular piece of information is affected by their level of political awareness.
+  
+2. **Resistance Axiom**: Individuals are more likely to resist information that conflicts with their existing beliefs and opinions.
+
+3. **Sampling Axiom**: When forming an opinion or answering a survey question, people sample from the set of considerations that they have accepted and internalized.
+
+4. **Response Axiom**: An individual's response to a question about a policy or issue depends on the mix of positive and negative considerations available in their mind at the moment of inquiry.
+
+## Public Opinion
+
+- The collective attitudes or beliefs of the public about a given subject, particularly in the context of politics and policy issues.
+
+## True Attitude Model
+
+- A conventional model that assumes people have a single, unchanging 'true attitude' toward an issue, which is problematic according to the RAS Model.
+
+## On-line Model
+
+- A theoretical model that assumes people continuously update their attitudes based on new information. Criticized for being unrealistic in how people actually process and update attitudes.
+
+## Information Flows
+
+- Streams of messages, arguments, or cues that individuals are exposed to from their environment, especially in the context of political information.
+
+## Sampling Axiom
+
+- One of the four axioms in the RAS Model, stating that people sample from available considerations to form an opinion at the moment of inquiry.
+
+## Considerations
+
+- Information, beliefs, or opinions that people hold, from which they 'sample' when forming an attitude or answering a survey question.
+
+## Situational Variables
+
+- Variables that can affect which 'considerations' are most salient or relevant at a given moment when an individual is forming an opinion.
+
+## Opinion Statement
+
+- The expression of an individual's genuine opinion at the moment of answering a survey question, according to the RAS Model.
+
+## Political Environment
+
+- The overarching setting or climate in which political information is disseminated and in which political attitudes are formed.
+
+## Political Awareness
+
+- The degree to which an individual is informed about and engaged with political issues and information.
+
+## Political Predispositions
+
+- An individual's pre-existing attitudes, beliefs, or values that influence how they receive and interpret new political information.
+
+
+
 # Chapter 2: Information, predispositions, and opinion
 
 ## Introduction
