@@ -10,23 +10,17 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 ## Receive-Accept-Sample (RAS) Model Axioms
 
-1. **Reception Axiom**: The likelihood of an individual receiving a particular piece of information is affected by their level of political awareness.
+1. **Reception Axiom**: The greater a person's level of cognitive engagement with an issue, the more likely he or she is to be exposed to and comprehend - in a word, to receive - political messages concerning that issue.
+   - The likelihood of an individual receiving a particular piece of information is affected by their level of political awareness.
   
-2. **Resistance Axiom**: Individuals are more likely to resist information that conflicts with their existing beliefs and opinions.
+3. **Resistance Axiom**: People tend to resist arguments that are inconsistent with their political predispositions, but they do so only to the extent that they possess the contextual information necessary to perceive a relationship between the message and their predispositions.
+   - Individuals are more likely to resist information that conflicts with their existing beliefs and opinions.
 
-3. **Sampling Axiom**: When forming an opinion or answering a survey question, people sample from the set of considerations that they have accepted and internalized.
+5. **Accessibility Axiom**: The more recently a consideration has been called to mind or thought about, the less time it takes to retrieve that consideration or related considerations from memory and bring them to the top of the head for use.
 
-4. **Response Axiom**: An individual's response to a question about a policy or issue depends on the mix of positive and negative considerations available in their mind at the moment of inquiry.
-
-### Table 4.1. Axioms of Receive-Accept-Sample (RAS) model 
-  #### Al. Reception Axiom. 
-    The greater a person's level of cognitive engagement with an issue, the more likely he or she is to be exposed to and comprehend - in a word, to receive - political messages concerning that issue.
-  #### A2. Resistance Axiom. 
-    People tend to resist arguments that are inconsistent with their political predispositions, but they do so only to the extent that they possess the contextual information necessary to perceive a relationship between the message and their predispositions.
-  #### A3. Accessibility Axiom. 
-    The more recently a consideration has been called to mind or thought about, the less time it takes to retrieve that consideration or related considerations from memory and bring them to the top of the headfor use.
-  #### A4. Response Axiom. 
-    Individuals answer survey questions by averaging across the considerations that are immediately salient or accessible to them.
+7. **Response Axiom**: Individuals answer survey questions by averaging across the considerations that are immediately salient or accessible to them.
+   - An individual's response to a question about a policy or issue depends on the mix of positive and negative considerations available in their mind at the moment of inquiry.
+    
 
 ## Public Opinion
 
