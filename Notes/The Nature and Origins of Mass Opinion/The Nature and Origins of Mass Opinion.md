@@ -20,7 +20,8 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 7. **Response Axiom**: Individuals answer survey questions by averaging across the considerations that are immediately salient or accessible to them.
    - An individual's response to a question about a policy or issue depends on the mix of positive and negative considerations available in their mind at the moment of inquiry.
-    
+
+## Key terms and defintions
 
 - **Public Opinion**: The collective attitudes or beliefs of the public about a given subject, particularly in the context of politics and policy issues.
 
