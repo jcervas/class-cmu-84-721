@@ -66,6 +66,33 @@ Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambrid
 
 - An individual's pre-existing attitudes, beliefs, or values that influence how they receive and interpret new political information.
 
+## Deductions from Model (Chapter 4)
+
+1. **Deduction D1:** Attitude responses to survey questions tend to fluctuate over time due to the inconsistency of considerations. (Supported)
+
+2. **Deduction D2:** The inconsistencies in attitudes are not due to random variation but reflect genuine fluctuations in the considerations that individuals bring to mind when responding to survey questions. (Supported)
+
+3. **Deduction D3:** These fluctuations in considerations can be attributed to the phenomenon of ambivalence, where individuals hold mixed or conflicting attitudes on certain issues. (Supported)
+
+4. **Deduction D4:** Response instability consists largely of chance variation around a stable central tendency when the flow of communications remains steady. (Supported)
+
+5. **Deduction D5:** Better-informed individuals are more likely to possess cueing information that helps them reject communications inconsistent with their values. (Supported)
+
+6. **Deduction D6:** More politically aware individuals are likely to form considerations that are homogeneously consistent with their values, leading to greater response stability. (Supported)
+
+7. **Deduction D7:** More politically aware individuals exhibit less random instability in their closed-ended attitude reports. (Supported)
+
+8. **Deduction D8:** Attitude stability is stronger for issues with clear partisan divisions, as they provide clearer message cues to the public. (Supported)
+
+9. **Deduction D9:** Attitude statements are more reliable for issues that are highly salient and frequently discussed by the public. (Supported)
+
+10. **Deduction D10:** Individuals who care strongly about issues or are part of issue publics will exhibit less random variability in their attitude statements. (Partially Supported)
+
+11. **Deduction D11:** In a stable informational environment, individuals remain near their equilibrium points, resulting in minimal susceptibility to systematic attitude change. (Supported)
+
+12. **Deduction D12:** Changes in the direction of open-ended remarks are associated with changes in the direction of closed-ended survey responses. (Partially Supported)
+
+13. **Deduction D13:** Response instability is partly due to internal conflict in individuals' considerations, which may occur across interviews and remain unnoticed. (Supported)
 
 
 # Chapter 2: Information, predispositions, and opinion
