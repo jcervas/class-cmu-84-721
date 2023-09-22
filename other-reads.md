@@ -317,6 +317,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Becker, A., Duchin, M., Gold, D., & Hirsch, S. (2021). Computational Redistricting and the Voting Rights Act. Election Law Journal: Rules, Politics, and Policy, 20(4), 407--441. [Read Here](https://doi.org/10.1089/elj.2020.0704)
   + Duchin, M., & Spencer, D. M. (2021). Models, Race, and the Law. Yale Law Journal Forum, 55--58.
   + Canon, D. T. (2022). Race and Redistricting. Https://Doi.Org/10.1146/Annurev-Polisci-041719-102107, 25(1), 509--528. [Read Here](https://doi.org/10.1146/ANNUREV-POLISCI-041719-102107)
+  + Greenwood, Ruth, and Nicholas Stephanopoulos. forthcoming. “Voting Rights Federalism.” Emory Law Journal. [Read Here](https://papers.ssrn.com/abstract=4459538)
 
 ### Books
   + Hasen, R. L. (2020). Election Meltdown: Dirty Tricks, Distrust, and the Threat to American Democracy. Yale University Press.
