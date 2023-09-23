@@ -212,6 +212,7 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 2. The Great Debate (EVERYONE)
 
 - **Thursday, September 21**:
+  + (REPLACE? Zaller, John. 1991. “Information, Values, and Opinion.” American Political Science Review 85(4): 1215–1237. [Read Here](https://www.cambridge.org/core/product/identifier/S0003055400180463/type/journal_article)
   + Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press. 
     * _Carefully review pages 53-54, summary of axioms on page 58, pages 74-75, 91-96, 113-114, figure 7.4 (p. 143), figure 8.2 (p. 156)._
     * Chapter 2. Information, predispositions, and opinion (EVERYONE)
