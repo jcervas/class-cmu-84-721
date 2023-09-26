@@ -231,6 +231,7 @@ Class will be organized under several general topics, ranging from theory and de
   + Converse, Philip E. 2000. “Assessing the Capacity of Mass Electorates.” Annual Review of Political Science 3(1): 331–353. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev.polisci.3.1.331)
  (EVERYONE)
   + Zaller, John. 2012. “WHAT NATURE AND ORIGINS LEAVES OUT.” Critical Review 24(4): 569–642. [Read Here](http://www.tandfonline.com/doi/abs/10.1080/08913811.2012.807648) (EVERYONE)
+  + (ADD FOR NEXT YEAR?) Wattenberg, Martin P. 2019. “The Changing Nature of Mass Belief Systems: The Rise of Concept and Policy Ideologues.” Critical Review 31(2): 198–229. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2019.1690223)
 
 - **Thursday, September 28**:
   + Canes-Wrone, Brandice. 2015. “From Mass Preferences to Policy.” Annual Review of Political Science 18(1): 147–165. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-050311-165552) (Lauren)
