@@ -1,97 +1,33 @@
-# Comprehensive Outline: "Political choice in a polarized America: How elite polarization shapes mass behavior"
+# Summary of Introduction: "Political choice in a polarized America: How elite polarization shapes mass behavior"
 
-## Introduction
-
-### Objectives and Key Terms
-
-- **Elite Polarization**: The increasing ideological distance between political elites, like party leaders and elected officials.
-- **Mass Behavior**: The collective actions, attitudes, and voting behaviors of the general public.
-- **Policy Orientations**: Individual beliefs and attitudes toward public policy issues.
-- **Partisanship**: Strong allegiance to one's own political party.
-- **Vote Choice**: The decision of individuals to vote for a specific candidate or party.
-
-### Book Objectives
-
-- Investigate how elite polarization affects mass political behavior.
-- Examine how the relationships between policy orientations, partisanship, elite polarization, and vote choice evolve over time.
-
----
-
-## Research Design and Objectives
-
-### Purpose and Goals
-
-- **Primary Goal**: To understand how policy orientations, partisanship, and vote choice are influenced by elite polarization.
-- **Secondary Goal**: To validate the theory through the use of multiple datasets and research methods.
-
-### Types of Data Employed
-
-#### Panel Data
-
-- **Definition**: Longitudinal data that tracks changes in the same individuals over time.
-- **Importance**: Critical for observing how policy orientations influence partisanship and vice versa.
-
-#### Cross-Sectional Time Series Data
-
-- **Definition**: Data collected from different individuals at multiple points in time.
-- **Importance**: Allows for analysis across broader populations and timeframes.
-
----
-
-## Data Types: Detailed Discussion
-
-### Panel Data Objectives
-
-- Assess if policy orientations are a major driver of change in partisanship.
+## Objectives
+- Investigate the impact of **Elite Polarization** (ideological separation among political elites) on **Mass Behavior** (collective actions, attitudes, and voting behaviors of the public).
   
-### Cross-Sectional Time Series Data Objectives
+## Key Terms Defined
+- **Elite Polarization**: Increasing ideological distance among political elites.
+- **Mass Behavior**: Collective actions, attitudes, and voting behaviors of the general public.
+- **Policy Orientations**: Individual beliefs towards public policy issues.
+- **Partisanship**: Strong allegiance to a political party.
+- **Vote Choice**: Decision to vote for a specific candidate or party.
 
-- Examine how relationships between policy orientations, partisanship, elite polarization, and vote choice have evolved in the broader electorate.
+## Data Types Used
+- **Panel Data**: Tracks the same individuals over time. Essential for understanding the change within individuals, particularly in terms of policy orientations.
+- **Cross-Sectional Time Series Data**: Provides a snapshot at different time intervals across the electorate. Used to analyze how relationships between policy orientations, partisanship, and vote choice have changed over time.
 
----
+## Argument Structure
 
-## Theoretical Claims and Expectations
+### Individual-Level Analysis
+- Utilizes data from **American National Election Study (ANES)** and **General Social Survey (GSS)**.
+- ANES focuses on political attitudes and behaviors since 1948.
+- GSS is more sociological and thus less likely to prime respondents to think in political terms.
+- Data span long periods (e.g., ANES from 1972–2016, GSS from 1983–2016) to capture changing mass behavior.
 
-### Role of Policy Orientations
+### Elite-Level Analysis
+- Data sources include **NOMINATE** data, which assigns ideology scores to members of Congress, and **Americans for Democratic Action (ADA)** rankings.
+- Also uses **Shor and McCarty’s State Legislator Ideological Data** for state-level analysis.
 
-- **Claim**: Policy orientations significantly shape individual behavior and influence how partisanship changes over time.
-
-### Impact of Elite Polarization
-
-- **Expectation**: Elite polarization amplifies the effects of policy orientations on political choices.
-
-### Individual and Contextual Factors
-
-- **Claim**: Political behavior varies as a function of the changing context created by elite polarization.
-
----
-
-## Data Sources and Their Merits
-
-### Individual-Level Data
-
-#### American National Election Study (ANES)
-
-- Comprehensive, specific to political attitudes, and spans multiple decades.
-
-#### General Social Survey (GSS)
-
-- Collected annually, covers broad topics, and valuable for less politically-charged responses.
-
-### Elite-Level Data
-
-#### NOMINATE Data
-
-- **Definition**: Assigns ideology scores to legislators based on roll-call votes.
-  
-#### Americans for Democratic Action (ADA) Rankings
-
-- **Definition**: Ranks members of Congress based on key roll-call votes each year.
-
----
-
-## Methodological Rigor and Novelty
-
-- Uses longitudinal data to capture changes over time.
-- Novel in integrating both individual and contextual (elite-level) variables into models of political choice.
-
+## Theory and Claims
+- **Primary Theory**: Elite polarization amplifies the effects of policy orientations but only if individual-level policy attitudes are stable.
+- **Individual Change**: Argues that individuals align their partisanship based on their policy orientations.
+- **Transforming the Electorate**: Longitudinal changes on an individual level can collectively affect the broader electorate.
+- **Context Matters**: Claims that much of what we think we know about mass political behavior is an artifact of context. Behavior changes depending on the context, which is shaped by elite behavior.
