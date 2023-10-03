@@ -1,81 +1,94 @@
-# Expanded Outline of Introduction Chapter: "Political choice in a polarized America: How elite polarization shapes mass behavior"
+# Comprehensive Outline: "Political choice in a polarized America: How elite polarization shapes mass behavior"
+
+## Introduction
+
+### Objectives of the Book
+
+- Analyze how elite polarization has influenced mass political behavior in America.
+
+---
 
 ## Research Design
 
 ### Objectives
 
-- **Goal**: To assess how relationships between key variables like policy orientations, partisanship, elite polarization, and vote choice have changed over time in the electorate.
+- **Primary Goal**: To understand how the relationships between policy orientations, partisanship, elite polarization, and vote choice have evolved over time.
+- **Secondary Goals**: 
+    - Test the validity of the theory across multiple datasets.
 
-### Methodology
+### Methodological Framework
 
-- Utilizes two types of data:
+- Employing a two-pronged data approach:
     1. **Panel Data**
     2. **Cross-Sectional Time Series Data**
 
 ---
 
-## Types of Data and Their Importance
+## Detailed Discussion of Data Types
 
 ### Panel Data
 
-- **Definition**: Data collected from the same subjects repeatedly over a period of time.
-- **Importance**: Vital for tracking changes within individuals. 
-
+- **Definition**: Longitudinal data collected from the same subjects repeatedly over specific time intervals.
+- **Importance**: 
+    - To validate the claim that policy orientations are important in shaping individual-level changes.
+    - To check whether individuals align their partisanship with their policy orientations over time.
+    
 ### Cross-Sectional Time Series Data
 
-- **Definition**: Data collected at multiple time points but not from the same subjects.
-- **Importance**: Used to assess changes across the entire electorate over a long period.
+- **Definition**: Data collected at different time points but not necessarily from the same subjects.
+- **Importance**:
+    - To evaluate changes across the electorate over a long period.
+    - To assess how policy orientations and political choices are related at a mass level.
 
 ---
 
-## Theoretical Arguments and Claims
+## Theoretical Framework and Claims
 
-### The Role of Policy Orientations
+### Importance of Policy Orientations
 
-- **Claim**: Policy orientations are a key political disposition and an important driver of change within individuals.
-- **Test**: If individuals align their partisanship according to their policy orientations over time.
+- **Initial Claim**: Policy orientations are pivotal in driving changes within individuals.
+- **Theoretical Test**: Observing whether individuals update their partisanship to align with their policy orientations.
 
-### Impact of Elite Polarization
+### The Role of Elite Polarization
 
-- **Expectation**: Elite polarization amplifies the effect of policy orientations.
-- **Condition**: This holds true only if individual level policy attitudes are stable, as shown by repeated panel data.
+- **Expectation**: Elite polarization increases the impact of policy orientations on individual choices.
+- **Conditional Factors**: 
+    - The claim is valid only if individual-level policy orientations are stable, as evidenced by panel data.
 
-### Contextual Behavior
+### The Contextual Nature of Political Behavior
 
-- **Argument**: Mass political behavior varies depending on the context, such as the level of elite polarization.
-- **Implication**: Traditional models might not be sufficient to explain political behavior across different eras.
+- **Argument**: Mass political behavior is not static but varies according to elite-level changes.
+- **Implication**: 
+    - Challenges to the traditional models of political behavior.
+    - Context such as elite polarization significantly influences mass behavior.
 
 ---
 
-## Sources of Data
+## Data Sources
 
 ### Individual-Level Data
 
 - **American National Election Study (ANES)**
-    - Long history since 1948
-    - Administered every four years
+    - Coverage: Since 1948, administered every four years.
+    - Comprehensive questions on political attitudes and behaviors.
 - **General Social Survey (GSS)**
-    - Collected annually
-    - Not specifically a political survey
+    - Coverage: Conducted annually.
+    - Variety of questions on political attitudes but not limited to politics.
+    - Less likelihood of expressive responding due to its broad focus.
 
 ### Elite-Level Data
 
 - **NOMINATE Data**
-    - Measures legislator ideology
+    - Provides ideological scores to members of Congress based on roll call votes.
+    - Includes two dimensions of ideology: economic left-right and a secondary, historical dimension.
 - **Americans for Democratic Action (ADA) Rankings**
-    - Rank members of Congress based on roll call votes
+    - Ranks Congress members based on specific roll call votes.
 
 ---
 
-## Theoretical Implications
+## Methodological Rigor and Implications
 
-- Changes at the elite level have transformed mass behavior.
-- The necessity of data that spans multiple decades.
-- New approach in political science, focusing on mass behavior in context.
+- Utilizes long-spanning data to observe transformations in mass behavior.
+- Adds a novel approach to the study of political behavior by integrating elite-level context.
+- The use of multiple independent datasets enhances the validity and comprehensiveness of the study.
 
----
-
-## Advantages of Using Multiple Datasets
-
-- Validates findings and theories.
-- Allows the assessment of different question wordings, sampling procedures, etc.
