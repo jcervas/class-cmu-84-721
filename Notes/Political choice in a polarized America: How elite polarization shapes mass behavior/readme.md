@@ -1,5 +1,9 @@
 # Summary: Introduction to "Political choice in a polarized America: How elite polarization shapes mass behavior"
 
+## Summary
+
+The introduction chapter of the book "Political choice in a polarized America: How elite polarization shapes mass behavior" sets the framework for understanding how elite polarization in American politics affects mass behavior. The central aim is to explore two key questions: First, how do individual policy orientations (stances on policy issues) influence one's partisanship (loyalty to a political party) and vote choice (selection of a candidate or party)? Second, how has this relationship evolved under the impact of increasing ideological division among political elites, referred to as "elite polarization"?
+
 ## Objectives
 
 The introduction sets the stage for an in-depth exploration of how elite polarization influences mass political behavior in America. It aims to answer two core questions:
