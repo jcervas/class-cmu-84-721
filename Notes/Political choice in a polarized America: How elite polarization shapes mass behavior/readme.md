@@ -57,3 +57,17 @@ The author's approach is novel in that it integrates both individual and elite-l
 ## Conclusion
 
 The introduction establishes the theoretical and methodological framework for exploring how elite polarization has shaped mass behavior in the American political landscape. It argues that understanding the influence of policy orientations and partisanship, and how they interact within a polarized context, is key to unlocking the complexities of political behavior.
+
+## Longer Summary
+
+The introduction chapter of the book "Political choice in a polarized America: How elite polarization shapes mass behavior" sets the framework for understanding how elite polarization in American politics affects mass behavior. The central aim is to explore two key questions: First, how do individual policy orientations (stances on policy issues) influence one's partisanship (loyalty to a political party) and vote choice (selection of a candidate or party)? Second, how has this relationship evolved under the impact of increasing ideological division among political elites, referred to as "elite polarization"?
+
+To answer these questions, the author employs two types of data: panel data and cross-sectional time series data. Panel data, or longitudinal data, are used to track the same individuals over time to see if their partisanship adjusts to match their policy orientations. This is pivotal for confirming the author's claim that policy orientations are a significant factor driving change within individuals. Cross-sectional time series data, on the other hand, provide a snapshot of the electorate at multiple time points and are employed to assess broader trends and relationships among policy orientations, partisanship, and vote choice over time.
+
+The author's main theoretical assertion is that policy orientations are not just mere political preferences; they serve as a key political disposition that significantly influences an individual's party alignment. Moreover, the author posits that elite polarization magnifies the effect of policy orientations on political choice. However, this theory only holds if individual policy orientations remain stable over time, a proposition tested using panel data.
+
+The data for the research is sourced from two main surveys: the American National Election Study (ANES) and the General Social Survey (GSS). ANES is focused strictly on political attitudes, whereas the GSS covers a broader range of topics and is administered annually. The author also uses elite-level data, including NOMINATE scores that rank legislators based on roll-call votes, and Americans for Democratic Action (ADA) rankings to measure partisan and ideological polarization among political elites.
+
+The book's approach is innovative in that it combines individual and elite-level data to understand political choice comprehensively. It aims to show that both policy orientations and partisanship are crucial in shaping political behavior, but their significance is also dictated by the broader contextual environment, which is influenced by elite polarization.
+
+In summary, the introduction serves as a blueprint for the rest of the book, outlining the theoretical framework, methodological approaches, and data sources. It makes a strong case for the need to study both individual behavior and elite polarization to fully grasp the complexities of political choice in a polarized American landscape.
