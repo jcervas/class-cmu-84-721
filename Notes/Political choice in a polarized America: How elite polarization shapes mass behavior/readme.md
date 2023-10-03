@@ -1,4 +1,4 @@
-# Outline of Introduction Chapter: "Political choice in a polarized America: How elite polarization shapes mass behavior"
+# Expanded Outline of Introduction Chapter: "Political choice in a polarized America: How elite polarization shapes mass behavior"
 
 ## Research Design
 
@@ -25,6 +25,25 @@
 
 - **Definition**: Data collected at multiple time points but not from the same subjects.
 - **Importance**: Used to assess changes across the entire electorate over a long period.
+
+---
+
+## Theoretical Arguments and Claims
+
+### The Role of Policy Orientations
+
+- **Claim**: Policy orientations are a key political disposition and an important driver of change within individuals.
+- **Test**: If individuals align their partisanship according to their policy orientations over time.
+
+### Impact of Elite Polarization
+
+- **Expectation**: Elite polarization amplifies the effect of policy orientations.
+- **Condition**: This holds true only if individual level policy attitudes are stable, as shown by repeated panel data.
+
+### Contextual Behavior
+
+- **Argument**: Mass political behavior varies depending on the context, such as the level of elite polarization.
+- **Implication**: Traditional models might not be sufficient to explain political behavior across different eras.
 
 ---
 
