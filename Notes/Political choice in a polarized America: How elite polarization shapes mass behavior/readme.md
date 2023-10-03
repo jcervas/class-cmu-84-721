@@ -2,10 +2,18 @@
 
 ## Introduction
 
+### Objectives and Key Terms
+
+- **Elite Polarization**: The increasing ideological distance between political elites, like party leaders and elected officials.
+- **Mass Behavior**: The collective actions, attitudes, and voting behaviors of the general public.
+- **Policy Orientations**: Individual beliefs and attitudes toward public policy issues.
+- **Partisanship**: Strong allegiance to one's own political party.
+- **Vote Choice**: The decision of individuals to vote for a specific candidate or party.
+
 ### Book Objectives
 
-- Analyze the impact of elite polarization on mass political behavior.
-- Evaluate how the relationships between policy orientations, partisanship, elite polarization, and vote choice have evolved over time.
+- Investigate how elite polarization affects mass political behavior.
+- Examine how the relationships between policy orientations, partisanship, elite polarization, and vote choice evolve over time.
 
 ---
 
@@ -13,41 +21,32 @@
 
 ### Purpose and Goals
 
-- **Primary Goal**: Understand the long-term evolution of the relationship between policy orientations, partisanship, and vote choice in a polarized environment.
-- **Secondary Goal**: Validate the theory by using multiple datasets and methods.
+- **Primary Goal**: To understand how policy orientations, partisanship, and vote choice are influenced by elite polarization.
+- **Secondary Goal**: To validate the theory through the use of multiple datasets and research methods.
 
-### Data Types Employed
+### Types of Data Employed
 
-- **Panel Data**: Longitudinal data that tracks the same individuals over a span of time.
-- **Cross-Sectional Time Series Data**: Data collected at different time points, not necessarily from the same subjects.
+#### Panel Data
+
+- **Definition**: Longitudinal data that tracks changes in the same individuals over time.
+- **Importance**: Critical for observing how policy orientations influence partisanship and vice versa.
+
+#### Cross-Sectional Time Series Data
+
+- **Definition**: Data collected from different individuals at multiple points in time.
+- **Importance**: Allows for analysis across broader populations and timeframes.
 
 ---
 
 ## Data Types: Detailed Discussion
 
-### Panel Data
+### Panel Data Objectives
 
-#### Definition and Importance
-
-- Longitudinal data for observing individual-level changes.
-- Validates if policy orientations drive partisanship.
+- Assess if policy orientations are a major driver of change in partisanship.
   
-#### Objectives
+### Cross-Sectional Time Series Data Objectives
 
-- To establish that policy orientations influence individual-level changes.
-- To track the alignment of partisanship and policy orientations over time.
-
-### Cross-Sectional Time Series Data
-
-#### Definition and Importance
-
-- Data for broad electorate-wide insights.
-- Critical for evaluating how the relationships between variables have changed at the mass level.
-
-#### Objectives
-
-- To analyze the electorate-wide impact of policy orientations and elite polarization on political choices.
-- To test the theory across broad timescales and populations.
+- Examine how relationships between policy orientations, partisanship, elite polarization, and vote choice have evolved in the broader electorate.
 
 ---
 
@@ -55,15 +54,15 @@
 
 ### Role of Policy Orientations
 
-- Claim: Policy orientations are pivotal in shaping individual behavior.
-  
+- **Claim**: Policy orientations significantly shape individual behavior and influence how partisanship changes over time.
+
 ### Impact of Elite Polarization
 
-- Elite polarization amplifies the impact of policy orientations on political choices.
-  
+- **Expectation**: Elite polarization amplifies the effects of policy orientations on political choices.
+
 ### Individual and Contextual Factors
 
-- How policy orientations and partisanship matter is context-dependent, especially with changes at the elite level.
+- **Claim**: Political behavior varies as a function of the changing context created by elite polarization.
 
 ---
 
@@ -71,28 +70,28 @@
 
 ### Individual-Level Data
 
-- **ANES (American National Election Study)**
-    - Comprehensive, long-standing, and focused on politics.
-- **GSS (General Social Survey)**
-    - Broad and annually conducted; valuable for less politically-charged responses.
-  
+#### American National Election Study (ANES)
+
+- Comprehensive, specific to political attitudes, and spans multiple decades.
+
+#### General Social Survey (GSS)
+
+- Collected annually, covers broad topics, and valuable for less politically-charged responses.
+
 ### Elite-Level Data
 
-- **NOMINATE Data**
-    - Ideological scoring based on roll call votes; captures economic left-right dimensions.
-- **ADA (Americans for Democratic Action) Rankings**
-    - Yearly rankings based on key roll call votes.
+#### NOMINATE Data
 
-### Additional Measures
+- **Definition**: Assigns ideology scores to legislators based on roll-call votes.
+  
+#### Americans for Democratic Action (ADA) Rankings
 
-- **Shor and McCarty’s State Legislator Ideological Data**
-    - Measures state-level ideological polarization.
+- **Definition**: Ranks members of Congress based on key roll-call votes each year.
 
 ---
 
 ## Methodological Rigor and Novelty
 
-- Longitudinal approach captures changes that shorter studies may miss.
-- Novelty in integrating elite-level context into individual-level behavior models.
-- Multiple datasets strengthen the validity of the study's claims.
+- Uses longitudinal data to capture changes over time.
+- Novel in integrating both individual and contextual (elite-level) variables into models of political choice.
 
