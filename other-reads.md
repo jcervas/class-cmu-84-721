@@ -70,6 +70,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Uscinski, J. E., Enders, A. M., Seelig, M. I., Klofstad, C. A., Funchion, J. R., Everett, C., Wuchty, S., Premaratne, K., & Murthi, M. N. (2021). *American Politics in Two Dimensions: Partisan and Ideological Identities versus Anti-Establishment Orientations*. 00(0), 1--19. [Read Here](https://doi.org/10.1111/ajps.12616)
   + “How Social Group Memberships Interact to Shape Partisanship, Policy Orientations, and Vote Choice | SpringerLink.” https://link.springer.com/article/10.1007/s11109-021-09725-7
   + Arceneaux, Kevin, and Rory Truex. 2023. “Donald Trump and the Lie.” Perspectives on Politics 21(3): 863–879. [Read Here](https://www.cambridge.org/core/journals/perspectives-on-politics/article/donald-trump-and-the-lie/A438DF5A45FE78CB2BC887859EFAB587?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Issues%20Society&WT.mc_id=New%20Cambridge%20Alert%20-%20Issues%20Society)
+  + Broockman, David E., Aaron R. Kaufman, and Gabriel S. Lenz. 2023. “Heuristic Projection: Why Interest Group Cues May Fail to Help Citizens Hold Politicians Accountable.” British Journal of Political Science: 1–19. [Read Here](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/heuristic-projection-why-interest-group-cues-may-fail-to-help-citizens-hold-politicians-accountable/CE8181EB3755614AF8C6DB8A1DC91D33)
 
 
 
@@ -99,6 +100,8 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Fiorina, M. P., & Abrams, S. J. (2008). Political Polarization in the American Public. *Annual Review of Political Science*, *11*, 563--588.
   + Binder, S. (2015). The Dysfunctional Congress. *Annual Review of Political Science*, *18*(1), 85--101. [Read Here](https://doi.org/10.1146/annurev-polisci-110813-032156)
   + Stewart, Alexander J., Joshua B. Plotkin, and Nolan McCarty. 2021. “Inequality, identity, and partisanship: How redistribution can stem the tide of mass polarization.” Proceedings of the National Academy of Sciences 118(50): e2102140118. https://pnas.org/doi/full/10.1073/pnas.2102140118
+  + Johnston, Richard. 2006. “PARTY IDENTIFICATION: Unmoved Mover or Sum of Preferences?” Annual Review of Political Science 9(1): 329–351. [Read Here](https://doi.org/10.1146/annurev.polisci.9.062404.170523)
+
 
 ### Books
   + Zingher, J. N. (2022). *Political Choice in a Polarized America: How Elite Polarization Shapes Mass Behavior*.
@@ -165,6 +168,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Verba, Schlozman, and Brady, "Rational Action and Political Activity," *Journal of* *Theoretical Politics* 12(3 2000):243-268
   + Uhlaner, C. J. (2015). Politics and Participation. In *International Encyclopedia of the Social & Behavioral Sciences: Second Edition* (pp. 504--508). Elsevier Inc. [Read Here](https://doi.org/10.1016/B978-0-08-097086-8.93086-1)
   + Hooghe, M., Hosch-Dayican, B., & van Deth, J. W. (2014). Conceptualizing Political Participation. *Acta Politica*, *49*(3), 337--348. [Read Here](https://doi.org/10.1057/ap.2014.7)
+  + Campbell, David E. 2013. “Social Networks and Political Participation.” Annual Review of Political Science (16): 33–48. [Read Here](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-033011-201728)
 
 ### Books
   + Verba, S., & Nie, N. H. (1987). *Participation in America: Political Democracy and Social Equality*. University of Chicago Press.
@@ -189,6 +193,8 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Lipsitz, K., Trost, C., Grossmann, M., & Sides, J. (2005). What Voters Want From Political Campaign Communication. *Political Communication*, *22*(3), 337--354. [Read Here](https://doi.org/10.1080/10584600591006609)
   + Gelman, Andrew, Sharad Goel, Douglas Rivers, and David Rothschild. 2016. “The Mythical Swing Voter.” Quarterly Journal of Political Science 11(1): 103–130. http://www.nowpublishers.com/article/Details/QJPS-15031.
   + Stephens-Dougan, L. (2021). The Persistence of Racial Cues and Appeals in American Elections. *Https://Doi.Org/10.1146/Annurev-Polisci-082619-015522*, *24*, 301--320.
+  + Druckman, James N., Martin J. Kifer, and Michael Parkin. 2020. “Campaign Rhetoric and the Incumbency Advantage.” American Politics Research 48(1): 22–43. [Read Here](http://journals.sagepub.com/doi/10.1177/1532673X18822314)
+
 
 ### Books
   + Sides, J., Tesler, M., & Vavreck, L. (2019). *Identity Crisis*. Princeton University Press.
@@ -302,6 +308,9 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Delli Carpini, M. X. (Ed.). (2019). *Digital Media and Democratic Futures*. University of Pennsylvania Press.
   + Arceneaux, K., & Johnson, M. (2013). *Changing Minds or Changing Channels?: Partisan News in an Age of Choice*. University of Chicago Press.
   + O'Connor, Cailin, and James Owen Weatherall. 2020. *The Misinformation Age: How False Beliefs Spread*. Yale University Press.
+  + Hopkins, Daniel J., Eunji Kim, and Soojong Kim. 2017. “Does newspaper coverage influence or reflect public perceptions of the economy?” Research & Politics 4(4): 2053168017737900. [Read Here](https://doi.org/10.1177/2053168017737900)
+  + Wlezien, Christopher, and Stuart Soroka. 2023. “Media Reflect! Policy, the Public, and the News.” American Political Science Review: 1–7. [Read Here](https://www.cambridge.org/core/journals/american-political-science-review/article/media-reflect-policy-the-public-and-the-news/3BA7DD4A001E03748357F35A01562217)
+
 
 ## Courts and Election Law
   + Gelman, A., & King, G. (1994). Enhancing Democracy Through Legislative Redistricting. American Political Science Review, 88(3), 541--559. [Read Here](https://doi.org/10.2307/2944794)
