@@ -277,9 +277,9 @@ Class will be organized under several general topics, ranging from theory and de
   + Lee, Frances E. 2016. Insecure Majorities: Congress and the Perpetual Campaign. Chicago, IL: University of Chicago Press.
     * Chapter 1. The Ins versus the Outs (EVERYONE)
   + Dalton, R. J. (2016). Party Identification and Its Implications. In Oxford Research Encyclopedia of Politics. Oxford University Press. (Arina)
-  + Lee, F. E. (2015). How Party Polarization Affects Governance. *Annual Review of Political Science*, *18*(1), 261--282. (STUDENT)
+  + Lee, F. E. (2015). How Party Polarization Affects Governance. *Annual Review of Political Science*, *18*(1), 261--282. (Kiki)
   + Abramowitz, A. I., & Webster, S. W. (2018). Negative Partisanship: Why Americans Dislike Parties But Behave Like Rabid Partisans. Political Psychology, 39(S1), 119--135. (Graham)
-  + Pierson, Paul, and Eric Schickler. 2020. “Madison’s Constitution Under Stress: A Developmental Analysis of Political Polarization.” Annual Review of Political Science 23(1): 37–58.(STUDENT)
+  + Pierson, Paul, and Eric Schickler. 2020. “Madison’s Constitution Under Stress: A Developmental Analysis of Political Polarization.” Annual Review of Political Science 23(1): 37–58.(Jesse)
 
 - **Thursday, October 26**:
   + Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The Origins and Consequences of Affective Polarization in the United States. Annual Review of Political Science, 22, 129--146. [Read Here](https://doi.org/10.1146/annurev-polisci-051117-073034) (EVERYONE)
