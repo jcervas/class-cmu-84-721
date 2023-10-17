@@ -93,7 +93,6 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Bankert, A. (2020). Partisan Identity and Political Decision Making. In Oxford Research Encyclopedia of Politics. Oxford University Press.
   + Abramowitz, A., & McCoy, J. (2019). United States: Racial Resentment, Negative Partisanship, and Polarization in Trump's America. *Annals of the American Academy of Political and Social Science*, *681*(1), 137--156. [Read Here](https://doi.org/10.1177/0002716218811309)
   + Stewart, A. J., Plotkin, J. B., & McCarty, N. (2021). Inequality, identity, and partisanship: How redistribution can stem the tide of mass polarization. *Proceedings of the National Academy of Sciences of the United States of America*, *118*(50), e2102140118. [Read Here](https://doi.org/10.1073/PNAS.2102140118/SUPPL_FILE/PNAS.2102140118.SAPP.PDF)
-  + FOWLER, A., HILL, S. J., LEWIS, J. B., TAUSANOVITCH, C., VAVRECK, L., & WARSHAW, C. (2022). Moderates. *American Political Science Review*, 1--18. [Read Here](https://doi.org/10.1017/S0003055422000818)
   + Goren, P. (2005). Party Identification and Core Political Values. *American Journal of Political Science*, *49*(4), 881--896. [Read Here](https://doi.org/10.1111/j.1540-5907.2005.00161.x)
   + Elder, E. M., & O'brian, N. A. (2022). Social Groups as the Source of Political Belief Systems: Fresh Evidence on an Old Theory. *American Political Science Review*, 1--18. [Read Here](https://doi.org/10.1017/S0003055422000326)
   + Fiorina, M. P. (2016). Has the American Public Polarized? A Hoover Institution Essay on Contemporary American Politics, Ser, 2. [Read Here](https://www.hoover.org/research/has-american-public-polarized)
@@ -101,6 +100,9 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Binder, S. (2015). The Dysfunctional Congress. *Annual Review of Political Science*, *18*(1), 85--101. [Read Here](https://doi.org/10.1146/annurev-polisci-110813-032156)
   + Stewart, Alexander J., Joshua B. Plotkin, and Nolan McCarty. 2021. “Inequality, identity, and partisanship: How redistribution can stem the tide of mass polarization.” Proceedings of the National Academy of Sciences 118(50): e2102140118. https://pnas.org/doi/full/10.1073/pnas.2102140118
   + Johnston, Richard. 2006. “PARTY IDENTIFICATION: Unmoved Mover or Sum of Preferences?” Annual Review of Political Science 9(1): 329–351. [Read Here](https://doi.org/10.1146/annurev.polisci.9.062404.170523)
+  + Ahler, Douglas J., and David E. Broockman. 2018. “The Delegate Paradox: Why Polarized Politicians Can Represent Citizens Best.” The Journal of Politics 80(4): 1117–1133. [Read Here](https://www.journals.uchicago.edu/doi/abs/10.1086/698755)
+  + + FOWLER, A., HILL, S. J., LEWIS, J. B., TAUSANOVITCH, C., VAVRECK, L., & WARSHAW, C. (2022). Moderates. *American Political Science Review*, 1--18. [Read Here](https://doi.org/10.1017/S0003055422000818)
+  + + David Broockman and Benjamin Lauderdale. (working paper). “Moderates.” [Read Here](https://osf.io/ma2fs/)
 
 
 ### Books
