@@ -58,7 +58,7 @@ _[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)_
 | October 1, 2023 (Sunday)    | Return peer review to your classmate           |
 | October 8, 2023 (Sunday)    | Final Draft of op-ed due                       |
 | October 18 & 20, 2023       | Fall Break                                     |
-| October 28, 2023 (Tuesday)  | Book review papers due; topic selection for area specialization |
+| October 28, 2023 (Saturday) | Book review papers due; topic selection for area specialization |
 | November 7, 2023 (Tuesday)  | Election Day, no class                         |
 | November 23, 2023 (Thursday)| Thanksgiving break, no class                   |
 | December 7, 2023 (Thursday) | Last Day of class                              |
@@ -286,6 +286,8 @@ Class will be organized under several general topics, ranging from theory and de
   + Prior, Markus. 2013. "Media and Political Polarization." *Annual Review of Political Science* 16(1): 101--27. [Read Here](http://www.annualreviews.org/doi/10.1146/annurev-polisci-100711-135242). (EVERYONE)
   + Dalton, R. J. (2020). The Blinders of Partisanship. In Research Handbook on Political Partisanship (pp. 74--88). (EVERYONE)
 
+October 28, 2023: **_Book Review Final Draft Due_**
+
 ### Political Participation
 
 - **Tuesday, October 31**:
@@ -338,7 +340,6 @@ Class will be organized under several general topics, ranging from theory and de
     * Chapter 11. Conclusion (EVERYONE)
 
 - **Tuesday, November 21**:
-  + **_Book Review Final Draft Due_**
   + Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.
     * Chapter 1. The New American Minority (EVERYONE)
     * Chapter 2. Making the Invisible Visible (STUDENT)
