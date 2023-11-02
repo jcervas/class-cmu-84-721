@@ -303,7 +303,7 @@ October 28, 2023: **_Book Review Final Draft Due_**
   + Schlozman et al., Unequal and Unrepresented
     * Chapter 7. Social Movements and Ordinary Recruitment (Elijah)
     * Chapter 8. Who Sings in the Heavenly Chorus? The Shape of the Organized Interest System (with Philip E. Jones) (Amor)
-    * Chapter 9. Representing Interests through Organizational Activity (with Philip E. Jones) (STUDENT)
+    * Chapter 9. Representing Interests through Organizational Activity (with Philip E. Jones) (Matt)
     * Chapter 10. Growing Economic Inequality and Its (Partially) Political Roots (Graham)
     * Chapter 11. Has It Always Been This Way? (Jesse)
     * Chapter 12. Can We Do Anything about It? (Jaykob)
