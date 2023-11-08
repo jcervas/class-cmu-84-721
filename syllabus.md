@@ -329,7 +329,7 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 3. Preferences: Partisanship and Ideology in State Publics (Anthony)
     * Chapter 4. Policies: The Outputs of State Government (Anthony)
     * Chapter 5. Parties: The Policy Effects of Party Control (STUDENT)
-    * Chapter 6. Elections: Selection, Incentives, and Feedback (STUDENT)
+    * Chapter 6. Elections: Selection, Incentives, and Feedback (Jesse)
 
 - **Thursday, November 16**:
   + Caughey and Warshaw, Dynamic Democracy
