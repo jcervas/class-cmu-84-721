@@ -328,7 +328,7 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 2. Measurement: Public Opinion and State Policy (Matt)
     * Chapter 3. Preferences: Partisanship and Ideology in State Publics (Anthony)
     * Chapter 4. Policies: The Outputs of State Government (Anthony)
-    * Chapter 5. Parties: The Policy Effects of Party Control (STUDENT)
+    * Chapter 5. Parties: The Policy Effects of Party Control (Jaykob)
     * Chapter 6. Elections: Selection, Incentives, and Feedback (Jesse)
 
 - **Thursday, November 16**:
