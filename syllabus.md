@@ -362,11 +362,11 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 2. A Theory of Behavioral Path Dependence (EVERYONE)
     * Chapter 3. How Slavery Predicts White Political Attitudes Today (EVERYONE)
     * Chapter 4. An Alternative Account: Contemporary Demographics and Racial Threat (EVERYONE)
-    * Chapter 5. Antebellum Politics of Slavery and Race in the South (STUDENT)
+    * Chapter 5. Antebellum Politics of Slavery and Race in the South (Amor)
 
 - **Thursday, November 30**:
   + Acharya et al., Deep Roots
-    * Chapter 6. Emancipation as a Critical Juncture and the Timing of Divergence (STUDENT)
+    * Chapter 6. Emancipation as a Critical Juncture and the Timing of Divergence (Elijah)
     * Chapter 7. Persistence and the Mechanisms of Reproduction (STUDENT)
     * Chapter 8. Interventions and Attenuation (STUDENT)
     * Conclusion: What Lessons Can We Draw from Southern Slavery? (EVERYONE)
