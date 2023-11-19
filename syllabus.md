@@ -340,7 +340,8 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 11. Conclusion (EVERYONE)
 
 - **Tuesday, November 21**:
-  + Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.
+- UPDATE: NO CLASS
+  + ~~Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.~~
     * Chapter 1. The New American Minority (EVERYONE)
     * Chapter 2. Making the Invisible Visible (STUDENT)
     * Chapter 3. The Measurement and Meaning of Group Ties (STUDENT)
@@ -348,7 +349,7 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 5. The Content and Contours of Whiteness (STUDENT)
     * Chapter 6. The Preservation of Whiteness (STUDENT)
     * Chapter 7. Policies that Protect the Group (STUDENT)
-    * Chapter 8. A Black Man in the White House (Elijah)
+    * Chapter 8. A Black Man in the White House (STUDENT)
     * Chapter 9. The Future of White America (EVERYONE)
 
 
