@@ -374,7 +374,7 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 9. The Future of White America (EVERYONE)
 
 - **Tuesday, December 5**:
-  + Grumbach, Jacob. 2022. Laboratories against Democracy Laboratories against Democracy: How National Parties Transformed State Politics. Princeton University Press.
+  + Grumbach, Jacob. 2022. Laboratories against Democracy: How National Parties Transformed State Politics. Princeton University Press.
     * Preface (EVERYONE)
     * The Crises of 2020 (EVERYONE)
     * Chapter 1. Introduction (EVERYONE)
