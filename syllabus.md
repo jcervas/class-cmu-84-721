@@ -339,19 +339,17 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 10. Reforms: Improving American Democracy (Ammu)
     * Chapter 11. Conclusion (EVERYONE)
 
-- **Tuesday, November 21**:
-- UPDATE: NO CLASS
+- **Tuesday, November 21**: UPDATE: NO CLASS
   + ~~Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.~~
-    * Chapter 1. The New American Minority (EVERYONE)
-    * Chapter 2. Making the Invisible Visible (STUDENT)
-    * Chapter 3. The Measurement and Meaning of Group Ties (STUDENT)
-    * Chapter 4. Who Identifies as White? (STUDENT)
-    * Chapter 5. The Content and Contours of Whiteness (STUDENT)
-    * Chapter 6. The Preservation of Whiteness (STUDENT)
-    * Chapter 7. Policies that Protect the Group (STUDENT)
-    * Chapter 8. A Black Man in the White House (STUDENT)
-    * Chapter 9. The Future of White America (EVERYONE)
-
+    * ~~Chapter 1. The New American Minority (EVERYONE)~~
+    * ~~Chapter 2. Making the Invisible Visible (STUDENT)~~
+    * ~~Chapter 3. The Measurement and Meaning of Group Ties (STUDENT)~~
+    * ~~Chapter 4. Who Identifies as White? (STUDENT)~~
+    * ~~Chapter 5. The Content and Contours of Whiteness (STUDENT)~~
+    * ~~Chapter 6. The Preservation of Whiteness (STUDENT)~~
+    * ~~Chapter 7. Policies that Protect the Group (STUDENT)~~
+    * ~~Chapter 8. A Black Man in the White House (STUDENT)~~
+    * ~~Chapter 9. The Future of White America (EVERYONE)~~
 
 - **Thursday, November 23** - Thanksgiving Day, no class
 
@@ -371,15 +369,18 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 7. Persistence and the Mechanisms of Reproduction (STUDENT)
     * Chapter 8. Interventions and Attenuation (STUDENT)
     * Conclusion: What Lessons Can We Draw from Southern Slavery? (EVERYONE)
+  + Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.
+    * Chapter 1. The New American Minority (EVERYONE)
+    * Chapter 9. The Future of White America (EVERYONE)
+
+- **Tuesday, December 5**:
   + Grumbach, Jacob. 2022. Laboratories against Democracy Laboratories against Democracy: How National Parties Transformed State Politics. Princeton University Press.
     * Preface (EVERYONE)
     * The Crises of 2020 (EVERYONE)
     * Chapter 1. Introduction (EVERYONE)
     * Chapter 9. Conclusion (EVERYONE)
-
-- **Tuesday, December 5**:
-  + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (EVERYONE)
-  + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (EVERYONE)
+  + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (STUDENT)
+  + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (STUDENT)
   + Balfour, Lawrie. 2023. “The Politics of Reparations for Black Americans.” Annual Review of Political Science 26(1): 291–304. [Read Here](https://doi.org/10.1146/annurev-polisci-062521-090002) (STUDENT)
   + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (Ammu)
   + Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. [Read Here](https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19) (Elijah)
