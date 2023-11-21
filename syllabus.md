@@ -356,24 +356,24 @@ October 28, 2023: **_Book Review Final Draft Due_**
 ### Race and Ethnic Politics
 
 - **Tuesday, November 28**
+  + Caughey and Warshaw, Dynamic Democracy (**Presentations**)
+
+- **Thursday, November 30**:
   + Acharya, Avidit, Matthew Blackwell, and Maya Sen. 2018. Deep Roots. Princeton University Press.
     * Chapter 1. Introduction (EVERYONE)
     * Chapter 2. A Theory of Behavioral Path Dependence (EVERYONE)
     * Chapter 3. How Slavery Predicts White Political Attitudes Today (EVERYONE)
     * Chapter 4. An Alternative Account: Contemporary Demographics and Racial Threat (EVERYONE)
     * Chapter 5. Antebellum Politics of Slavery and Race in the South (Amor)
-
-- **Thursday, November 30**:
-  + Acharya et al., Deep Roots
     * Chapter 6. Emancipation as a Critical Juncture and the Timing of Divergence (Elijah)
     * Chapter 7. Persistence and the Mechanisms of Reproduction (STUDENT)
     * Chapter 8. Interventions and Attenuation (STUDENT)
     * Conclusion: What Lessons Can We Draw from Southern Slavery? (EVERYONE)
+
+- **Tuesday, December 5**:
   + Jardina, Ashley. 2019. White Identity Politics. Cambridge: Cambridge University Press.
     * Chapter 1. The New American Minority (EVERYONE)
     * Chapter 9. The Future of White America (EVERYONE)
-
-- **Tuesday, December 5**:
   + Grumbach, Jacob. 2022. Laboratories against Democracy: How National Parties Transformed State Politics. Princeton University Press.
     * Preface (EVERYONE)
     * The Crises of 2020 (EVERYONE)
@@ -381,10 +381,8 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 9. Conclusion (EVERYONE)
   + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (STUDENT)
   + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (STUDENT)
-  + Balfour, Lawrie. 2023. “The Politics of Reparations for Black Americans.” Annual Review of Political Science 26(1): 291–304. [Read Here](https://doi.org/10.1146/annurev-polisci-062521-090002) (STUDENT)
   + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (Ammu)
   + Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. [Read Here](https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19) (Elijah)
-  + Jardina, Ashley, and Spencer Piston. 2023. “The Politics of Racist Dehumanization in the United States.” Annual Review of Political Science 26(1): 369–388. [Read Here](https://doi.org/10.1146/annurev-polisci-062321-041446) (STUDENT)
 
 ### Election Law
 
