@@ -366,8 +366,8 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * Chapter 4. An Alternative Account: Contemporary Demographics and Racial Threat (EVERYONE)
     * Chapter 5. Antebellum Politics of Slavery and Race in the South (Amor)
     * Chapter 6. Emancipation as a Critical Juncture and the Timing of Divergence (Elijah)
-    * Chapter 7. Persistence and the Mechanisms of Reproduction (STUDENT)
-    * Chapter 8. Interventions and Attenuation (STUDENT)
+    * Chapter 7. Persistence and the Mechanisms of Reproduction (Seth)
+    * Chapter 8. Interventions and Attenuation (Allison)
     * Conclusion: What Lessons Can We Draw from Southern Slavery? (EVERYONE)
 
 - **Tuesday, December 5**:
@@ -379,8 +379,8 @@ October 28, 2023: **_Book Review Final Draft Due_**
     * The Crises of 2020 (EVERYONE)
     * Chapter 1. Introduction (EVERYONE)
     * Chapter 9. Conclusion (EVERYONE)
-  + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (STUDENT)
-  + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (STUDENT)
+  + Lenz, Gabriel. 2018. “Time for a Change.” Critical Review 30(1–2): 87–106. [Read Here](https://www.tandfonline.com/doi/full/10.1080/08913811.2018.1470859)) (Seth)
+  + Gilens, Martin. 2023. “Race, gender, and partisan politics in the United States.” Proceedings of the National Academy of Sciences 120(25): e2307714120. [Read Here](https://www.pnas.org/doi/abs/10.1073/pnas.2307714120)) (Allison)
   + Wong, Janelle S., and Karthick Ramakrishnan. 2023. “Asian Americans and the Politics of the Twenty-First Century.” Annual Review of Political Science 26(1): 305–323. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-070621-032538) (Ammu)
   + Slaughter, Christine, Chaya Crowder, and Christina Greer. 2023. “Black Women: Keepers of Democracy, the Democratic Process, and the Democratic Party.” Politics & Gender: 1–20. [Read Here](https://www.cambridge.org/core/journals/politics-and-gender/article/black-women-keepers-of-democracy-the-democratic-process-and-the-democratic-party/8372A741075812D0AC7ACDDA5C871E19) (Elijah)
 
@@ -389,7 +389,7 @@ October 28, 2023: **_Book Review Final Draft Due_**
 - **Thursday, December 7**
   + Hasen, Richard L. 2019. “Polarization and the Judiciary.” Annual Review of Political Science 22(1): 261–276. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141) (EVERYONE)
   + McGhee, Eric. 2020. “Partisan Gerrymandering and Political Science.” Annual Review of Political Science 23(1): 171–185. [Read Here](https://doi.org/10.1146/annurev-polisci-060118-045351) (EVERYONE)
-  + Hasen, R. L. (2020). The Supreme Court's Pro-Partisanship Turn. *The Georgetown Law Journal*, *109*, 50--80. [Read Here](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2020/07/Hasen-The-Supreme-Court’s-Pro-Partisanship-Turn.pdf) (STUDENT)
+  + Hasen, R. L. (2020). The Supreme Court's Pro-Partisanship Turn. *The Georgetown Law Journal*, *109*, 50--80. [Read Here](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2020/07/Hasen-The-Supreme-Court’s-Pro-Partisanship-Turn.pdf) (Seth)
   + Hasen, Richard L. 2022. “Identifying and Minimizing the Risk of Election Subversion and Stolen Elections in the Contemporary United States.” Harvard Law Review Forum 135: 265–301. [Read Here](https://harvardlawreview.org/forum/no-volume/identifying-and-minimizing-the-risk-of-election-subversion-and-stolen-elections-in-the-contemporary-united-states/) (STUDENT)
   + Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67(1): 89–149. [Read Here](https://scholarship.law.vanderbilt.edu/vlr/vol67/iss1/1/) (Anthony)
 
