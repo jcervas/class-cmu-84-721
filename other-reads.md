@@ -268,6 +268,7 @@ Please suggest additional readings that would be useful, or better ways of divid
   + Cadava, Geraldo. 2023. “The Rise of Latino White Supremacy.” The New Yorker. https://www.newyorker.com/news/daily-comment/the-rise-of-latino-white-supremacy.
   + “Race and Representation in Campaign Finance | American Political Science Review | Cambridge Core.” [Read Here](https://www.cambridge.org/core/journals/american-political-science-review/article/race-and-representation-in-campaign-finance/D954D2B6ACC3CCF36E15D241365365FF)
   + Butcher, Jordan, and Noah Haynes. “Already Gone: Retaining Women in State Legislatures.” Legislative Studies Quarterly n/a(n/a). [Read Here](https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12435)
+  + GRUMBACH, J., & SAHN, A. (2020). Race and Representation in Campaign Finance. American Political Science Review, 114(1), 206-221. doi:10.1017/S0003055419000637
 
 ### Books
   + Boykin, K. (2021). *Race Against Time: The Politics of a Darkening America*. Bold Type Books.
@@ -312,7 +313,6 @@ Please suggest additional readings that would be useful, or better ways of divid
   + O'Connor, Cailin, and James Owen Weatherall. 2020. *The Misinformation Age: How False Beliefs Spread*. Yale University Press.
   + Hopkins, Daniel J., Eunji Kim, and Soojong Kim. 2017. “Does newspaper coverage influence or reflect public perceptions of the economy?” Research & Politics 4(4): 2053168017737900. [Read Here](https://doi.org/10.1177/2053168017737900)
   + Wlezien, Christopher, and Stuart Soroka. 2023. “Media Reflect! Policy, the Public, and the News.” American Political Science Review: 1–7. [Read Here](https://www.cambridge.org/core/journals/american-political-science-review/article/media-reflect-policy-the-public-and-the-news/3BA7DD4A001E03748357F35A01562217)
-
 
 ## Courts and Election Law
   + Gelman, A., & King, G. (1994). Enhancing Democracy Through Legislative Redistricting. American Political Science Review, 88(3), 541--559. [Read Here](https://doi.org/10.2307/2944794)
