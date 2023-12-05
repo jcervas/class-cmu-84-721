@@ -387,8 +387,8 @@ October 28, 2023: **_Book Review Final Draft Due_**
 ### Election Law
 
 - **Thursday, December 7**
-  + Hasen, Richard L. 2019. “Polarization and the Judiciary.” Annual Review of Political Science 22(1): 261–276. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141) (EVERYONE)
-  + McGhee, Eric. 2020. “Partisan Gerrymandering and Political Science.” Annual Review of Political Science 23(1): 171–185. [Read Here](https://doi.org/10.1146/annurev-polisci-060118-045351) (EVERYONE)
+  + Hasen, Richard L. 2019. “Polarization and the Judiciary.” Annual Review of Political Science 22(1): 261–276. [Read Here](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141) ()
+  + McGhee, Eric. 2020. “Partisan Gerrymandering and Political Science.” Annual Review of Political Science 23(1): 171–185. [Read Here](https://doi.org/10.1146/annurev-polisci-060118-045351) ()
   + Hasen, R. L. (2020). The Supreme Court's Pro-Partisanship Turn. *The Georgetown Law Journal*, *109*, 50--80. [Read Here](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2020/07/Hasen-The-Supreme-Court’s-Pro-Partisanship-Turn.pdf) (Seth)
   + Hasen, Richard L. 2022. “Identifying and Minimizing the Risk of Election Subversion and Stolen Elections in the Contemporary United States.” Harvard Law Review Forum 135: 265–301. [Read Here](https://harvardlawreview.org/forum/no-volume/identifying-and-minimizing-the-risk-of-election-subversion-and-stolen-elections-in-the-contemporary-united-states/) (STUDENT)
   + Douglas, Joshua A. 2014. “The Right to Vote Under State Constitutions.” Vanderbilt Law Review 67(1): 89–149. [Read Here](https://scholarship.law.vanderbilt.edu/vlr/vol67/iss1/1/) (Anthony)
